@@ -38,5 +38,11 @@
       <pubDate>Tue, 13 Jun 2023 19:40:04 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_data_augmentation_approaches_for_source_code_models_a_survey.mp3" type="audio/mp3" length="1183296"/>
     </item>
+    <item>
+      <title>Title Operator Learning with Neural Fields Tackling PDEs on General Geometries</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2306.07266v1</description>
+      <pubDate>Tue, 13 Jun 2023 19:40:52 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_operator_learning_with_neural_fields_tackling_pdes_on_general_geometries.mp3" type="audio/mp3" length="1065216"/>
+    </item>
   </channel>
 </rss>
