@@ -14,5 +14,11 @@
     <ns0:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
     <ns0:category text="Technology"/>
     <ns0:explicit>no</ns0:explicit>
+    <item>
+      <title>Title Controlling Text to Image Diffusion by Orthogonal Finetuning</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2306.07280v1</description>
+      <pubDate>Tue, 13 Jun 2023 19:35:46 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_controlling_text_to_image_diffusion_by_orthogonal_finetuning.mp3" type="audio/mp3" length="1038144"/>
+    </item>
   </channel>
 </rss>
