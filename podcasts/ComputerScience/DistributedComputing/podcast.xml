@@ -32,5 +32,11 @@
       <pubDate>Wed, 14 Jun 2023 07:03:43 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_efficient_gpu_implementation_of_a_class_of_array_permutations.mp3" type="audio/mp3" length="1348512"/>
     </item>
+    <item>
+      <title>Title FLEdge Benchmarking Federated Machine Learning Applications in Edge Computing Systems</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2306.05172v2</description>
+      <pubDate>Wed, 14 Jun 2023 07:05:17 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_fledge_benchmarking_federated_machine_learning_applications_in_edge_computing_systems.mp3" type="audio/mp3" length="21216"/>
+    </item>
   </channel>
 </rss>
