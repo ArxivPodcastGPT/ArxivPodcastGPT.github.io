@@ -32,5 +32,11 @@
       <pubDate>Wed, 14 Jun 2023 08:55:37 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_parting_with_misconceptions_about_learning_based_vehicle_motion_planning.mp3" type="audio/mp3" length="33888"/>
     </item>
+    <item>
+      <title>Title How to Reuse and Compose Knowledge for a Lifetime of Tasks A Survey on Continual Learning and Functional Composition</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2207.07730v2</description>
+      <pubDate>Wed, 14 Jun 2023 08:58:55 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_how_to_reuse_and_compose_knowledge_for_a_lifetime_of_tasks_a_survey_on_continual_learning_and_functional_composition.mp3" type="audio/mp3" length="1477152"/>
+    </item>
   </channel>
 </rss>
