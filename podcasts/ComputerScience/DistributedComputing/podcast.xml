@@ -20,5 +20,11 @@
       <pubDate>Wed, 14 Jun 2023 06:59:06 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_asynchronous_fully_decentralized_sgd_in_the_cluster_based_model.mp3" type="audio/mp3" length="962016"/>
     </item>
+    <item>
+      <title>Title Expanding the Scope of DAWN A Novel Version for Weighted Shortest Path Problem</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2306.07872v1</description>
+      <pubDate>Wed, 14 Jun 2023 07:01:11 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_expanding_the_scope_of_dawn_a_novel_version_for_weighted_shortest_path_problem.mp3" type="audio/mp3" length="816864"/>
+    </item>
   </channel>
 </rss>
