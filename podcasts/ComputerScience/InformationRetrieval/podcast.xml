@@ -20,5 +20,11 @@
       <pubDate>Wed, 14 Jun 2023 07:12:23 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_towards_open_world_feature_extrapolation_an_inductive_graph_learning_approach.mp3" type="audio/mp3" length="929760"/>
     </item>
+    <item>
+      <title>Title Best Case Retrieval Evaluation Improving the Sensitivity of Reciprocal Rank with Lexicographic Precision</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2306.07908v1</description>
+      <pubDate>Wed, 14 Jun 2023 07:15:19 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_best_case_retrieval_evaluation_improving_the_sensitivity_of_reciprocal_rank_with_lexicographic_precision.mp3" type="audio/mp3" length="977376"/>
+    </item>
   </channel>
 </rss>
