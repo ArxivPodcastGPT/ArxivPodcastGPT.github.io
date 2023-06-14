@@ -38,5 +38,11 @@
       <pubDate>Wed, 14 Jun 2023 07:05:17 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_fledge_benchmarking_federated_machine_learning_applications_in_edge_computing_systems.mp3" type="audio/mp3" length="21216"/>
     </item>
+    <item>
+      <title>Title GQFedWAvg Optimization Based Quantized Federated Learning in General Edge Computing Systems</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2306.07497v1</description>
+      <pubDate>Wed, 14 Jun 2023 07:07:32 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_gqfedwavg_optimization_based_quantized_federated_learning_in_general_edge_computing_systems.mp3" type="audio/mp3" length="1106688"/>
+    </item>
   </channel>
 </rss>
