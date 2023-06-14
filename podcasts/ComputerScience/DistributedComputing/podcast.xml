@@ -26,5 +26,11 @@
       <pubDate>Wed, 14 Jun 2023 07:01:11 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_expanding_the_scope_of_dawn_a_novel_version_for_weighted_shortest_path_problem.mp3" type="audio/mp3" length="816864"/>
     </item>
+    <item>
+      <title>Title Efficient GPU implementation of a class of array permutations</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2306.07795v1</description>
+      <pubDate>Wed, 14 Jun 2023 07:03:43 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_efficient_gpu_implementation_of_a_class_of_array_permutations.mp3" type="audio/mp3" length="1348512"/>
+    </item>
   </channel>
 </rss>
