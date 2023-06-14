@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Arxiv Podcast GPT CS AI</title>
+    <title>Arxiv Podcast GPT CS Distributed Computing</title>
     <link>https://ArxivPodcastGPT.github.io/</link>
     <language>en-us</language>
-    <description>ChatGPT generated podcasts based on Arxiv Computer Science AI papers</description>
+    <description>ChatGPT generated podcasts based on Arxiv Computer Science Distributed Computing papers</description>
     <ns0:author>Jonathan Grant</ns0:author>
-    <ns0:summary>AI Generated Podcasts</ns0:summary>
+    <ns0:summary>ChatGPT generated podcasts based on Arxiv Computer Science Distributed Computing papers</ns0:summary>
     <ns0:owner>
       <ns0:name>Jonathan Grant</ns0:name>
       <ns0:email>jonathanallengrant@gmail.com</ns0:email>
