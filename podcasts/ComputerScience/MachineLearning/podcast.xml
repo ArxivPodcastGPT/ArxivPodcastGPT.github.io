@@ -38,5 +38,11 @@
       <pubDate>Wed, 14 Jun 2023 08:58:55 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_how_to_reuse_and_compose_knowledge_for_a_lifetime_of_tasks_a_survey_on_continual_learning_and_functional_composition.mp3" type="audio/mp3" length="1477152"/>
     </item>
+    <item>
+      <title>Title Differentiating Metropolis Hastings to Optimize Intractable Densities</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2306.07961v1</description>
+      <pubDate>Wed, 14 Jun 2023 09:00:32 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_differentiating_metropolis_hastings_to_optimize_intractable_densities.mp3" type="audio/mp3" length="721440"/>
+    </item>
   </channel>
 </rss>
