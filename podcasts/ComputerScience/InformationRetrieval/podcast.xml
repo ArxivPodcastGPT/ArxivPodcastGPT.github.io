@@ -14,5 +14,11 @@
     <ns0:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
     <ns0:category text="Technology"/>
     <ns0:explicit>no</ns0:explicit>
+    <item>
+      <title>Title Towards Open World Feature Extrapolation An Inductive Graph Learning Approach</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2110.04514v2</description>
+      <pubDate>Wed, 14 Jun 2023 07:12:23 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_towards_open_world_feature_extrapolation_an_inductive_graph_learning_approach.mp3" type="audio/mp3" length="929760"/>
+    </item>
   </channel>
 </rss>
