@@ -14,5 +14,11 @@
     <ns0:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
     <ns0:category text="Technology"/>
     <ns0:explicit>no</ns0:explicit>
+    <item>
+      <title>Title Asynchronous Fully Decentralized SGD in the Cluster Based Model</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2202.10862v3</description>
+      <pubDate>Wed, 14 Jun 2023 06:59:06 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_asynchronous_fully_decentralized_sgd_in_the_cluster_based_model.mp3" type="audio/mp3" length="962016"/>
+    </item>
   </channel>
 </rss>
