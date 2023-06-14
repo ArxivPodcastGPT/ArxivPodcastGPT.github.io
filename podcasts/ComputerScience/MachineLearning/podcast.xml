@@ -14,5 +14,11 @@
     <ns0:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
     <ns0:category text="Technology"/>
     <ns0:explicit>no</ns0:explicit>
+    <item>
+      <title>Title GeneCIS A Benchmark for General Conditional Image Similarity</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2306.07969v1</description>
+      <pubDate>Wed, 14 Jun 2023 08:52:15 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_genecis_a_benchmark_for_general_conditional_image_similarity.mp3" type="audio/mp3" length="985824"/>
+    </item>
   </channel>
 </rss>
