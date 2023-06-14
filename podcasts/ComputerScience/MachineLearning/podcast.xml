@@ -26,5 +26,11 @@
       <pubDate>Wed, 14 Jun 2023 08:54:06 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_one_for_all_generalized_lora_for_parameter_efficient_fine_tuning.mp3" type="audio/mp3" length="792576"/>
     </item>
+    <item>
+      <title>Title Parting with Misconceptions about Learning based Vehicle Motion Planning</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2306.07962v1</description>
+      <pubDate>Wed, 14 Jun 2023 08:55:37 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_parting_with_misconceptions_about_learning_based_vehicle_motion_planning.mp3" type="audio/mp3" length="33888"/>
+    </item>
   </channel>
 </rss>
