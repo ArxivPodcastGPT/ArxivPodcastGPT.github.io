@@ -20,5 +20,11 @@
       <pubDate>Wed, 14 Jun 2023 08:52:15 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_genecis_a_benchmark_for_general_conditional_image_similarity.mp3" type="audio/mp3" length="985824"/>
     </item>
+    <item>
+      <title>Title One for All Generalized LoRA for Parameter Efficient Fine tuning</title>
+      <description>ChatGPT generated podcast using model='gpt-3.5-turbo-16k' for https://arxiv.org/abs/2306.07967v1</description>
+      <pubDate>Wed, 14 Jun 2023 08:54:06 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/title_one_for_all_generalized_lora_for_parameter_efficient_fine_tuning.mp3" type="audio/mp3" length="792576"/>
+    </item>
   </channel>
 </rss>
