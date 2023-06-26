@@ -14,5 +14,14 @@
     <ns0:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
     <ns0:category text="Technology"/>
     <ns0:explicit>no</ns0:explicit>
+    <item>
+      <title>cs.AI: Advancements in Machine Learning Techniques</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13649v1 Title GKD Generalized Knowledge Distillation for Auto regressive Sequence Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13630v1 Title Offline Skill Graph OSG A Framework for Learning and Planning using Offline Reinforcement Learning Skills
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2205.00701v4 Title DeepGraviLens a Multi Modal Architecture for Classifying Gravitational Lensing Data
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13614v1 Title Adversarial Robustness Certification for Bayesian Neural Networks</description>
+      <pubDate>Mon, 26 Jun 2023 10:49:52 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.ai:_advancements_in_machine_learning_techniques.mp3" type="audio/mp3" length="5703048"/>
+    </item>
   </channel>
 </rss>
