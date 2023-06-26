@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Directory</title>
+</head>
+
+<body>
+    <h1>File Directory</h1>
+    <ul id="file-list"></ul>
+
+    <script>
+        const owner = 'ArxivPodcastGPT';
+        const repo = 'ArxivPodcastGPT.github.io';
+        const apiEndpoint = `https://api.github.com/repos/${owner}/${repo}/git/trees/master?recursive=1`;
+
+        // Fetch the file and directory data from the GitHub API
+        fetch(apiEndpoint)
+            .then(response => response.json())
+            .then(data => {
+                const fileListElement = document.getElementById('file-list');
+                
+                // Filter out the directories, only showing files
+                const files = data.tree.filter(item => item.type === 'blob');
+
+                // Populate the file list
+                files.forEach(file => {
+                    const listItem = document.createElement('li');
+                    const link = document.createElement('a');
+                    link.href = `https://github.com/${owner}/${repo}/blob/master/${file.path}`;
+                    link.textContent = file.path;
+                    listItem.appendChild(link);
+                    fileListElement.appendChild(listItem);
+                });
+            })
+            .catch(error => console.error('Error fetching the file list:', error));
+    </script>
+</body>
+
+</html>
