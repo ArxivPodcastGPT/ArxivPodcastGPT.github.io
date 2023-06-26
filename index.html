@@ -29,7 +29,7 @@
                 files.forEach(file => {
                     const listItem = document.createElement('li');
                     const link = document.createElement('a');
-                    link.href = `https://github.com/${owner}/${repo}/blob/master/${file.path}`;
+                    link.href = `${file.path}`;
                     link.textContent = file.path;
                     listItem.appendChild(link);
                     fileListElement.appendChild(listItem);
