@@ -33,5 +33,14 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Mon, 26 Jun 2023 11:24:09 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.ir:_recent_research_papers_on_data_science_and_cybersecurity..mp3" type="audio/mp3" length="5553272"/>
     </item>
+    <item>
+      <title>cs.CG: Geometric Graphs and Algorithms in Shape Space Analysis and Poisoning Attacks</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2204.09020v3 Title A Sheaf Theoretic Construction of Shape Space
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13201v1 Title Decomposition of Geometric Graphs into Star Forests
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.12611v1 Title Geometric Graphs with Unbounded Flip Width
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.12377v1 Title Geometric Algorithms for k NN Poisoning</description>
+      <pubDate>Mon, 26 Jun 2023 09:58:49 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.cg:_geometric_graphs_and_algorithms_in_shape_space_analysis_and_poisoning_attacks.mp3" type="audio/mp3" length="5882664"/>
+    </item>
   </channel>
 </rss>
