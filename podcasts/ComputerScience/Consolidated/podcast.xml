@@ -80,5 +80,21 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Tue, 27 Jun 2023 00:44:52 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.hc:_diverse_studies_on_digital_systems_and_technologies..mp3" type="audio/mp3" length="10476152"/>
     </item>
+    <item>
+      <title>cs.RO: Titles:
+- Advanced Techniques and Applications in Robotics. 
+- Innovation in Robotics for Precision Agriculture. 
+- Robotics Frameworks and Solutions for Control and Perception.</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13630v1 Title Offline Skill Graph OSG A Framework for Learning and Planning using Offline Reinforcement Learning Skills
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13617v1 Title CIDGIKc Distance Geometric Inverse Kinematics for Continuum Robots
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2210.15751v2 Title Planning with Spatial Temporal Abstraction from Point Clouds for Deformable Object Manipulation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13522v1 Title Geometric Fault Tolerant Control of Quadrotors in Case of Rotor Failures An Attitude Based Comparative Study
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13518v1 Title Segmentation and Tracking of Vegetable Plants by Exploiting Vegetable Shape Feature for Precision Spray of Agricultural Robots</description>
+      <pubDate>Tue, 27 Jun 2023 00:45:12 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.ro:_titles:
+-_advanced_techniques_and_applications_in_robotics._
+-_innovation_in_robotics_for_precision_agriculture._
+-_robotics_frameworks_and_solutions_for_control_and_perception..mp3" type="audio/mp3" length="9346328"/>
+    </item>
   </channel>
 </rss>
