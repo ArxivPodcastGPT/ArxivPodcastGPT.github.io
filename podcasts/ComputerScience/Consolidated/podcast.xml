@@ -51,5 +51,14 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Tue, 27 Jun 2023 00:43:08 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.lg:_recent_advances_in_machine_learning_techniques_for_natural_language_processing_and_planning..mp3" type="audio/mp3" length="5144520"/>
     </item>
+    <item>
+      <title>cs.AI: Advancements in Machine Learning Models and Techniques</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13649v1 Title GKD Generalized Knowledge Distillation for Auto regressive Sequence Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13630v1 Title Offline Skill Graph OSG A Framework for Learning and Planning using Offline Reinforcement Learning Skills
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2205.00701v4 Title DeepGraviLens a Multi Modal Architecture for Classifying Gravitational Lensing Data
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13614v1 Title Adversarial Robustness Certification for Bayesian Neural Networks</description>
+      <pubDate>Tue, 27 Jun 2023 00:43:45 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.ai:_advancements_in_machine_learning_models_and_techniques.mp3" type="audio/mp3" length="5931048"/>
+    </item>
   </channel>
 </rss>
