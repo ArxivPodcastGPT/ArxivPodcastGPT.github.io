@@ -42,5 +42,14 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Mon, 26 Jun 2023 09:58:49 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.cg:_geometric_graphs_and_algorithms_in_shape_space_analysis_and_poisoning_attacks.mp3" type="audio/mp3" length="5882664"/>
     </item>
+    <item>
+      <title>cs.LG: Recent Advances in Machine Learning Techniques for Natural Language Processing and Planning.</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13651v1 Title Bring Your Own Data Self Supervised Evaluation for Large Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13649v1 Title GKD Generalized Knowledge Distillation for Auto regressive Sequence Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13641v1 Title A New Paradigm for Generative Adversarial Networks based on Randomized Decision Rules
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13630v1 Title Offline Skill Graph OSG A Framework for Learning and Planning using Offline Reinforcement Learning Skills</description>
+      <pubDate>Tue, 27 Jun 2023 00:43:08 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.lg:_recent_advances_in_machine_learning_techniques_for_natural_language_processing_and_planning..mp3" type="audio/mp3" length="5144520"/>
+    </item>
   </channel>
 </rss>
