@@ -60,5 +60,15 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Tue, 27 Jun 2023 00:43:45 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.ai:_advancements_in_machine_learning_models_and_techniques.mp3" type="audio/mp3" length="5931048"/>
     </item>
+    <item>
+      <title>cs.IR: Title: Diverse Approaches to Data Analysis and Security Enhancement.</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13548v1 Title Fuzzification based Feature Selection for Enhanced Website Content Encryption
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.12235v2 Title CompMix A Benchmark for Heterogeneous Question Answering
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2301.06601v3 Title A Dataset of Coordinated Cryptocurrency Related Social Media Campaigns
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13382v1 Title OptMSM Optimizing Multi Scenario Modeling for Click Through Rate Prediction
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13374v1 Title Human Activity Behavioural Pattern Recognition in Smarthome with Long hour Data Collection</description>
+      <pubDate>Tue, 27 Jun 2023 00:44:28 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.ir:_title:_diverse_approaches_to_data_analysis_and_security_enhancement..mp3" type="audio/mp3" length="7720856"/>
+    </item>
   </channel>
 </rss>
