@@ -70,5 +70,15 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Tue, 27 Jun 2023 00:44:28 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.ir:_title:_diverse_approaches_to_data_analysis_and_security_enhancement..mp3" type="audio/mp3" length="7720856"/>
     </item>
+    <item>
+      <title>cs.HC: Diverse Studies on Digital Systems and Technologies.</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13511v1 Title Onboarding Citizens to Digital Identity Systems
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13509v1 Title Exploring AI enhanced Shared Control for an Assistive Robotic Arm
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13505v1 Title Virtual Reality Sickness Reduces Attention During Immersive Experiences
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2210.16027v3 Title Extending Cobot s Motion Intention Visualization by Haptic Feedback
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2301.06601v3 Title A Dataset of Coordinated Cryptocurrency Related Social Media Campaigns</description>
+      <pubDate>Tue, 27 Jun 2023 00:44:52 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.hc:_diverse_studies_on_digital_systems_and_technologies..mp3" type="audio/mp3" length="10476152"/>
+    </item>
   </channel>
 </rss>
