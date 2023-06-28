@@ -99,5 +99,14 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Wed, 28 Jun 2023 08:34:32 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.ai:_a_compilation_of_papers_on_various_topics.mp3" type="audio/mp3" length="7829720"/>
     </item>
+    <item>
+      <title>2023-06-28 cs.RO: Advancements in Robotic Perception and Planning</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15670v1 Title Symphonize 3D Semantic Scene Completion with Contextual Instance Queries
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.06222v2 Title Robust MADER Decentralized Multiagent Trajectory Planner Robust to Communication Delay in Dynamic Environments
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15620v1 Title SCENEREPLICA Benchmarking Real World Robot Manipulation by Creating Reproducible Scenes
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15605v1 Title Deep Normalizing Flows for State Estimation</description>
+      <pubDate>Wed, 28 Jun 2023 08:34:39 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.ro:_advancements_in_robotic_perception_and_planning.mp3" type="audio/mp3" length="7410024"/>
+    </item>
   </channel>
 </rss>
