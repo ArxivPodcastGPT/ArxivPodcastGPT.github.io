@@ -108,5 +108,15 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Wed, 28 Jun 2023 08:34:39 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.ro:_advancements_in_robotic_perception_and_planning.mp3" type="audio/mp3" length="7410024"/>
     </item>
+    <item>
+      <title>2023-06-28 cs.HC: Designing Inclusive and Engaging Hybrid Event Experiences, Visualization of AI Systems in Virtual Reality, Using Large Language Models for Explanatory Feedback, Explaining Multimodal Emotion Reasoning, and Requirements for Explainability and Acceptance of AI in Collaborative Work.</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15600v1 Title Designing an Inclusive and Engaging Hybrid Event Experiences from CHIWORK
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15545v1 Title Visualization of AI Systems in Virtual Reality A Comprehensive Review
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15498v1 Title Using Large Language Models to Provide Explanatory Feedback to Human Tutors
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15401v1 Title Explainable Multimodal Emotion Reasoning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15394v1 Title Requirements for Explainability and Acceptance of Artificial Intelligence in Collaborative Work</description>
+      <pubDate>Wed, 28 Jun 2023 08:35:35 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.hc:_designing_inclusive_and_engaging_hybrid_event_experiences,_visualization_of_ai_systems_in_virtual_reality,_using_large_language_models_for_explanatory_feedback,_explaining_multimodal_emotion_reasoning,_and_requirements_for_explainability_and_acceptance_of_ai_in_collaborative_work..mp3" type="audio/mp3" length="9897656"/>
+    </item>
   </channel>
 </rss>
