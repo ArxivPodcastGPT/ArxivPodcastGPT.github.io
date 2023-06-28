@@ -118,5 +118,15 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Wed, 28 Jun 2023 08:35:35 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.hc:_designing_inclusive_and_engaging_hybrid_event_experiences,_visualization_of_ai_systems_in_virtual_reality,_using_large_language_models_for_explanatory_feedback,_explaining_multimodal_emotion_reasoning,_and_requirements_for_explainability_and_acceptance_of_ai_in_collaborative_work..mp3" type="audio/mp3" length="9897656"/>
     </item>
+    <item>
+      <title>2023-06-28 cs.LG: Enhancing Representation Learning and Efficiency in High Dimensional Tabular Data with Ensembled VAEs, SparseOptimizer, and Synthetic Data</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15661v1 Title Enhancing Representation Learning on High Dimensional Small Size Tabular Data A Divide and Conquer Method with Ensembled VAEs
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15656v1 Title SparseOptimizer Sparsify Language Models through Moreau Yosida Regularization and Accelerate through Compiler Co design
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15651v1 Title Dental CLAIRES Contrastive LAnguage Image REtrieval Search for Dental Research
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15649v1 Title Effective resistance in metric spaces
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15636v1 Title On the Usefulness of Synthetic Tabular Data Generation</description>
+      <pubDate>Wed, 28 Jun 2023 08:39:20 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.lg:_enhancing_representation_learning_and_efficiency_in_high_dimensional_tabular_data_with_ensembled_vaes,_sparseoptimizer,_and_synthetic_data.mp3" type="audio/mp3" length="8018360"/>
+    </item>
   </channel>
 </rss>
