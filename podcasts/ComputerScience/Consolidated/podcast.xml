@@ -89,5 +89,15 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Wed, 28 Jun 2023 08:32:37 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.ir:_analysis_and_insights_on_user_reviews,_airline_choices,_federated_learning,_dark_web_activity,_and_network_capacity_in_multimodal_networks.mp3" type="audio/mp3" length="5987208"/>
     </item>
+    <item>
+      <title>2023-06-28 cs.AI: A Compilation of Papers on Various Topics</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15668v1 Title Physion Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15664v1 Title ShuttleSet22 Benchmarking Stroke Forecasting with Stroke Level Badminton Dataset
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15661v1 Title Enhancing Representation Learning on High Dimensional Small Size Tabular Data A Divide and Conquer Method with Ensembled VAEs
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15657v1 Title The Distortion of Binomial Voting Defies Expectation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15656v1 Title SparseOptimizer Sparsify Language Models through Moreau Yosida Regularization and Accelerate through Compiler Co design</description>
+      <pubDate>Wed, 28 Jun 2023 08:34:32 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.ai:_a_compilation_of_papers_on_various_topics.mp3" type="audio/mp3" length="7829720"/>
+    </item>
   </channel>
 </rss>
