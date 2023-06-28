@@ -128,5 +128,15 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Wed, 28 Jun 2023 08:39:20 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.lg:_enhancing_representation_learning_and_efficiency_in_high_dimensional_tabular_data_with_ensembled_vaes,_sparseoptimizer,_and_synthetic_data.mp3" type="audio/mp3" length="8018360"/>
     </item>
+    <item>
+      <title>2023-06-28 cs.CE: &quot;Revolutionary Research Reveals Unconventional Methods for Faster Performance, Enhanced Efficiency, and Unbreakable Wind Power Encryption!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2105.08972v3 Title Efficient sequential PLIC interface positioning for enhanced performance of the three phase VoF Method
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15547v1 Title Adaptive discretization refinement for discrete models of coupled mechanics and mass transport in concrete
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15344v1 Title Diversity of Expertise is Key to Scientific Impact a Large Scale Analysis in the Field of Computer Science
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15325v1 Title Topology optimization of transient vibroacoustic problems for broadband filter design using cut elements
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.09245v2 Title Image encryption for Offshore wind power based on 2D LCLM and Zhou Yi Eight Trigrams</description>
+      <pubDate>Wed, 28 Jun 2023 06:12:38 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.ced27c8da2-9caf-465a-bc18-03d13e8787a5.mp3" type="audio/mp3" length="10038392"/>
+    </item>
   </channel>
 </rss>
