@@ -148,5 +148,15 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Thu, 29 Jun 2023 08:33:18 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-29_cs.ai9bfbcb58-f24b-40f7-939a-80049cb95ade.mp3" type="audio/mp3" length="6988952"/>
     </item>
+    <item>
+      <title>2023-06-29 cs.HC: &quot;Revolutionary Studies Defy Tech Boundaries: Unveiling the Future of Model Evaluation, Comfort in Automated Driving, AI Decision-Making, and Virtual Characters!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.03100v2 Title Rethinking Model Evaluation as Narrowing the Socio Technical Gap
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16344v1 Title Simulating vibration transmission and comfort in automated driving integrating models of seat body postural stabilization and motion perception
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.00074v2 Title Human Aligned Calibration for AI Assisted Decision Making
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16233v1 Title Investigating the Uncanny Valley Phenomenon Through the Temporal Dynamics of Neural Responses to Virtual Characters
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16143v1 Title Generative User Experience Research for Developing Domain specific Natural Language Processing Applications</description>
+      <pubDate>Thu, 29 Jun 2023 08:34:08 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-29_cs.hc004cd260-138b-4134-a09d-7bbb7a1150a1.mp3" type="audio/mp3" length="8329400"/>
+    </item>
   </channel>
 </rss>
