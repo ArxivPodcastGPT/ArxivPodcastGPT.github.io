@@ -138,5 +138,15 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Wed, 28 Jun 2023 06:12:38 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.ced27c8da2-9caf-465a-bc18-03d13e8787a5.mp3" type="audio/mp3" length="10038392"/>
     </item>
+    <item>
+      <title>2023-06-29 cs.AI: &quot;Discover the Latest Breakthroughs in Data Defense, Deep Learning, Reinforcement Learning, and Medical Imaging Techniques!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16415v1 Title On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16413v1 Title MultiZoo MultiBench A Standardized Toolkit for Multimodal Deep Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2203.01311v4 Title High Modality Multimodal Transformer Quantifying Modality Interaction Heterogeneity for High Modality Representation Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.09633v4 Title The False Dawn Reevaluating Google s Reinforcement Learning for Chip Macro Placement
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.07089v2 Title Topology Repairing of Disconnected Pulmonary Airways and Vessels Baselines and a Dataset</description>
+      <pubDate>Thu, 29 Jun 2023 08:33:18 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-29_cs.ai9bfbcb58-f24b-40f7-939a-80049cb95ade.mp3" type="audio/mp3" length="6988952"/>
+    </item>
   </channel>
 </rss>
