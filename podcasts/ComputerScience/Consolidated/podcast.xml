@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Arxiv Podcast GPT Computer Science</title>
     <link>https://ArxivPodcastGPT.github.io/</link>
@@ -15,8 +15,8 @@
       <ns0:email>jonathanallengrant@gmail.com</ns0:email>
     </ns0:owner>
     <itunes:owner>
-        <itunes:name>Jonathan Grant</itunes:name>
-        <itunes:email>jonathanallengrant@gmail.com</itunes:email>
+      <itunes:name>Jonathan Grant</itunes:name>
+      <itunes:email>jonathanallengrant@gmail.com</itunes:email>
     </itunes:owner>
     <ns0:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
     <itunes:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
@@ -31,6 +31,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13614v1 Title Adversarial Robustness Certification for Bayesian Neural Networks</description>
       <pubDate>Mon, 26 Jun 2023 10:49:52 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.ai:_advancements_in_machine_learning_techniques.mp3" type="audio/mp3" length="5703048"/>
+      <guid>37b5c52d-8e7b-4c7c-852b-69132f331497</guid>
     </item>
     <item>
       <title>cs.IR: Recent Research Papers on Data Science and Cybersecurity.</title>
@@ -41,6 +42,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13374v1 Title Human Activity Behavioural Pattern Recognition in Smarthome with Long hour Data Collection</description>
       <pubDate>Mon, 26 Jun 2023 11:24:09 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.ir:_recent_research_papers_on_data_science_and_cybersecurity..mp3" type="audio/mp3" length="5553272"/>
+      <guid>b1e941bf-ae05-4082-9d9f-481b555fbd4b</guid>
     </item>
     <item>
       <title>cs.CG: Geometric Graphs and Algorithms in Shape Space Analysis and Poisoning Attacks</title>
@@ -50,6 +52,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.12377v1 Title Geometric Algorithms for k NN Poisoning</description>
       <pubDate>Mon, 26 Jun 2023 09:58:49 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.cg:_geometric_graphs_and_algorithms_in_shape_space_analysis_and_poisoning_attacks.mp3" type="audio/mp3" length="5882664"/>
+      <guid>dc2c68bf-91f5-4289-bdde-030359335257</guid>
     </item>
     <item>
       <title>cs.LG: Recent Advances in Machine Learning Techniques for Natural Language Processing and Planning.</title>
@@ -59,6 +62,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13630v1 Title Offline Skill Graph OSG A Framework for Learning and Planning using Offline Reinforcement Learning Skills</description>
       <pubDate>Tue, 27 Jun 2023 00:43:08 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.lg:_recent_advances_in_machine_learning_techniques_for_natural_language_processing_and_planning..mp3" type="audio/mp3" length="5144520"/>
+      <guid>26634bae-8f65-4c42-bd79-374e8e7da2b3</guid>
     </item>
     <item>
       <title>cs.AI: Advancements in Machine Learning Models and Techniques</title>
@@ -68,6 +72,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13614v1 Title Adversarial Robustness Certification for Bayesian Neural Networks</description>
       <pubDate>Tue, 27 Jun 2023 00:43:45 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.ai:_advancements_in_machine_learning_models_and_techniques.mp3" type="audio/mp3" length="5931048"/>
+      <guid>69146fd4-ae6f-4996-9ff8-3ea22a0ba007</guid>
     </item>
     <item>
       <title>cs.IR: Title: Diverse Approaches to Data Analysis and Security Enhancement.</title>
@@ -78,6 +83,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13374v1 Title Human Activity Behavioural Pattern Recognition in Smarthome with Long hour Data Collection</description>
       <pubDate>Tue, 27 Jun 2023 00:44:28 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.ir:_title:_diverse_approaches_to_data_analysis_and_security_enhancement..mp3" type="audio/mp3" length="7720856"/>
+      <guid>06c7dc1b-2498-4125-b8e1-fac1cee826c1</guid>
     </item>
     <item>
       <title>cs.HC: Diverse Studies on Digital Systems and Technologies.</title>
@@ -88,6 +94,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2301.06601v3 Title A Dataset of Coordinated Cryptocurrency Related Social Media Campaigns</description>
       <pubDate>Tue, 27 Jun 2023 00:44:52 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/cs.hc:_diverse_studies_on_digital_systems_and_technologies..mp3" type="audio/mp3" length="10476152"/>
+      <guid>2160a0f3-c4ce-46b4-b508-2141c4ad47e0</guid>
     </item>
     <item>
       <title>2023-06-28 cs.IR: Analysis and Insights on User Reviews, Airline Choices, Federated Learning, Dark Web Activity, and Network Capacity in Multimodal Networks</title>
@@ -97,6 +104,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/1706.00178v4 Title Network Capacity Bound for Personalized PageRank in Multimodal Networks</description>
       <pubDate>Wed, 28 Jun 2023 08:32:37 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.ir:_analysis_and_insights_on_user_reviews,_airline_choices,_federated_learning,_dark_web_activity,_and_network_capacity_in_multimodal_networks.mp3" type="audio/mp3" length="5987208"/>
+      <guid>de974862-4d78-4d29-a352-6058023cf2fc</guid>
     </item>
     <item>
       <title>2023-06-28 cs.AI: A Compilation of Papers on Various Topics</title>
@@ -107,6 +115,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15656v1 Title SparseOptimizer Sparsify Language Models through Moreau Yosida Regularization and Accelerate through Compiler Co design</description>
       <pubDate>Wed, 28 Jun 2023 08:34:32 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.ai:_a_compilation_of_papers_on_various_topics.mp3" type="audio/mp3" length="7829720"/>
+      <guid>aee1d621-4d7e-4406-9e90-da53036b505b</guid>
     </item>
     <item>
       <title>2023-06-28 cs.RO: Advancements in Robotic Perception and Planning</title>
@@ -116,6 +125,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15605v1 Title Deep Normalizing Flows for State Estimation</description>
       <pubDate>Wed, 28 Jun 2023 08:34:39 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.ro:_advancements_in_robotic_perception_and_planning.mp3" type="audio/mp3" length="7410024"/>
+      <guid>70b0c8f8-2b91-4809-832c-dea58e5eefc5</guid>
     </item>
     <item>
       <title>2023-06-28 cs.HC: Designing Inclusive and Engaging Hybrid Event Experiences, Visualization of AI Systems in Virtual Reality, Using Large Language Models for Explanatory Feedback, Explaining Multimodal Emotion Reasoning, and Requirements for Explainability and Acceptance of AI in Collaborative Work.</title>
@@ -126,6 +136,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15394v1 Title Requirements for Explainability and Acceptance of Artificial Intelligence in Collaborative Work</description>
       <pubDate>Wed, 28 Jun 2023 08:35:35 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.hc.mp3" type="audio/mp3" length="9897656"/>
+      <guid>f1112b76-36a4-408f-96f7-72e2c94d83b2</guid>
     </item>
     <item>
       <title>2023-06-28 cs.LG: Enhancing Representation Learning and Efficiency in High Dimensional Tabular Data with Ensembled VAEs, SparseOptimizer, and Synthetic Data</title>
@@ -136,9 +147,10 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15636v1 Title On the Usefulness of Synthetic Tabular Data Generation</description>
       <pubDate>Wed, 28 Jun 2023 08:39:20 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.lg:_enhancing_representation_learning_and_efficiency_in_high_dimensional_tabular_data_with_ensembled_vaes,_sparseoptimizer,_and_synthetic_data.mp3" type="audio/mp3" length="8018360"/>
+      <guid>e05f21a5-b4e9-4a41-a543-b0e17b493ad6</guid>
     </item>
     <item>
-      <title>2023-06-28 cs.CE: &quot;Revolutionary Research Reveals Unconventional Methods for Faster Performance, Enhanced Efficiency, and Unbreakable Wind Power Encryption!&quot;</title>
+      <title>2023-06-28 cs.CE: "Revolutionary Research Reveals Unconventional Methods for Faster Performance, Enhanced Efficiency, and Unbreakable Wind Power Encryption!"</title>
       <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2105.08972v3 Title Efficient sequential PLIC interface positioning for enhanced performance of the three phase VoF Method
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15547v1 Title Adaptive discretization refinement for discrete models of coupled mechanics and mass transport in concrete
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15344v1 Title Diversity of Expertise is Key to Scientific Impact a Large Scale Analysis in the Field of Computer Science
@@ -146,9 +158,10 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.09245v2 Title Image encryption for Offshore wind power based on 2D LCLM and Zhou Yi Eight Trigrams</description>
       <pubDate>Wed, 28 Jun 2023 06:12:38 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-28_cs.ced27c8da2-9caf-465a-bc18-03d13e8787a5.mp3" type="audio/mp3" length="10038392"/>
+      <guid>492b1de8-317e-4a76-9b71-68d43232458f</guid>
     </item>
     <item>
-      <title>2023-06-29 cs.AI: &quot;Discover the Latest Breakthroughs in Data Defense, Deep Learning, Reinforcement Learning, and Medical Imaging Techniques!&quot;</title>
+      <title>2023-06-29 cs.AI: "Discover the Latest Breakthroughs in Data Defense, Deep Learning, Reinforcement Learning, and Medical Imaging Techniques!"</title>
       <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16415v1 Title On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16413v1 Title MultiZoo MultiBench A Standardized Toolkit for Multimodal Deep Learning
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2203.01311v4 Title High Modality Multimodal Transformer Quantifying Modality Interaction Heterogeneity for High Modality Representation Learning
@@ -156,9 +169,10 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.07089v2 Title Topology Repairing of Disconnected Pulmonary Airways and Vessels Baselines and a Dataset</description>
       <pubDate>Thu, 29 Jun 2023 08:33:18 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-29_cs.ai9bfbcb58-f24b-40f7-939a-80049cb95ade.mp3" type="audio/mp3" length="6988952"/>
+      <guid>c756d382-afc4-4c8c-bd92-f3410409b7f7</guid>
     </item>
     <item>
-      <title>2023-06-29 cs.HC: &quot;Revolutionary Studies Defy Tech Boundaries: Unveiling the Future of Model Evaluation, Comfort in Automated Driving, AI Decision-Making, and Virtual Characters!&quot;</title>
+      <title>2023-06-29 cs.HC: "Revolutionary Studies Defy Tech Boundaries: Unveiling the Future of Model Evaluation, Comfort in Automated Driving, AI Decision-Making, and Virtual Characters!"</title>
       <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.03100v2 Title Rethinking Model Evaluation as Narrowing the Socio Technical Gap
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16344v1 Title Simulating vibration transmission and comfort in automated driving integrating models of seat body postural stabilization and motion perception
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.00074v2 Title Human Aligned Calibration for AI Assisted Decision Making
@@ -166,18 +180,20 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16143v1 Title Generative User Experience Research for Developing Domain specific Natural Language Processing Applications</description>
       <pubDate>Thu, 29 Jun 2023 08:34:08 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-29_cs.hc004cd260-138b-4134-a09d-7bbb7a1150a1.mp3" type="audio/mp3" length="8329400"/>
+      <guid>e67048a3-3ce0-4732-bf8a-f3bff567ff9c</guid>
     </item>
     <item>
-      <title>2023-06-29 cs.IR: &quot;Revolutionary Research Papers: Personalized Q&amp;A, Large Language Models, Deep Learning for Public Health, and Debiasing Recommendations!&quot;</title>
+      <title>2023-06-29 cs.IR: "Revolutionary Research Papers: Personalized Q&amp;A, Large Language Models, Deep Learning for Public Health, and Debiasing Recommendations!"</title>
       <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16261v1 Title SE PQA Personalized Community Question Answering
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16004v1 Title Query Understanding in the Age of Large Language Models
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16001v1 Title Streamlining Social Media Information Retrieval for Public Health Research with Deep Learning
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15961v1 Title Disentangled Variational Auto encoder Enhanced by Counterfactual Data for Debiasing Recommendation</description>
       <pubDate>Thu, 29 Jun 2023 08:34:18 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-29_cs.ir08fc653b-0206-4e62-9fb7-f0b838615db7.mp3" type="audio/mp3" length="8685096"/>
+      <guid>19f3dd43-5ee5-487d-80fc-afa94e6e1f17</guid>
     </item>
     <item>
-      <title>2023-06-29 cs.RO: &quot;Revolutionary AI Breakthroughs in Motion Planning, Reinforcement Learning, and Autonomous Navigation Unveiled!&quot;</title>
+      <title>2023-06-29 cs.RO: "Revolutionary AI Breakthroughs in Motion Planning, Reinforcement Learning, and Autonomous Navigation Unveiled!"</title>
       <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2108.03191v2 Title Probabilistic motion planning for non Euclidean and multi vehicle problems
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16316v1 Title Geometric Regularity with Robot Intrinsic Symmetry in Reinforcement Learning
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.05508v2 Title Cherry Picking with Reinforcement Learning Robust Dynamic Grasping in Unstable Conditions
@@ -185,9 +201,10 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.03670v2 Title Weakly Supervised Caveline Detection For AUV Navigation Inside Underwater Caves</description>
       <pubDate>Thu, 29 Jun 2023 08:34:27 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-29_cs.roe356d746-56c3-4437-87c3-c283dc2d65c4.mp3" type="audio/mp3" length="8001368"/>
+      <guid>f506a1b6-4679-46b4-9a3c-dcbaacd7ae3d</guid>
     </item>
     <item>
-      <title>2023-06-29 cs.LG: &quot;Unveiling Cutting-Edge Advances in Defense against Data Poisoning, Multimodal Deep Learning Toolkit, High Modality Representation Learning, Reinforcement Learning Breakthroughs!&quot;</title>
+      <title>2023-06-29 cs.LG: "Unveiling Cutting-Edge Advances in Defense against Data Poisoning, Multimodal Deep Learning Toolkit, High Modality Representation Learning, Reinforcement Learning Breakthroughs!"</title>
       <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16415v1 Title On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16413v1 Title MultiZoo MultiBench A Standardized Toolkit for Multimodal Deep Learning
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2203.01311v4 Title High Modality Multimodal Transformer Quantifying Modality Interaction Heterogeneity for High Modality Representation Learning
@@ -195,6 +212,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.09633v4 Title The False Dawn Reevaluating Google s Reinforcement Learning for Chip Macro Placement</description>
       <pubDate>Thu, 29 Jun 2023 08:35:35 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-29_cs.lg8d69aca6-06a7-4e00-b26e-448b31d37eef.mp3" type="audio/mp3" length="8858072"/>
+      <guid>b0726896-e73d-4134-b6f4-3ce291c65e49</guid>
     </item>
   </channel>
 </rss>
