@@ -167,5 +167,15 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Thu, 29 Jun 2023 08:34:18 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-29_cs.ir08fc653b-0206-4e62-9fb7-f0b838615db7.mp3" type="audio/mp3" length="8685096"/>
     </item>
+    <item>
+      <title>2023-06-29 cs.RO: &quot;Revolutionary AI Breakthroughs in Motion Planning, Reinforcement Learning, and Autonomous Navigation Unveiled!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2108.03191v2 Title Probabilistic motion planning for non Euclidean and multi vehicle problems
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16316v1 Title Geometric Regularity with Robot Intrinsic Symmetry in Reinforcement Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.05508v2 Title Cherry Picking with Reinforcement Learning Robust Dynamic Grasping in Unstable Conditions
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16276v1 Title Path Planning with Potential Field Based Obstacle Avoidance in a 3D Environment by an Unmanned Aerial Vehicle
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.03670v2 Title Weakly Supervised Caveline Detection For AUV Navigation Inside Underwater Caves</description>
+      <pubDate>Thu, 29 Jun 2023 08:34:27 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-29_cs.roe356d746-56c3-4437-87c3-c283dc2d65c4.mp3" type="audio/mp3" length="8001368"/>
+    </item>
   </channel>
 </rss>
