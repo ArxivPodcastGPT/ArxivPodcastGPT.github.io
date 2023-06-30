@@ -1,27 +1,27 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version="1.0" ?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Arxiv Podcast GPT Computer Science</title>
     <link>https://ArxivPodcastGPT.github.io/</link>
     <language>en-us</language>
     <description>ChatGPT generated podcasts based on Arxiv Computer Science papers</description>
-    <itunes:subtitle>ChatGPT generated podcasts based on Arxiv Computer Science papers</itunes:subtitle>
-    <itunes:summary>ChatGPT generated podcasts based on Arxiv Computer Science papers</itunes:summary>
+    <ns0:subtitle>ChatGPT generated podcasts based on Arxiv Computer Science papers</ns0:subtitle>
+    <ns0:summary>ChatGPT generated podcasts based on Arxiv Computer Science papers</ns0:summary>
     <ns0:summary>ChatGPT generated podcasts based on Arxiv Computer Science papers</ns0:summary>
     <ns0:author>Jonathan Grant</ns0:author>
-    <itunes:author>Jonathan Grant</itunes:author>
+    <ns0:author>Jonathan Grant</ns0:author>
     <ns0:owner>
       <ns0:name>Jonathan Grant</ns0:name>
       <ns0:email>jonathanallengrant@gmail.com</ns0:email>
     </ns0:owner>
-    <itunes:owner>
-      <itunes:name>Jonathan Grant</itunes:name>
-      <itunes:email>jonathanallengrant@gmail.com</itunes:email>
-    </itunes:owner>
+    <ns0:owner>
+      <ns0:name>Jonathan Grant</ns0:name>
+      <ns0:email>jonathanallengrant@gmail.com</ns0:email>
+    </ns0:owner>
     <ns0:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
-    <itunes:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
+    <ns0:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
     <ns0:category text="Technology"/>
-    <itunes:category text="Technology"/>
+    <ns0:category text="Technology"/>
     <ns0:explicit>no</ns0:explicit>
     <item>
       <title>cs.AI: Advancements in Machine Learning Techniques</title>
@@ -150,7 +150,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <guid>e05f21a5-b4e9-4a41-a543-b0e17b493ad6</guid>
     </item>
     <item>
-      <title>2023-06-28 cs.CE: "Revolutionary Research Reveals Unconventional Methods for Faster Performance, Enhanced Efficiency, and Unbreakable Wind Power Encryption!"</title>
+      <title>2023-06-28 cs.CE: &quot;Revolutionary Research Reveals Unconventional Methods for Faster Performance, Enhanced Efficiency, and Unbreakable Wind Power Encryption!&quot;</title>
       <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2105.08972v3 Title Efficient sequential PLIC interface positioning for enhanced performance of the three phase VoF Method
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15547v1 Title Adaptive discretization refinement for discrete models of coupled mechanics and mass transport in concrete
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15344v1 Title Diversity of Expertise is Key to Scientific Impact a Large Scale Analysis in the Field of Computer Science
@@ -161,7 +161,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <guid>492b1de8-317e-4a76-9b71-68d43232458f</guid>
     </item>
     <item>
-      <title>2023-06-29 cs.AI: "Discover the Latest Breakthroughs in Data Defense, Deep Learning, Reinforcement Learning, and Medical Imaging Techniques!"</title>
+      <title>2023-06-29 cs.AI: &quot;Discover the Latest Breakthroughs in Data Defense, Deep Learning, Reinforcement Learning, and Medical Imaging Techniques!&quot;</title>
       <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16415v1 Title On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16413v1 Title MultiZoo MultiBench A Standardized Toolkit for Multimodal Deep Learning
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2203.01311v4 Title High Modality Multimodal Transformer Quantifying Modality Interaction Heterogeneity for High Modality Representation Learning
@@ -172,7 +172,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <guid>c756d382-afc4-4c8c-bd92-f3410409b7f7</guid>
     </item>
     <item>
-      <title>2023-06-29 cs.HC: "Revolutionary Studies Defy Tech Boundaries: Unveiling the Future of Model Evaluation, Comfort in Automated Driving, AI Decision-Making, and Virtual Characters!"</title>
+      <title>2023-06-29 cs.HC: &quot;Revolutionary Studies Defy Tech Boundaries: Unveiling the Future of Model Evaluation, Comfort in Automated Driving, AI Decision-Making, and Virtual Characters!&quot;</title>
       <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.03100v2 Title Rethinking Model Evaluation as Narrowing the Socio Technical Gap
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16344v1 Title Simulating vibration transmission and comfort in automated driving integrating models of seat body postural stabilization and motion perception
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.00074v2 Title Human Aligned Calibration for AI Assisted Decision Making
@@ -183,7 +183,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <guid>e67048a3-3ce0-4732-bf8a-f3bff567ff9c</guid>
     </item>
     <item>
-      <title>2023-06-29 cs.IR: "Revolutionary Research Papers: Personalized Q&amp;A, Large Language Models, Deep Learning for Public Health, and Debiasing Recommendations!"</title>
+      <title>2023-06-29 cs.IR: &quot;Revolutionary Research Papers: Personalized Q&amp;A, Large Language Models, Deep Learning for Public Health, and Debiasing Recommendations!&quot;</title>
       <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16261v1 Title SE PQA Personalized Community Question Answering
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16004v1 Title Query Understanding in the Age of Large Language Models
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16001v1 Title Streamlining Social Media Information Retrieval for Public Health Research with Deep Learning
@@ -193,7 +193,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <guid>19f3dd43-5ee5-487d-80fc-afa94e6e1f17</guid>
     </item>
     <item>
-      <title>2023-06-29 cs.RO: "Revolutionary AI Breakthroughs in Motion Planning, Reinforcement Learning, and Autonomous Navigation Unveiled!"</title>
+      <title>2023-06-29 cs.RO: &quot;Revolutionary AI Breakthroughs in Motion Planning, Reinforcement Learning, and Autonomous Navigation Unveiled!&quot;</title>
       <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2108.03191v2 Title Probabilistic motion planning for non Euclidean and multi vehicle problems
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16316v1 Title Geometric Regularity with Robot Intrinsic Symmetry in Reinforcement Learning
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.05508v2 Title Cherry Picking with Reinforcement Learning Robust Dynamic Grasping in Unstable Conditions
@@ -204,7 +204,7 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <guid>f506a1b6-4679-46b4-9a3c-dcbaacd7ae3d</guid>
     </item>
     <item>
-      <title>2023-06-29 cs.LG: "Unveiling Cutting-Edge Advances in Defense against Data Poisoning, Multimodal Deep Learning Toolkit, High Modality Representation Learning, Reinforcement Learning Breakthroughs!"</title>
+      <title>2023-06-29 cs.LG: &quot;Unveiling Cutting-Edge Advances in Defense against Data Poisoning, Multimodal Deep Learning Toolkit, High Modality Representation Learning, Reinforcement Learning Breakthroughs!&quot;</title>
       <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16415v1 Title On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16413v1 Title MultiZoo MultiBench A Standardized Toolkit for Multimodal Deep Learning
 ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2203.01311v4 Title High Modality Multimodal Transformer Quantifying Modality Interaction Heterogeneity for High Modality Representation Learning
@@ -213,6 +213,17 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <pubDate>Thu, 29 Jun 2023 08:35:35 GMT</pubDate>
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-29_cs.lg8d69aca6-06a7-4e00-b26e-448b31d37eef.mp3" type="audio/mp3" length="8858072"/>
       <guid>b0726896-e73d-4134-b6f4-3ce291c65e49</guid>
+    </item>
+    <item>
+      <title>2023-06-30 cs.LG: &quot;Revolutionary AI Breakthrough: Unleashing the Power of Vision, Aggregation, Transformers, Emotions, and Asteroids!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17165v1 Title An Efficient General Purpose Modular Vision Model via Multi Task Heterogeneous Training
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17151v1 Title Local Risk Bounds for Statistical Aggregation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2302.02451v2 Title KDEformer Accelerating Transformers via Kernel Density Estimation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2011.02151v2 Title Simulation of Human and Artificial Emotion SHArE 
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17138v1 Title Orbit Classification of asteroids using implementation of radial Basis Function on Support Vector Machines</description>
+      <pubDate>Fri, 30 Jun 2023 08:31:13 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-30_cs.lgc65b9350-7ee9-4ad7-a08e-ca6ac370fcdb.mp3" type="audio/mp3" length="7558904"/>
+      <guid>392eb0b7-cf40-44af-9798-69311b93a50d</guid>
     </item>
   </channel>
 </rss>
