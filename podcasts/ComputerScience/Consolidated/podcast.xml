@@ -291,5 +291,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-01_cs.ird0aaea0e-52b7-4f41-925c-3ad096778b98.mp3" type="audio/mp3" length="9298040"/>
       <guid>cf169f34-c9c4-4584-944c-d3fb98a24f93</guid>
     </item>
+    <item>
+      <title>2023-07-01 cs.AI: &quot;Revolutionary Breakthroughs in AI: Vision, Programming Education, Intentionality, Emotion, and More!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17165v1 Title An Efficient General Purpose Modular Vision Model via Multi Task Heterogeneous Training
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17156v1 Title Generative AI for Programming Education Benchmarking ChatGPT GPT 4 and Human Tutors
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13657v2 Title On Computational Mechanisms for Shared Intentionality and Speculation on Rationality and Consciousness
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2011.02151v2 Title Simulation of Human and Artificial Emotion SHArE 
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2305.19915v3 Title Data Augmentation Approaches for Source Code Models A Survey</description>
+      <pubDate>Sat, 01 Jul 2023 08:30:28 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-01_cs.ai6d73dab7-5f20-442e-a29e-0e22981e1f95.mp3" type="audio/mp3" length="8953400"/>
+      <guid>6c6ca6b5-7253-484c-9c70-d38372fd1a61</guid>
+    </item>
   </channel>
 </rss>
