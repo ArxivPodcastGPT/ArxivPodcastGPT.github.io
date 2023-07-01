@@ -269,5 +269,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-01_cs.hc9169953e-8ad8-4098-a41a-4f13013d3d59.mp3" type="audio/mp3" length="8716760"/>
       <guid>ff0b8e5c-952c-4675-8121-7f2c043a1325</guid>
     </item>
+    <item>
+      <title>2023-07-01 cs.LG: &quot;5 Cutting-Edge Research Papers to Revolutionize Vision Models, Statistical Aggregation, Transformers, Emotion Simulation, and Asteroid Classification!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17165v1 Title An Efficient General Purpose Modular Vision Model via Multi Task Heterogeneous Training
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17151v1 Title Local Risk Bounds for Statistical Aggregation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2302.02451v2 Title KDEformer Accelerating Transformers via Kernel Density Estimation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2011.02151v2 Title Simulation of Human and Artificial Emotion SHArE 
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17138v1 Title Orbit Classification of asteroids using implementation of radial Basis Function on Support Vector Machines</description>
+      <pubDate>Sat, 01 Jul 2023 08:30:16 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-01_cs.lg5b219b91-f4c8-4c20-b2fe-7629686db4f7.mp3" type="audio/mp3" length="8002040"/>
+      <guid>6c50daeb-d8f2-4d5a-95cb-8a30e4a6e20b</guid>
+    </item>
   </channel>
 </rss>
