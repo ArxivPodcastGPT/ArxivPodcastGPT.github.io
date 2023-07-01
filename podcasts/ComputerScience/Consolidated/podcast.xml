@@ -258,5 +258,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-01_cs.ro57864b6e-4b5f-43a7-94f4-dac4e01b0472.mp3" type="audio/mp3" length="8158328"/>
       <guid>479c8f75-c8a1-4399-9b2a-f4870a9ff0fc</guid>
     </item>
+    <item>
+      <title>2023-07-01 cs.HC: &quot;5 Cutting-Edge Studies Revealing the Secrets of AI, AR, ML, and Emotion Recognition!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17132v1 Title Evaluation of AI Supported Input Methods in Augmented Reality Environment
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17108v1 Title ManimML Communicating Machine Learning Architectures with Animation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16961v1 Title AI Powered Interfaces for Extended Reality to support Remote Maintenance
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16891v1 Title Harnessing the Power of Hugging Face Transformers for Predicting Mental Health Disorders in Social Networks
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15401v2 Title Explainable Multimodal Emotion Reasoning</description>
+      <pubDate>Sat, 01 Jul 2023 08:29:57 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-01_cs.hc9169953e-8ad8-4098-a41a-4f13013d3d59.mp3" type="audio/mp3" length="8716760"/>
+      <guid>ff0b8e5c-952c-4675-8121-7f2c043a1325</guid>
+    </item>
   </channel>
 </rss>
