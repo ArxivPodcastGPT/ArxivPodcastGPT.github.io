@@ -247,5 +247,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-06-30_cs.ai4f285191-c3b5-495b-a949-9a0d03ebb032.mp3" type="audio/mp3" length="9004856"/>
       <guid>04cd08b4-eaf0-4d35-8d38-d8981281e08f</guid>
     </item>
+    <item>
+      <title>2023-07-01 cs.RO: &quot;Revolutionary Research Reveals: Machines Garden, Connect Securely, and Master Locomotion with Deep Vision!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17162v1 Title Can Machines Garden Systematically Comparing the AlphaGarden vs Professional Horticulturalists
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17157v1 Title FogROS2 SGC A ROS2 Cloud Robotics Platform for Secure Global Connectivity
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17101v1 Title Identifying Important Sensory Feedback for Learning Locomotion Skills
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17053v1 Title Spatial Reasoning via Deep Vision Models for Robotic Sequential Manipulation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17030v1 Title SkiROS2 A skill based Robot Control Platform for ROS</description>
+      <pubDate>Sat, 01 Jul 2023 08:29:35 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-01_cs.ro57864b6e-4b5f-43a7-94f4-dac4e01b0472.mp3" type="audio/mp3" length="8158328"/>
+      <guid>479c8f75-c8a1-4399-9b2a-f4870a9ff0fc</guid>
+    </item>
   </channel>
 </rss>
