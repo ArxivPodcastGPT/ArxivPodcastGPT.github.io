@@ -302,5 +302,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-01_cs.ai6d73dab7-5f20-442e-a29e-0e22981e1f95.mp3" type="audio/mp3" length="8953400"/>
       <guid>6c6ca6b5-7253-484c-9c70-d38372fd1a61</guid>
     </item>
+    <item>
+      <title>2023-07-02 cs.IR: &quot;Revolutionary Advances in Recommendation, Retrieval, Mental Health Prediction, and Birdcall Classification - Unveiling the Cutting-Edge Research!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17125v1 Title Ducho A Unified Framework for the Extraction of Multimodal Features in Recommendation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17082v1 Title Re Rank Expand Repeat Adaptive Query Expansion for Document Retrieval Using Words and Entities
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16891v1 Title Harnessing the Power of Hugging Face Transformers for Predicting Mental Health Disorders in Social Networks
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16815v1 Title Computing all vs all MEMs in grammar compressed text
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16760v1 Title Transfer Learning with Semi Supervised Dataset Annotation for Birdcall Classification</description>
+      <pubDate>Sun, 02 Jul 2023 08:32:37 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-02_cs.ir27f16481-6510-43a9-8315-0cedc93cb0af.mp3" type="audio/mp3" length="9262712"/>
+      <guid>3f5de3b2-88c1-48dd-911b-f547e813570b</guid>
+    </item>
   </channel>
 </rss>
