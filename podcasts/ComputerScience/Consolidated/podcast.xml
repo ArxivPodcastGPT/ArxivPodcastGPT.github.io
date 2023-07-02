@@ -313,5 +313,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-02_cs.ir27f16481-6510-43a9-8315-0cedc93cb0af.mp3" type="audio/mp3" length="9262712"/>
       <guid>3f5de3b2-88c1-48dd-911b-f547e813570b</guid>
     </item>
+    <item>
+      <title>2023-07-02 cs.AI: &quot;Unleash Your Inner Genius: The Ultimate Guide to Vision Models, Generative AI, Computational Mechanisms, Emotions, and Source Code Mastery!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17165v1 Title An Efficient General Purpose Modular Vision Model via Multi Task Heterogeneous Training
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17156v1 Title Generative AI for Programming Education Benchmarking ChatGPT GPT 4 and Human Tutors
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.13657v2 Title On Computational Mechanisms for Shared Intentionality and Speculation on Rationality and Consciousness
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2011.02151v2 Title Simulation of Human and Artificial Emotion SHArE 
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2305.19915v3 Title Data Augmentation Approaches for Source Code Models A Survey</description>
+      <pubDate>Sun, 02 Jul 2023 08:32:53 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-02_cs.aieeb3f61f-a1e2-449c-b78e-87ad6bf8ad49.mp3" type="audio/mp3" length="9299672"/>
+      <guid>b8595806-075b-46af-9b0f-0d6e9a39452b</guid>
+    </item>
   </channel>
 </rss>
