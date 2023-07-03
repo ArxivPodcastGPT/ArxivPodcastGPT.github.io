@@ -324,5 +324,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-02_cs.aieeb3f61f-a1e2-449c-b78e-87ad6bf8ad49.mp3" type="audio/mp3" length="9299672"/>
       <guid>b8595806-075b-46af-9b0f-0d6e9a39452b</guid>
     </item>
+    <item>
+      <title>2023-07-03 cs.IR: &quot;Revolutionary AI Breakthroughs: Unleashing the Full Potential of Precision Cancer Treatment, Next Purchase Prediction, Automated Systematic Reviews, Conversational Q&amp;A, and Text Ranking!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17771v1 Title Precision Anti Cancer Drug Selection via Neural Ranking
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2207.06225v2 Title Sequential Recommendation Model for Next Purchase Prediction
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17614v1 Title Outcome based Evaluation of Systematic Review Automation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2204.11677v2 Title Conversational Question Answering on Heterogeneous Sources
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17563v1 Title Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting</description>
+      <pubDate>Mon, 03 Jul 2023 08:32:41 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-03_cs.ir106af3d9-5751-474a-9f29-2f38205ae707.mp3" type="audio/mp3" length="9121208"/>
+      <guid>14cc8dca-d016-462f-95f4-e285a49132d3</guid>
+    </item>
   </channel>
 </rss>
