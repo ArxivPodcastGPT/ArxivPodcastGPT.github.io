@@ -357,5 +357,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-03_cs.hcdc5eee7f-e3b9-4417-b4e6-7164ff515615.mp3" type="audio/mp3" length="9417272"/>
       <guid>cb087303-c21a-49c0-935e-edc59318d81e</guid>
     </item>
+    <item>
+      <title>2023-07-03 cs.AI: &quot;Revolutionary Research Unlocks New Horizons in Voting Distortion, Deep RL Optimization, Unfairness Analysis, Robotic Manipulation, and Problem Solving!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17838v1 Title Breaking the Metric Voting Distortion Barrier
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17833v1 Title Resetting the Optimizer in Deep RL An Empirical Study
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17828v1 Title Understanding Unfairness via Training Concept Influence
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17817v1 Title Act3D Infinite Resolution Action Detection Transformer for Robotic Manipulation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2212.09570v2 Title Solving QMLTP Problems by Translation to Higher order Logic</description>
+      <pubDate>Mon, 03 Jul 2023 08:33:08 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-03_cs.aie573ad19-8f04-4c46-8efc-29323e5a65ae.mp3" type="audio/mp3" length="8152664"/>
+      <guid>4a88b195-c1fb-4fb2-88ed-79b0c450d997</guid>
+    </item>
   </channel>
 </rss>
