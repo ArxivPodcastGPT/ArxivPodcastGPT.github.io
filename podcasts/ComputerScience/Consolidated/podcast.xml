@@ -368,5 +368,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-03_cs.aie573ad19-8f04-4c46-8efc-29323e5a65ae.mp3" type="audio/mp3" length="8152664"/>
       <guid>4a88b195-c1fb-4fb2-88ed-79b0c450d997</guid>
     </item>
+    <item>
+      <title>2023-07-03 cs.RO: &quot;Revolutionary Advances in Robotics and Language Models: From Emergency Evacuations to Action Detection and Multibody Dynamics!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17840v1 Title Statler State Maintaining Language Models for Embodied Reasoning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17824v1 Title Learning Evacuee Models from Robot Guided Emergency Evacuation Experiments
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17817v1 Title Act3D Infinite Resolution Action Detection Transformer for Robotic Manipulation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17793v1 Title Screw and Lie Group Theory in Multibody Dynamics Recursive Algorithms and Equations of Motion of Tree Topology Systems
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2003.03281v4 Title Asynchronous and Parallel Distributed Pose Graph Optimization</description>
+      <pubDate>Mon, 03 Jul 2023 08:34:27 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-03_cs.ro1af8d505-f4c9-48b6-941e-dde6454e3f7a.mp3" type="audio/mp3" length="10081112"/>
+      <guid>2fb46c52-8bf0-4970-8e9c-6402c3930d63</guid>
+    </item>
   </channel>
 </rss>
