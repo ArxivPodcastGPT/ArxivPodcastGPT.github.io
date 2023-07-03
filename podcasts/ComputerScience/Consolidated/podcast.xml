@@ -346,5 +346,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-03_cs.lg6f971567-47f0-4566-98ef-ba780e1ca354.mp3" type="audio/mp3" length="9005624"/>
       <guid>c96e54ee-a13a-4bf2-8444-c2088d597412</guid>
     </item>
+    <item>
+      <title>2023-07-03 cs.HC: &quot;Revolutionary Research: Experts Improve Predictions, Robots Track Hand Poses, Make Human-like Decisions, and Predict Mental Health via Social Networks!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2201.12006v5 Title Improving Expert Predictions with Conformal Prediction
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17477v1 Title Beyond Voice Towards Continuous 3D Hand Pose Tracking on Commercial Home Assistant Devices
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17456v1 Title Human like Decision making at Unsignalized Intersection using Social Value Orientation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.16891v2 Title Harnessing the Power of Hugging Face Transformers for Predicting Mental Health Disorders in Social Networks
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17379v1 Title What Could a Social Mediator Robot Do Lessons from Real World Mediation Scenarios</description>
+      <pubDate>Mon, 03 Jul 2023 08:33:05 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-03_cs.hcdc5eee7f-e3b9-4417-b4e6-7164ff515615.mp3" type="audio/mp3" length="9417272"/>
+      <guid>cb087303-c21a-49c0-935e-edc59318d81e</guid>
+    </item>
   </channel>
 </rss>
