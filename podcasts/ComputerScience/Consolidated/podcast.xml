@@ -335,5 +335,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-03_cs.ir106af3d9-5751-474a-9f29-2f38205ae707.mp3" type="audio/mp3" length="9121208"/>
       <guid>14cc8dca-d016-462f-95f4-e285a49132d3</guid>
     </item>
+    <item>
+      <title>2023-07-03 cs.LG: &quot;5 Secrets to Mastering Neural Networks, Reinforcement Learning, and Object Detection Algorithm Bias – Revealed!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17844v1 Title The Clock and the Pizza Two Stories in Mechanistic Explanation of Neural Networks
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17833v1 Title Resetting the Optimizer in Deep RL An Empirical Study
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17829v1 Title Federated Ensemble YOLOv5 A Better Generalized Object Detection Algorithm
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2212.03771v4 Title Expressive architectures enhance interpretability of dynamics based neural population models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.17828v1 Title Understanding Unfairness via Training Concept Influence</description>
+      <pubDate>Mon, 03 Jul 2023 08:32:45 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-03_cs.lg6f971567-47f0-4566-98ef-ba780e1ca354.mp3" type="audio/mp3" length="9005624"/>
+      <guid>c96e54ee-a13a-4bf2-8444-c2088d597412</guid>
+    </item>
   </channel>
 </rss>
