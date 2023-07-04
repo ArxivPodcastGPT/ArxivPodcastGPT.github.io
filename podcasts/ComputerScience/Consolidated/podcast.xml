@@ -390,5 +390,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-04_cs.aifac337a3-217d-477c-82ee-b5389af31c70.mp3" type="audio/mp3" length="9117656"/>
       <guid>75d512fa-aa44-47f5-8e0d-647fa0fcfbce</guid>
     </item>
+    <item>
+      <title>2023-07-04 cs.LG: &quot;5 Cutting-Edge Studies: Unveiling Change Detection, Neural Reasoning, Language Model Optimization, Time Series Prediction, and Fairness Enhancement&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.09548v2 Title Online Heavy tailed Change point detection
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2302.10258v2 Title Neural Algorithmic Reasoning with Causal Regularisation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15656v2 Title SparseOptimizer Sparsify Language Models through Moreau Yosida Regularization and Accelerate via Compiler Co design
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2110.02271v2 Title Networked Time Series Prediction with Incomplete Data
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2301.10813v2 Title Increasing Fairness via Combination with Learning Guarantees</description>
+      <pubDate>Tue, 04 Jul 2023 08:36:27 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-04_cs.lg3ed65457-0114-4af7-95f2-347aceb47de4.mp3" type="audio/mp3" length="10046360"/>
+      <guid>0dc7f70b-4357-480b-ab94-370795f807a1</guid>
+    </item>
   </channel>
 </rss>
