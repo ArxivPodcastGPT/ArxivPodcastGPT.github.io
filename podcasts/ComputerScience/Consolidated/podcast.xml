@@ -379,5 +379,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-03_cs.ro1af8d505-f4c9-48b6-941e-dde6454e3f7a.mp3" type="audio/mp3" length="10081112"/>
       <guid>2fb46c52-8bf0-4970-8e9c-6402c3930d63</guid>
     </item>
+    <item>
+      <title>2023-07-04 cs.AI: &quot;Unveiling the Cutting-Edge Advances in Neural Algorithmic Reasoning, Language Models, Fairness, and Generative Diffusion Models!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2302.10258v2 Title Neural Algorithmic Reasoning with Causal Regularisation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15656v2 Title SparseOptimizer Sparsify Language Models through Moreau Yosida Regularization and Accelerate via Compiler Co design
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2301.10813v2 Title Increasing Fairness via Combination with Learning Guarantees
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2210.05723v2 Title Embeddings as Epistemic States Limitations on the Use of Pooling Operators for Accumulating Knowledge
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2209.02646v9 Title A Survey on Generative Diffusion Model</description>
+      <pubDate>Tue, 04 Jul 2023 08:36:12 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-04_cs.aifac337a3-217d-477c-82ee-b5389af31c70.mp3" type="audio/mp3" length="9117656"/>
+      <guid>75d512fa-aa44-47f5-8e0d-647fa0fcfbce</guid>
+    </item>
   </channel>
 </rss>
