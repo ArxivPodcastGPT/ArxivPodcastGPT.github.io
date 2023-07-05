@@ -412,5 +412,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-05_cs.aic0a00284-2b2d-41ea-9c60-d7a7b59fa3ba.mp3" type="audio/mp3" length="7526840"/>
       <guid>97279063-4e24-4d59-bee4-989e5deeb09e</guid>
     </item>
+    <item>
+      <title>2023-07-05 cs.LG: &quot;Revolutionary Advances in Neural Fields, Diffusions, Change Point Detection, and Mobile Models: Unveiling the Key Breakthroughs&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.01199v1 Title NeuBTF Neural fields for BTF encoding and transfer
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.01198v1 Title Improved sampling via learned diffusions
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.09548v2 Title Online Heavy tailed Change point detection
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.01193v1 Title Squeezing Large Scale Diffusion Models for Mobile
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.01189v1 Title Trainable Transformer in Transformer</description>
+      <pubDate>Wed, 05 Jul 2023 08:38:46 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-05_cs.lg2830bde9-f170-478e-83f9-6675344858c6.mp3" type="audio/mp3" length="8242136"/>
+      <guid>7f10af5b-c216-4f1e-8dd7-0f3923a7b436</guid>
+    </item>
   </channel>
 </rss>
