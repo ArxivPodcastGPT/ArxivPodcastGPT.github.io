@@ -401,5 +401,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-04_cs.lg3ed65457-0114-4af7-95f2-347aceb47de4.mp3" type="audio/mp3" length="10046360"/>
       <guid>0dc7f70b-4357-480b-ab94-370795f807a1</guid>
     </item>
+    <item>
+      <title>2023-07-05 cs.AI: &quot;Revolutionary Breakthroughs: Neural Fields, Mobile Diffusion, Segment Anything, Planar Graphs, and Self-Supervised HAR Unveiled!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.01199v1 Title NeuBTF Neural fields for BTF encoding and transfer
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.01193v1 Title Squeezing Large Scale Diffusion Models for Mobile
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.01187v1 Title SAMAug Point Prompt Augmentation for Segment Anything Model
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.01180v1 Title PlanE Representation Learning over Planar Graphs
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.01168v1 Title Don t freeze Finetune encoders for better Self Supervised HAR</description>
+      <pubDate>Wed, 05 Jul 2023 08:33:47 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-05_cs.aic0a00284-2b2d-41ea-9c60-d7a7b59fa3ba.mp3" type="audio/mp3" length="7526840"/>
+      <guid>97279063-4e24-4d59-bee4-989e5deeb09e</guid>
+    </item>
   </channel>
 </rss>
