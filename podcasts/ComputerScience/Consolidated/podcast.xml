@@ -434,5 +434,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-06_cs.aib60af5df-7537-4fc4-a592-ca73f1e8ae3e.mp3" type="audio/mp3" length="7930712"/>
       <guid>26963a70-8b14-42c9-8748-868de5795d9d</guid>
     </item>
+    <item>
+      <title>2023-07-06 cs.LG: &quot;Mind-blowing Research Reveals How LongNet's Transformers Scale to 1 Billion Tokens &amp; Unveils Secrets of Compositionality, Elastic Decision Making, LLM Safety Training Fails, and the Fascinating Impact of Extrinsic Geometry on Linear Regression!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.02486v1 Title LongNet Scaling Transformers to 1 000 000 000 Tokens
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2201.12926v2 Title Compositionality as Lexical Symmetry
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.02484v1 Title Elastic Decision Transformer
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.02483v1 Title Jailbroken How Does LLM Safety Training Fail 
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.02478v1 Title Linear Regression on Manifold Structured Data the Impact of Extrinsic Geometry on Solutions</description>
+      <pubDate>Thu, 06 Jul 2023 08:34:59 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-06_cs.lgd5a077bb-865c-4a40-99cf-cd7a9a6491ee.mp3" type="audio/mp3" length="8340824"/>
+      <guid>da64edaf-8038-4dc8-ac90-91345384e6d8</guid>
+    </item>
   </channel>
 </rss>
