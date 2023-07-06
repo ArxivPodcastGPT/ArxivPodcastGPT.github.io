@@ -423,5 +423,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-05_cs.lg2830bde9-f170-478e-83f9-6675344858c6.mp3" type="audio/mp3" length="8242136"/>
       <guid>7f10af5b-c216-4f1e-8dd7-0f3923a7b436</guid>
     </item>
+    <item>
+      <title>2023-07-06 cs.AI: &quot;Unleashing the Power of Language Models: Transforming Agents, Exploring Limitations, and Scaling Performance!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.02485v1 Title Building Cooperative Embodied Agents Modularly with Large Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.02484v1 Title Elastic Decision Transformer
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.02477v1 Title Reasoning or Reciting Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.02472v1 Title Natural Language Deduction with Incomplete Information
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.02460v1 Title Performance Scaling via Optimal Transport Enabling Data Selection from Partially Revealed Sources</description>
+      <pubDate>Thu, 06 Jul 2023 08:34:01 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-06_cs.aib60af5df-7537-4fc4-a592-ca73f1e8ae3e.mp3" type="audio/mp3" length="7930712"/>
+      <guid>26963a70-8b14-42c9-8748-868de5795d9d</guid>
+    </item>
   </channel>
 </rss>
