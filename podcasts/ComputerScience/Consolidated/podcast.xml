@@ -445,5 +445,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-06_cs.lgd5a077bb-865c-4a40-99cf-cd7a9a6491ee.mp3" type="audio/mp3" length="8340824"/>
       <guid>da64edaf-8038-4dc8-ac90-91345384e6d8</guid>
     </item>
+    <item>
+      <title>2023-07-07 cs.LG: &quot;Supercharge Your Learning with Mind-Blowing AI Techniques: From Text to Cinemagraphs, Reinforcement Learning, Heterogeneous Feature Ensembles, Plant Foliage Exploration, and Context Scaling!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03190v1 Title Synthesizing Artistic Cinemagraphs from Text
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03186v1 Title TGRL An Algorithm for Teacher Guided Reinforcement Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03176v1 Title Learning Curves for Heterogeneous Feature Subsampled Ridge Ensembles
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03175v1 Title Push Past Green Learning to Look Behind Plant Foliage by Moving It
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03170v1 Title Focused Transformer Contrastive Training for Context Scaling</description>
+      <pubDate>Fri, 07 Jul 2023 08:31:56 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-07_cs.lgc04a1ea2-a85b-4c8a-a4cf-ae9fbbb85223.mp3" type="audio/mp3" length="7428152"/>
+      <guid>0ff35295-03d3-4075-952e-fa8dbe584fd2</guid>
+    </item>
   </channel>
 </rss>
