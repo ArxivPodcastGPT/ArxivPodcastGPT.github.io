@@ -467,5 +467,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-07_cs.aif2106866-cca9-43e8-8b27-98c9c19479b5.mp3" type="audio/mp3" length="7319384"/>
       <guid>955a57d0-79b0-4280-befb-abf9d2384ddc</guid>
     </item>
+    <item>
+      <title>2023-07-08 cs.LG: &quot;5 Cutting-Edge Studies Revolutionizing Machine Learning and Visual Artistry!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03190v1 Title Synthesizing Artistic Cinemagraphs from Text
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03186v1 Title TGRL An Algorithm for Teacher Guided Reinforcement Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03176v1 Title Learning Curves for Heterogeneous Feature Subsampled Ridge Ensembles
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03175v1 Title Push Past Green Learning to Look Behind Plant Foliage by Moving It
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03170v1 Title Focused Transformer Contrastive Training for Context Scaling</description>
+      <pubDate>Sat, 08 Jul 2023 08:28:20 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-08_cs.lg68ea9fec-bfd7-43a9-b035-ad35c9951384.mp3" type="audio/mp3" length="7330808"/>
+      <guid>edb8d249-1db9-4b73-be8d-31d0358276b5</guid>
+    </item>
   </channel>
 </rss>
