@@ -489,5 +489,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-08_cs.ai20a0f80b-2cc7-4b22-9399-aee54ae41e48.mp3" type="audio/mp3" length="8375864"/>
       <guid>e2c74b33-7c49-428d-bd77-bc15b9a6d21a</guid>
     </item>
+    <item>
+      <title>2023-07-09 cs.AI: &quot;Revolutionary Breakthroughs Revealed: Uncover the Secrets of Green Learning, Efficient Orderings, Context Scaling, Augmented Reality, and Vision Language Models!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03175v1 Title Push Past Green Learning to Look Behind Plant Foliage by Moving It
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03171v1 Title LEO Learning Efficient Orderings for Multiobjective Binary Decision Diagrams
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03170v1 Title Focused Transformer Contrastive Training for Context Scaling
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03162v1 Title BrickPal Augmented Reality based Assembly Instructions for Brick Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03135v1 Title Distilling Large Vision Language Model with Out of Distribution Generalizability</description>
+      <pubDate>Sun, 09 Jul 2023 08:28:21 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-09_cs.aid30803cc-a55d-4439-9556-fe7348b56750.mp3" type="audio/mp3" length="7713752"/>
+      <guid>94c71a55-68ea-4583-80e4-71312136484a</guid>
+    </item>
   </channel>
 </rss>
