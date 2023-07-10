@@ -511,5 +511,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-09_cs.lg8ed32245-473e-4493-81a6-65e3c2eb4690.mp3" type="audio/mp3" length="7129592"/>
       <guid>56927b43-150f-41dc-9a2c-611b230ba5fc</guid>
     </item>
+    <item>
+      <title>2023-07-10 cs.AI: &quot;Discover the Surprising Limitations and Cutting-Edge Applications of AI in these Fascinating Research Papers&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03750v1 Title When does the ID algorithm fail 
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.02792v2 Title What Should Data Science Education Do with Large Language Models 
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2212.11498v2 Title Scalable Multi Agent Reinforcement Learning for Warehouse Logistics with Robotic and Human Co Workers
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2112.09836v2 Title Creativity of AI Hierarchical Planning Model Learning for Facilitating Deep Reinforcement Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03705v1 Title Intelligent Robotic Sonographer Mutual Information based Disentangled Reward Learning from Few Demonstrations</description>
+      <pubDate>Mon, 10 Jul 2023 08:32:38 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-10_cs.ai1f6a574a-e521-4872-a7dd-62ab80455fcd.mp3" type="audio/mp3" length="9301592"/>
+      <guid>df6b777d-cc18-4036-8f21-d242fe34843f</guid>
+    </item>
   </channel>
 </rss>
