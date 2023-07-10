@@ -522,5 +522,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-10_cs.ai1f6a574a-e521-4872-a7dd-62ab80455fcd.mp3" type="audio/mp3" length="9301592"/>
       <guid>df6b777d-cc18-4036-8f21-d242fe34843f</guid>
     </item>
+    <item>
+      <title>2023-07-10 cs.LG: &quot;Discover the Surprising Pitfalls of the ID Algorithm and Unleash the Power of Collaborative Science, Quantized Inference, Hybrid Learning, and Homogenization!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03750v1 Title When does the ID algorithm fail 
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03748v1 Title Incentive Theoretic Bayesian Inference for Collaborative Science
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.03738v1 Title QIGen Generating Efficient Kernels for Quantized Inference on Large Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.00125v2 Title RObotic MAnipulation Network ROMAN unicode x2013 Hybrid Hierarchical Learning for Solving Complex Sequential Tasks
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.12006v2 Title Learning Homogenization for Elliptic Operators</description>
+      <pubDate>Mon, 10 Jul 2023 08:32:56 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-10_cs.lg29e4d36a-c57d-42da-a803-f901a2abe0f6.mp3" type="audio/mp3" length="9097304"/>
+      <guid>e1d68329-ac36-464e-ab0e-ad2f0415a951</guid>
+    </item>
   </channel>
 </rss>
