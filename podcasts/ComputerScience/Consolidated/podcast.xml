@@ -533,5 +533,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-10_cs.lg29e4d36a-c57d-42da-a803-f901a2abe0f6.mp3" type="audio/mp3" length="9097304"/>
       <guid>e1d68329-ac36-464e-ab0e-ad2f0415a951</guid>
     </item>
+    <item>
+      <title>2023-07-11 cs.LG: &quot;Unveiling the Cutting-Edge Techniques: Machine Learning, Robotics, and Privacy in Complex Systems!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04755v1 Title Information decomposition to identify relevant variation in complex systems with machine learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04751v1 Title Shelving Stacking Hanging Relational Pose Diffusion for Multi modal Rearrangement
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04749v1 Title Divide Evaluate and Refine Evaluating and Improving Text to Image Alignment with Iterative VQA Feedback
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04738v1 Title RoCo Dialectic Multi Robot Collaboration with Large Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04733v1 Title A unifying framework for differentially private quantum algorithms</description>
+      <pubDate>Tue, 11 Jul 2023 08:34:06 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-11_cs.lg302b7b76-3244-4fb2-a632-697e493fef60.mp3" type="audio/mp3" length="8378072"/>
+      <guid>d4c7b339-0d69-402b-9e0c-c62cbce6c465</guid>
+    </item>
   </channel>
 </rss>
