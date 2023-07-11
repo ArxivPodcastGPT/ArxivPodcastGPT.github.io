@@ -544,5 +544,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-11_cs.lg302b7b76-3244-4fb2-a632-697e493fef60.mp3" type="audio/mp3" length="8378072"/>
       <guid>d4c7b339-0d69-402b-9e0c-c62cbce6c465</guid>
     </item>
+    <item>
+      <title>2023-07-11 cs.AI: &quot;Revolutionary AI Breakthroughs: Unveiling the Secrets of Text-to-Image Alignment, Multi-Robot Collaboration, Reinforcement Learning, Language Models, and AI Planning!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04749v1 Title Divide Evaluate and Refine Evaluating and Improving Text to Image Alignment with Iterative VQA Feedback
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04738v1 Title RoCo Dialectic Multi Robot Collaboration with Large Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04726v1 Title Diffusion Policies for Out of Distribution Generalization in Offline Reinforcement Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04721v1 Title Large Language Models as General Pattern Machines
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04701v1 Title Understanding Real World AI Planning Domains A Conceptual Framework</description>
+      <pubDate>Tue, 11 Jul 2023 08:35:22 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-11_cs.ai89f4c843-6592-4115-9e39-f4796ceedfad.mp3" type="audio/mp3" length="10842104"/>
+      <guid>c16ac676-2c66-4bd2-aed0-85a2da56fb49</guid>
+    </item>
   </channel>
 </rss>
