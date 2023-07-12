@@ -555,5 +555,12 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-11_cs.ai89f4c843-6592-4115-9e39-f4796ceedfad.mp3" type="audio/mp3" length="10842104"/>
       <guid>c16ac676-2c66-4bd2-aed0-85a2da56fb49</guid>
     </item>
+    <item>
+      <title>2023-07-12 cs.LG: &quot;The Jaw-Dropping Papers You Won't Believe Exist: Unveiling Mind-Blowing Discoveries!&quot;</title>
+      <description/>
+      <pubDate>Wed, 12 Jul 2023 08:27:01 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-12_cs.lg278fd02c-3b16-4041-ae03-b08206ce85c7.mp3" type="audio/mp3" length="39688"/>
+      <guid>e3c44aba-2327-48e9-819e-1916c7e9d0a6</guid>
+    </item>
   </channel>
 </rss>
