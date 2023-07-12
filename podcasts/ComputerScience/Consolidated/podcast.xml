@@ -562,5 +562,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-12_cs.lg278fd02c-3b16-4041-ae03-b08206ce85c7.mp3" type="audio/mp3" length="39688"/>
       <guid>e3c44aba-2327-48e9-819e-1916c7e9d0a6</guid>
     </item>
+    <item>
+      <title>2023-07-12 cs.AI: &quot;Unveiling Cutting-Edge Technologies: AI Masters Night Image Enhancement, Sign Language Translations, and 3D Satellite Innovations!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2211.11030v4 Title Adversarial Cheap Talk
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.05447v1 Title Bio Inspired Night Image Enhancement Based on Contrast Enhancement and Denoising
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.05440v1 Title ISLTranslate Dataset for Translating Indian Sign Language
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2302.00390v2 Title Hierarchical Classification of Research Fields in the Web of Science Using Deep Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.05409v1 Title 3D detection of roof sections from a single satellite image and application to LOD2 building reconstruction</description>
+      <pubDate>Wed, 12 Jul 2023 08:34:48 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-12_cs.aib501b04a-51f7-4fd9-a9c7-289fe70ce1ef.mp3" type="audio/mp3" length="7943864"/>
+      <guid>a19373b9-7822-4625-8350-e4423e870b21</guid>
+    </item>
   </channel>
 </rss>
