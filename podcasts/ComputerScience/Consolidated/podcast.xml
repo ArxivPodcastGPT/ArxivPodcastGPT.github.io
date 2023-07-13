@@ -573,5 +573,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-12_cs.aib501b04a-51f7-4fd9-a9c7-289fe70ce1ef.mp3" type="audio/mp3" length="7943864"/>
       <guid>a19373b9-7822-4625-8350-e4423e870b21</guid>
     </item>
+    <item>
+      <title>2023-07-13 cs.AI: &quot;Revolutionary Research Papers: Human-AI Collaboration, Offline RL Breakthrough, AI Music Generation, Vision Transformer Innovation, and Ethical AI Dilemmas Solved!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.06333v1 Title Diagnosis Feedback Adaptation A Human in the Loop Framework for Test Time Policy Adaptation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.06328v1 Title Budgeting Counterfactual for Offline RL
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04686v2 Title VampNet Music Generation via Masked Acoustic Token Modeling
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.06304v1 Title Patch n Pack NaViT a Vision Transformer for any Aspect Ratio and Resolution
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2305.01424v2 Title Uncertain Machine Ethical Decisions Using Hypothetical Retrospection</description>
+      <pubDate>Thu, 13 Jul 2023 08:31:49 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-13_cs.ai5cd11c86-7ee6-4030-ad1e-e4e7cf37b793.mp3" type="audio/mp3" length="9073976"/>
+      <guid>ec021155-ee6d-473d-90bc-5e1ef8a2af0f</guid>
+    </item>
   </channel>
 </rss>
