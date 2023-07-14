@@ -605,5 +605,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-14_cs.ai82efbc87-ed4a-4401-9cd2-cc2e60ea9b36.mp3" type="audio/mp3" length="6798792"/>
       <guid>6e1a8c8e-48b0-4d91-9087-a912b87a2ce2</guid>
     </item>
+    <item>
+      <title>2023-07-14 cs.LG: &quot;Revolutionizing AI: Fast Personalization and Context Compression for Text-to-Image Models, Game Theory Insights, and Cutting-Edge Mechanism Design!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.06949v1 Title HyperDreamBooth HyperNetworks for Fast Personalization of Text to Image Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.06945v1 Title In context Autoencoder for Context Compression in a Large Language Model
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.06941v1 Title On the Connection between Game Theoretic Feature Attributions and Counterfactual Explanations
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/1912.13122v4 Title Declarative Mechanism Design
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.06925v1 Title Domain Agnostic Tuning Encoder for Fast Personalization of Text To Image Models</description>
+      <pubDate>Fri, 14 Jul 2023 08:31:27 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-14_cs.lg01a62809-2528-4179-b3c1-7fcc82299df6.mp3" type="audio/mp3" length="8444120"/>
+      <guid>00cbbaea-bdb7-4862-a613-c3c413468400</guid>
+    </item>
   </channel>
 </rss>
