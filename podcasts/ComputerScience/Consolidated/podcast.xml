@@ -660,5 +660,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-16_cs.lg48d10d72-fb18-4fe7-af7f-e5ac0ebd6c15.mp3" type="audio/mp3" length="7578008"/>
       <guid>fa6cf227-72c3-4fc6-ae94-020aec592e5b</guid>
     </item>
+    <item>
+      <title>2023-07-17 cs.AI: &quot;Unlocking the Secrets of AI: From Black Box Algorithms to Facial Expression Learning and Action Recognition!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2110.03443v2 Title Unpacking the Black Box Regulating Algorithmic Decisions
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2305.01486v3 Title ARBEx Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.07469v1 Title Interactive Spatiotemporal Token Attention Network for Skeleton based General Interactive Action Recognition
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.07457v1 Title Structured Pruning of Neural Networks for Constraints Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2305.14724v2 Title I Spy a Metaphor Large Language Models and Diffusion Models Co Create Visual Metaphors</description>
+      <pubDate>Mon, 17 Jul 2023 08:32:35 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-17_cs.aicbb37e8d-b26f-477d-a913-791fa1c292ed.mp3" type="audio/mp3" length="7609880"/>
+      <guid>e1083a88-12c9-404e-92fd-5689ee278c64</guid>
+    </item>
   </channel>
 </rss>
