@@ -671,5 +671,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-17_cs.aicbb37e8d-b26f-477d-a913-791fa1c292ed.mp3" type="audio/mp3" length="7609880"/>
       <guid>e1083a88-12c9-404e-92fd-5689ee278c64</guid>
     </item>
+    <item>
+      <title>2023-07-17 cs.LG: &quot;Revolutionary AI Breakthroughs: Expressive Monotonic Neural Networks, Model Versioning System, Unpacking Algorithmic Decisions, Brain Tumor Detection, and More!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.07512v1 Title Expressive Monotonic Neural Networks
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.07507v1 Title MGit A Model Versioning and Management System
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2110.03443v2 Title Unpacking the Black Box Regulating Algorithmic Decisions
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.07503v1 Title Brain Tumor Detection using Convolutional Neural Networks with Skip Connections
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.07489v1 Title PseudoCal A Source Free Approach to Unsupervised Uncertainty Calibration in Domain Adaptation</description>
+      <pubDate>Mon, 17 Jul 2023 08:32:52 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-17_cs.lg7274e569-5d1d-4f50-817a-db2a7a6fea9b.mp3" type="audio/mp3" length="8901560"/>
+      <guid>ca85ffb7-5c0b-407a-9e69-819fca530ecd</guid>
+    </item>
   </channel>
 </rss>
