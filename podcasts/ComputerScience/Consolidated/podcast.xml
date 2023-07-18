@@ -682,5 +682,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-17_cs.lg7274e569-5d1d-4f50-817a-db2a7a6fea9b.mp3" type="audio/mp3" length="8901560"/>
       <guid>ca85ffb7-5c0b-407a-9e69-819fca530ecd</guid>
     </item>
+    <item>
+      <title>2023-07-18 cs.AI: &quot;Revolutionary Research Reveals Incredible Breakthroughs in Machine Learning, Satellites, and Natural Language Processing!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2302.03665v3 Title HumanMAC Masked Motion Completion for Human Motion Prediction
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.08700v1 Title Fast model inference and training on board of Satellites
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.08699v1 Title Pair then Relation Pair Net for Panoptic Scene Graph Generation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2210.00131v3 Title Underspecification in Language Modeling Tasks A Causality Informed Study of Gendered Pronoun Resolution
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.08689v1 Title COLLIE Systematic Construction of Constrained Text Generation Tasks</description>
+      <pubDate>Tue, 18 Jul 2023 08:31:18 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-18_cs.ai7536b5b3-9cfe-499d-bbe5-6bf7c1e4c1fa.mp3" type="audio/mp3" length="8042072"/>
+      <guid>5c6cad42-9868-4fec-9f9e-42807ee88326</guid>
+    </item>
   </channel>
 </rss>
