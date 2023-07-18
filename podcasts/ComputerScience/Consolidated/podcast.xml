@@ -693,5 +693,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-18_cs.ai7536b5b3-9cfe-499d-bbe5-6bf7c1e4c1fa.mp3" type="audio/mp3" length="8042072"/>
       <guid>5c6cad42-9868-4fec-9f9e-42807ee88326</guid>
     </item>
+    <item>
+      <title>2023-07-18 cs.LG: &quot;Revolutionary AI Breakthroughs: Unleashing the Power of Latent Space, Microgrid Energy Management, Faster Attention, Constrained Text Generation, and Causal Effects Estimation with R!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.08698v1 Title Flow Matching in Latent Space
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.08692v1 Title A Multiobjective Reinforcement Learning Framework for Microgrid Energy Management
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.08691v1 Title FlashAttention 2 Faster Attention with Better Parallelism and Work Partitioning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.08689v1 Title COLLIE Systematic Construction of Constrained Text Generation Tasks
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.08686v1 Title An R package for parametric estimation of causal effects</description>
+      <pubDate>Tue, 18 Jul 2023 08:33:56 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-18_cs.lg81257ea4-8882-441a-a1da-109044b42a3f.mp3" type="audio/mp3" length="14027384"/>
+      <guid>3dd837f1-aca3-4f50-bec1-d3b32579281b</guid>
+    </item>
   </channel>
 </rss>
