@@ -714,5 +714,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-19_cs.lg26367183-dd5f-4bd1-a965-276a51d7c3e9.mp3" type="audio/mp3" length="6145800"/>
       <guid>54404505-ccc7-46ec-9f36-bee5a2165af5</guid>
     </item>
+    <item>
+      <title>2023-07-19 cs.AI: &quot;Mind-Blowing Advances in AI Research: How Language Models Process False Demonstrations, Sparsify, Accelerate, and Shape Rewards for Reinforcement Learning!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.09476v1 Title Overthinking the Truth Understanding how Language Models Process False Demonstrations
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15656v3 Title SparseOptimizer Sparsify Language Models through Moreau Yosida Regularization and Accelerate via Compiler Co design
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2212.03181v2 Title Funnel based Reward Shaping for Signal Temporal Logic Tasks in Reinforcement Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.09437v1 Title Unsupervised Conditional Slot Attention for Object Centric Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.09435v1 Title SLMGAN Exploiting Speech Language Model Representations for Unsupervised Zero Shot Voice Conversion in GANs</description>
+      <pubDate>Wed, 19 Jul 2023 08:29:14 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-19_cs.ai2d99729d-b8fd-44f4-80ff-0e2b77419f4c.mp3" type="audio/mp3" length="8530328"/>
+      <guid>0aa2820f-12dd-40e0-b0be-ea9d068cb007</guid>
+    </item>
   </channel>
 </rss>
