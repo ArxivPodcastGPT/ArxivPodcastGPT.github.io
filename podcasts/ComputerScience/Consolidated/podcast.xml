@@ -725,5 +725,15 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-19_cs.ai2d99729d-b8fd-44f4-80ff-0e2b77419f4c.mp3" type="audio/mp3" length="8530328"/>
       <guid>0aa2820f-12dd-40e0-b0be-ea9d068cb007</guid>
     </item>
+    <item>
+      <title>2023-07-20 cs.AI: &quot;Revolutionizing Conversational AI, Path Representation &amp; Reinforcement Learning: Introducing the Ultimate API Recommendation Engine&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.10172v1 Title DialogStudio Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.10171v1 Title LightPath Lightweight and Scalable Path Representation Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.10160v1 Title Robust Driving Policy Learning with Guided Meta Reinforcement Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2212.07253v2 Title API Miner an API to API Specification Recommendation Engine</description>
+      <pubDate>Thu, 20 Jul 2023 08:28:52 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-20_cs.aidfce803d-e7af-4c6d-8cef-00bb0c60129c.mp3" type="audio/mp3" length="7325832"/>
+      <guid>dc67ed00-d225-41ff-b9d6-94893ceec4b5</guid>
+    </item>
   </channel>
 </rss>
