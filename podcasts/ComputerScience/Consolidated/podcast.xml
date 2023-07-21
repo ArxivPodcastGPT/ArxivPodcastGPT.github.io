@@ -745,5 +745,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-20_cs.lgd7b728dc-da23-4436-9a4d-d9d72af901fd.mp3" type="audio/mp3" length="6558408"/>
       <guid>c5d019ba-5c5e-4374-b7a7-d39a0185e26a</guid>
     </item>
+    <item>
+      <title>2023-07-21 cs.AI: &quot;Revolutionizing Conversational AI: Unveiling the Ultimate Dataset, Proximity Enhancements, Supercharged Chatbot Math, and Groundbreaking Object Detection and Image Editing Techniques!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.10172v2 Title DialogStudio Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.11086v1 Title PAPR Proximity Attention Point Rendering
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2301.13867v2 Title Mathematical Capabilities of ChatGPT
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.11077v1 Title AlignDet Aligning Pre training and Fine tuning in Object Detection
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.11073v1 Title OBJECT 3DIT Language guided 3D aware Image Editing</description>
+      <pubDate>Fri, 21 Jul 2023 08:30:06 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-21_cs.ai84f2f8f2-f5cd-4ae9-a01e-0f178fd42a91.mp3" type="audio/mp3" length="8495768"/>
+      <guid>758cdd08-f552-46f8-9f85-fef1a2a96d95</guid>
+    </item>
   </channel>
 </rss>
