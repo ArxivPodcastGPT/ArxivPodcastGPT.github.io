@@ -756,5 +756,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-21_cs.ai84f2f8f2-f5cd-4ae9-a01e-0f178fd42a91.mp3" type="audio/mp3" length="8495768"/>
       <guid>758cdd08-f552-46f8-9f85-fef1a2a96d95</guid>
     </item>
+    <item>
+      <title>2023-07-21 cs.LG: &quot;Unveiling the Secrets of Quantum Correlations, Revolutionary Rendering Techniques, Cutting-Edge Medical Segmentation, Mind-Blowing Capabilities of ChatGPT, and Anomaly Detection Breakthrough: A Grand Challenge!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.11091v1 Title Data driven criteria for quantum correlations
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.11086v1 Title PAPR Proximity Attention Point Rendering
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.07269v2 Title Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2301.13867v2 Title Mathematical Capabilities of ChatGPT
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.11085v1 Title Representation Learning in Anomaly Detection Successes Limits and a Grand Challenge</description>
+      <pubDate>Fri, 21 Jul 2023 08:30:12 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-21_cs.lg5a936dd3-30c3-419b-b35b-14e6757aa659.mp3" type="audio/mp3" length="10893272"/>
+      <guid>5b8fba47-80e0-49e3-9049-dfcebb206a1d</guid>
+    </item>
   </channel>
 </rss>
