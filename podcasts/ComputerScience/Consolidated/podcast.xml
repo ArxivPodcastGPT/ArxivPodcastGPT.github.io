@@ -822,5 +822,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-24_cs.ai28b0f5e6-4389-4520-939b-279371dae027.mp3" type="audio/mp3" length="6745304"/>
       <guid>84019db8-cfd1-440a-a992-ca7fe65ccacb</guid>
     </item>
+    <item>
+      <title>2023-07-24 cs.LG: &quot;Revolutionary Techniques Unveiled: Privacy, Optimization and Security in Cutting-edge AI Research!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.11749v1 Title Differentially Private Heavy Hitter Detection using Federated Analytics
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.03327v2 Title Tight Bounds for Regret via the Decision Estimation Coefficient
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.11732v1 Title Advancing Ad Auction Realism Practical Insights Modeling Implications
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.11730v1 Title Mitigating Communications Threats in Decentralized Federated Learning through Moving Target Defense
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2302.10870v2 Title On Provable Copyright Protection for Generative Models</description>
+      <pubDate>Mon, 24 Jul 2023 08:29:56 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-24_cs.lg473e05d1-9174-4f66-993e-55bdf8323410.mp3" type="audio/mp3" length="10294808"/>
+      <guid>1c837ffc-cf54-47cc-9316-8d98527cf9be</guid>
+    </item>
   </channel>
 </rss>
