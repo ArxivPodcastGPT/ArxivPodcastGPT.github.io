@@ -811,5 +811,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-23_cs.ai16b0345b-1dc1-4d03-840c-483e521c0947.mp3" type="audio/mp3" length="9678392"/>
       <guid>d1bce282-810b-4b05-b2a6-e5caa456ec49</guid>
     </item>
+    <item>
+      <title>2023-07-24 cs.AI: &quot;Revolutionary Techniques to Enhance Security, Knowledge Acquisition, and AI Advancements Unveiled in Groundbreaking Research Papers!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.11730v1 Title Mitigating Communications Threats in Decentralized Federated Learning through Moving Target Defense
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.11719v1 Title Benchmark datasets for biomedical knowledge graphs with negative statements
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.15471v3 Title Embedding Contextual Information through Reward Shaping in Multi Agent Learning A Case Study from Google Football
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.11709v1 Title Statement based Memory for Neural Source Code Summarization
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.10490v2 Title Ab using Images and Sounds for Indirect Instruction Injection in Multi Modal LLMs</description>
+      <pubDate>Mon, 24 Jul 2023 08:29:07 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-24_cs.ai28b0f5e6-4389-4520-939b-279371dae027.mp3" type="audio/mp3" length="6745304"/>
+      <guid>84019db8-cfd1-440a-a992-ca7fe65ccacb</guid>
+    </item>
   </channel>
 </rss>
