@@ -833,5 +833,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-24_cs.lg473e05d1-9174-4f66-993e-55bdf8323410.mp3" type="audio/mp3" length="10294808"/>
       <guid>1c837ffc-cf54-47cc-9316-8d98527cf9be</guid>
     </item>
+    <item>
+      <title>2023-07-25 cs.LG: &quot;Discover the Secrets of Cutting-Edge AI Research: From Parallel Q Learning to 3D World Integration and Sparse Transformers!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.12983v1 Title Parallel Q Learning Scaling Off policy Reinforcement Learning under Massively Parallel Simulation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.12981v1 Title 3D LLM Injecting the 3D World into Large Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.06147v2 Title Exphormer Sparse Transformers for Graphs
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2209.05407v3 Title Segmenting Known Objects and Unseen Unknowns without Prior Knowledge
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.12979v1 Title An Isometric Stochastic Optimizer</description>
+      <pubDate>Tue, 25 Jul 2023 08:30:11 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-25_cs.lg0302fda7-4a73-4769-bdbb-3ae721198cf7.mp3" type="audio/mp3" length="9435800"/>
+      <guid>6b2c11fb-f7f9-4ab7-b028-6ae4104f7e0a</guid>
+    </item>
   </channel>
 </rss>
