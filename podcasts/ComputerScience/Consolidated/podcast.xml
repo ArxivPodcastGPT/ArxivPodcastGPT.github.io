@@ -844,5 +844,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-25_cs.lg0302fda7-4a73-4769-bdbb-3ae721198cf7.mp3" type="audio/mp3" length="9435800"/>
       <guid>6b2c11fb-f7f9-4ab7-b028-6ae4104f7e0a</guid>
     </item>
+    <item>
+      <title>2023-07-25 cs.AI: &quot;Revolutionary Advances in Reinforcement Learning, Language Models, and Neural Networks!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.12983v1 Title Parallel Q Learning Scaling Off policy Reinforcement Learning under Massively Parallel Simulation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.12981v1 Title 3D LLM Injecting the 3D World into Large Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.12968v1 Title A Connection between One Step Regularization and Critic Regularization in Reinforcement Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.12950v1 Title RLCD Reinforcement Learning from Contrast Distillation for Language Model Alignment
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.12941v1 Title On Privileged and Convergent Bases in Neural Network Representations</description>
+      <pubDate>Tue, 25 Jul 2023 08:30:28 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-25_cs.ai13494563-5b2c-45b0-ac9a-77079dfb6d1a.mp3" type="audio/mp3" length="10540664"/>
+      <guid>70ad70d9-217d-4790-8b61-7202e7eda717</guid>
+    </item>
   </channel>
 </rss>
