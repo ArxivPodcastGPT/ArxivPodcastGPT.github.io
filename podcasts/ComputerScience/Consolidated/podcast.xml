@@ -866,5 +866,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-26_cs.aic08be2c6-1eb1-4a07-9a65-d082a4897589.mp3" type="audio/mp3" length="9630200"/>
       <guid>d533da21-2c38-417d-a2bf-4235ef90084a</guid>
     </item>
+    <item>
+      <title>2023-07-26 cs.LG: &quot;5 Cutting-Edge AI Techniques: From Advanced Reasoning to Ensemble Classifiers!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.13692v1 Title ARB Advanced Reasoning Benchmark for Large Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/1905.10448v4 Title Geometric Wavelet Scattering Networks on Compact Riemannian Manifolds
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.06296v2 Title Stabilizing Transformer Training by Preventing Attention Entropy Collapse
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.13680v1 Title High Probability Analysis for Non Convex Stochastic Optimization with Clipping
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.13679v1 Title RED CoMETS An ensemble classifier for symbolically represented multivariate time series</description>
+      <pubDate>Wed, 26 Jul 2023 08:30:31 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-26_cs.lg7abecde4-ec36-4edf-9601-8da68bd1eecd.mp3" type="audio/mp3" length="9771800"/>
+      <guid>78475bcb-c51c-49c6-bb23-6c58754036bb</guid>
+    </item>
   </channel>
 </rss>
