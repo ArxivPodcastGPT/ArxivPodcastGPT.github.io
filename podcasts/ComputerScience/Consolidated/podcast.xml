@@ -855,5 +855,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-25_cs.ai13494563-5b2c-45b0-ac9a-77079dfb6d1a.mp3" type="audio/mp3" length="10540664"/>
       <guid>70ad70d9-217d-4790-8b61-7202e7eda717</guid>
     </item>
+    <item>
+      <title>2023-07-26 cs.AI: &quot;Unveiling Cutting-Edge Research: From Generative Data to AI Accountability, Discover the Newest Trends in Visual Recognition and Computational Pathology!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.13697v1 Title Benchmarking and Analyzing Generative Data for Visual Recognition
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.12914v2 Title Towards a Visual Language Foundation Model for Computational Pathology
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.06296v2 Title Stabilizing Transformer Training by Preventing Attention Entropy Collapse
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.13681v1 Title The Visual Language of Fabrics
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.13658v1 Title Towards an AI Accountability Policy</description>
+      <pubDate>Wed, 26 Jul 2023 08:30:19 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-26_cs.aic08be2c6-1eb1-4a07-9a65-d082a4897589.mp3" type="audio/mp3" length="9630200"/>
+      <guid>d533da21-2c38-417d-a2bf-4235ef90084a</guid>
+    </item>
   </channel>
 </rss>
