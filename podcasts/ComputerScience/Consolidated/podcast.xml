@@ -888,5 +888,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-27_cs.aiff2fe32a-1658-446f-aa80-497496b6ad39.mp3" type="audio/mp3" length="7412120"/>
       <guid>ef812935-dd83-429c-95f9-7aab647e5b47</guid>
     </item>
+    <item>
+      <title>2023-07-27 cs.LG: &quot;Revolutionizing AI: Unlocking Tabular Deep Learning, Robotic Manipulation, LLMs, and more!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.14338v1 Title TabR Unlocking the Power of Retrieval Augmented Tabular Deep Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.14326v1 Title Waypoint Based Imitation Learning for Robotic Manipulation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.14324v1 Title Evaluating the Moral Beliefs Encoded in LLMs
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.14316v1 Title Reinforcement Learning by Guided Safe Exploration
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.14304v1 Title A Constraint Enforcement Deep Reinforcement Learning Framework for Optimal Energy Storage Systems Dispatch</description>
+      <pubDate>Thu, 27 Jul 2023 08:30:57 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-27_cs.lgbca6ea80-a80a-4568-9c1c-fcb7609a8e79.mp3" type="audio/mp3" length="9530840"/>
+      <guid>387c440c-ea6c-4cd9-9c4c-5f19115ec3d3</guid>
+    </item>
   </channel>
 </rss>
