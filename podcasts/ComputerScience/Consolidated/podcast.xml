@@ -899,5 +899,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-27_cs.lgbca6ea80-a80a-4568-9c1c-fcb7609a8e79.mp3" type="audio/mp3" length="9530840"/>
       <guid>387c440c-ea6c-4cd9-9c4c-5f19115ec3d3</guid>
     </item>
+    <item>
+      <title>2023-07-28 cs.LG: &quot;Revolutionary AI Research: Cutting-edge Methods for Recommendations, Text Recognition, Language Models, and Distributed Machine Learning Unveiled!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.15053v1 Title On Normalised Discounted Cumulative Gain as an Offline Evaluation Metric for Top n Recommendation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.15045v1 Title A Transformer based Approach for Arabic Offline Handwritten Text Recognition
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.15043v1 Title Universal and Transferable Adversarial Attacks on Aligned Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2206.10291v2 Title Algorithmic Gaussianization through Sketching Converting Data into Sub gaussian Random Designs
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2305.02109v2 Title Synergies Between Federated Learning and O RAN Towards an Elastic Virtualized Architecture for Multiple Distributed Machine Learning Services</description>
+      <pubDate>Fri, 28 Jul 2023 08:28:50 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-28_cs.lg79d36e07-e44f-4255-9508-7800a7bfa250.mp3" type="audio/mp3" length="7215224"/>
+      <guid>e0eb184b-ace0-492f-befb-dd1b501f310d</guid>
+    </item>
   </channel>
 </rss>
