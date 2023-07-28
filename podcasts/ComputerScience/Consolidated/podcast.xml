@@ -910,5 +910,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-28_cs.lg79d36e07-e44f-4255-9508-7800a7bfa250.mp3" type="audio/mp3" length="7215224"/>
       <guid>e0eb184b-ace0-492f-befb-dd1b501f310d</guid>
     </item>
+    <item>
+      <title>2023-07-28 cs.AI: &quot;Revolutionizing Clinical Trials, Language Models, and Machine Learning: Discover the Latest Breakthroughs!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.15051v1 Title Matching Patients to Clinical Trials with Large Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.00866v2 Title Mining Clues from Incomplete Utterance A Query enhanced Network for Incomplete Utterance Rewriting
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.15043v1 Title Universal and Transferable Adversarial Attacks on Aligned Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2305.02109v2 Title Synergies Between Federated Learning and O RAN Towards an Elastic Virtualized Architecture for Multiple Distributed Machine Learning Services
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.15020v1 Title SuperCLUE A Comprehensive Chinese Large Language Model Benchmark</description>
+      <pubDate>Fri, 28 Jul 2023 08:30:24 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-28_cs.ai3be42d4f-8eed-4974-906a-e37e44f4241e.mp3" type="audio/mp3" length="12342584"/>
+      <guid>b24a1d34-2a51-4f98-9072-d0d6f5092c97</guid>
+    </item>
   </channel>
 </rss>
