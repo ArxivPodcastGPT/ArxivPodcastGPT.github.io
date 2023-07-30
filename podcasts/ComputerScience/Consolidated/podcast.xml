@@ -953,5 +953,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-30_cs.lgecc0c9c5-82a4-42ad-9288-c4301620f389.mp3" type="audio/mp3" length="9732920"/>
       <guid>db50e7a7-8dd8-4bab-9a1a-bcdd29f0301a</guid>
     </item>
+    <item>
+      <title>2023-07-30 cs.AI: &quot;Revolutionary Breakthroughs in Language Models: From Clinical Trials to Adversarial Attacks, Unleashing the Power of Federated Learning and Virtualized Machine Learning Services&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.15051v1 Title Matching Patients to Clinical Trials with Large Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.00866v2 Title Mining Clues from Incomplete Utterance A Query enhanced Network for Incomplete Utterance Rewriting
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.15043v1 Title Universal and Transferable Adversarial Attacks on Aligned Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2305.02109v2 Title Synergies Between Federated Learning and O RAN Towards an Elastic Virtualized Architecture for Multiple Distributed Machine Learning Services
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.15020v1 Title SuperCLUE A Comprehensive Chinese Large Language Model Benchmark</description>
+      <pubDate>Sun, 30 Jul 2023 08:26:09 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-30_cs.ai57bb8deb-5733-4f7f-a4c7-72ab107ccb19.mp3" type="audio/mp3" length="10614584"/>
+      <guid>b2b695b9-8632-4aa7-a66f-abaf71148131</guid>
+    </item>
   </channel>
 </rss>
