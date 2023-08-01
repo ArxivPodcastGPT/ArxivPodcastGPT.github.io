@@ -964,5 +964,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-07-30_cs.ai57bb8deb-5733-4f7f-a4c7-72ab107ccb19.mp3" type="audio/mp3" length="10614584"/>
       <guid>b2b695b9-8632-4aa7-a66f-abaf71148131</guid>
     </item>
+    <item>
+      <title>2023-08-01 cs.AI: &quot;Unveiling Cutting-Edge Research: The Ultimate Compilation of Immersive Neural Fields, Fault Diagnosis Techniques, Symbolic Algorithm Discoveries, Limited Data Image Synthesis, and API Aspect Analysis!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.16897v1 Title DiVA 360 The Dynamic Visuo Audio Dataset for Immersive Neural Fields
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.16891v1 Title Foundational Models for Fault Diagnosis of Electrical Motors
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.16890v1 Title Discovering Adaptable Symbolic Algorithms from Scratch
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.16879v1 Title Image Synthesis under Limited Data A Survey and Taxonomy
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.16878v1 Title Contrastive Learning for API Aspect Analysis</description>
+      <pubDate>Tue, 01 Aug 2023 08:30:48 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-01_cs.ai39117a16-9b69-4789-82f5-337d294fe374.mp3" type="audio/mp3" length="8418200"/>
+      <guid>2781c479-65ab-4206-9e58-a9aab97efbfb</guid>
+    </item>
   </channel>
 </rss>
