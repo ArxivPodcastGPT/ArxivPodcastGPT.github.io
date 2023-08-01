@@ -975,5 +975,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-01_cs.ai39117a16-9b69-4789-82f5-337d294fe374.mp3" type="audio/mp3" length="8418200"/>
       <guid>2781c479-65ab-4206-9e58-a9aab97efbfb</guid>
     </item>
+    <item>
+      <title>2023-08-01 cs.LG: &quot;Revolutionary Techniques and Breakthroughs in Control, Diagnosis, Algorithms, and Simulation Unveiled!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.16895v1 Title Conformal PID Control for Time Series Prediction
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.16891v1 Title Foundational Models for Fault Diagnosis of Electrical Motors
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.16890v1 Title Discovering Adaptable Symbolic Algorithms from Scratch
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.16888v1 Title Virtual Prompt Injection for Instruction Tuned Large Language Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04780v2 Title Comparison of Point Cloud and Image based Models for Calorimeter Fast Simulation</description>
+      <pubDate>Tue, 01 Aug 2023 08:31:06 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-01_cs.lg94b0ea30-54c4-418d-963f-6524f673f62b.mp3" type="audio/mp3" length="9759608"/>
+      <guid>d370cf08-0136-46e3-8259-28a446e83b3a</guid>
+    </item>
   </channel>
 </rss>
