@@ -986,5 +986,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-01_cs.lg94b0ea30-54c4-418d-963f-6524f673f62b.mp3" type="audio/mp3" length="9759608"/>
       <guid>d370cf08-0136-46e3-8259-28a446e83b3a</guid>
     </item>
+    <item>
+      <title>2023-08-02 cs.AI: &quot;Revolutionizing Tech Research: From Diffusion Models to Universal Place Recognition, Summarization, and Reinforcement Learning!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.00848v5 Title Variational Diffusion Models 2 0 Understanding Diffusion Model Objectives as the ELBO with Simple Data Augmentation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.00688v1 Title AnyLoc Towards Universal Visual Place Recognition
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2305.04853v2 Title The Current State of Summarization
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2305.17372v2 Title Reinforcement Learning With Reward Machines in Stochastic Games
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.00678v1 Title Applicability of scaling laws to vision encoding models</description>
+      <pubDate>Wed, 02 Aug 2023 08:30:49 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-02_cs.aid5b8cd3a-5525-4dd1-8030-d464f9631c58.mp3" type="audio/mp3" length="10429688"/>
+      <guid>e561a9f2-d389-400c-a989-ac157434f112</guid>
+    </item>
   </channel>
 </rss>
