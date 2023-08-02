@@ -997,5 +997,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-02_cs.aid5b8cd3a-5525-4dd1-8030-d464f9631c58.mp3" type="audio/mp3" length="10429688"/>
       <guid>e561a9f2-d389-400c-a989-ac157434f112</guid>
     </item>
+    <item>
+      <title>2023-08-02 cs.LG: &quot;Learn about Variational Diffusion, Hypervector Encoding, Source Code Pretraining, Reinforcement Learning, and More in this Mind-Blowing Paper Compilation!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2303.00848v5 Title Variational Diffusion Models 2 0 Understanding Diffusion Model Objectives as the ELBO with Simple Data Augmentation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.00685v1 Title Learning from Hypervectors A Survey on Hypervector Encoding
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.00683v1 Title CodeBPE Investigating Subtokenization Options for Large Language Model Pretraining on Source Code
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2305.17372v2 Title Reinforcement Learning With Reward Machines in Stochastic Games
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.00675v1 Title Tool Documentation Enables Zero Shot Tool Usage with Large Language Models</description>
+      <pubDate>Wed, 02 Aug 2023 08:31:21 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-02_cs.lg19b59f70-da7c-46f6-b00e-b439426242d6.mp3" type="audio/mp3" length="10037816"/>
+      <guid>4aa4fdf1-6a91-4551-8bb7-53ecbb9936d2</guid>
+    </item>
   </channel>
 </rss>
