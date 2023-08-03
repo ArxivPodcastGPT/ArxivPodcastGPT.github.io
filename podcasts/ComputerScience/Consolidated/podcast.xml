@@ -1019,5 +1019,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-03_cs.lgf572a357-af69-48f6-b6dd-afcb31cf7ca0.mp3" type="audio/mp3" length="8751416"/>
       <guid>f3a014dd-3579-4d24-85d3-8a682b061a69</guid>
     </item>
+    <item>
+      <title>2023-08-03 cs.AI: &quot;Revolutionizing AI: From Contextual Attributes to Co-Creativity, CamemBERT's Health Benefits, Building Blocks of Reasoning and AI Detecting AI!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.01313v1 Title More Context Less Distraction Visual Classification by Inferring and Conditioning on Contextual Attributes
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.01312v1 Title Lode Encoder AI constrained co creativity
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.15550v2 Title CamemBERT bio a Tasty French Language Model Better for your Health
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.01285v1 Title Flows Building Blocks of Reasoning and Collaborating AI
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.01284v1 Title Fighting Fire with Fire Can ChatGPT Detect AI generated Text </description>
+      <pubDate>Thu, 03 Aug 2023 08:29:54 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-03_cs.aid16169cc-5147-45de-b50b-b08627a78617.mp3" type="audio/mp3" length="11926328"/>
+      <guid>3bf17cf4-b0c2-4c7c-a3eb-60be65ffd236</guid>
+    </item>
   </channel>
 </rss>
