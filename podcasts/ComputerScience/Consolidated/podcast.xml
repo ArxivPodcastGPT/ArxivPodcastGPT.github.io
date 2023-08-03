@@ -1008,5 +1008,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-02_cs.lg19b59f70-da7c-46f6-b00e-b439426242d6.mp3" type="audio/mp3" length="10037816"/>
       <guid>4aa4fdf1-6a91-4551-8bb7-53ecbb9936d2</guid>
     </item>
+    <item>
+      <title>2023-08-03 cs.LG: &quot;Uncover the Hidden Secrets of AI-Driven Visual Classification, Creative AI Encounters Boundaries, Next-gen Grocery Shopping Recommendations: A Novel Approach, Safeguarding News Integrity: Battling Harmful Agendas, Ensuring Security in Autonomous Systems: The BRNES Revolution&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.01313v1 Title More Context Less Distraction Visual Classification by Inferring and Conditioning on Contextual Attributes
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.01312v1 Title Lode Encoder AI constrained co creativity
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.01308v1 Title Masked and Swapped Sequence Modeling for Next Novel Basket Recommendation in Grocery Shopping
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2302.00102v3 Title Towards Detecting Harmful Agendas in News Articles
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.01274v1 Title BRNES Enabling Security and Privacy aware Experience Sharing in Multiagent Robotic and Autonomous Systems</description>
+      <pubDate>Thu, 03 Aug 2023 08:28:36 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-03_cs.lgf572a357-af69-48f6-b6dd-afcb31cf7ca0.mp3" type="audio/mp3" length="8751416"/>
+      <guid>f3a014dd-3579-4d24-85d3-8a682b061a69</guid>
+    </item>
   </channel>
 </rss>
