@@ -1030,5 +1030,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-03_cs.aid16169cc-5147-45de-b50b-b08627a78617.mp3" type="audio/mp3" length="11926328"/>
       <guid>3bf17cf4-b0c2-4c7c-a3eb-60be65ffd236</guid>
     </item>
+    <item>
+      <title>2023-08-04 cs.AI: &quot;Revolutionary Studies Unveil Mind-Blowing Breakthroughs in Deep Learning, Preprints, &amp; Continual Learning!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.01906v1 Title Reasoning in Large Language Models Through Symbolic Math Word Problems
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.01905v1 Title Revisiting Deformable Convolution for Depth Completion
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.01899v1 Title How many preprints have actually been printed and why a case study of computer science preprints on arXiv
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.01895v1 Title Improving Replay Sample Selection and Storage for Less Forgetting in Continual Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2306.05357v2 Title Unsupervised Compositional Concepts Discovery with Text to Image Generative Models</description>
+      <pubDate>Fri, 04 Aug 2023 08:29:08 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-04_cs.ai1921357f-4d74-455a-9d58-9c74e644c114.mp3" type="audio/mp3" length="9777176"/>
+      <guid>1d0b5ee9-9b57-4ee2-9fca-db3639f06abf</guid>
+    </item>
   </channel>
 </rss>
