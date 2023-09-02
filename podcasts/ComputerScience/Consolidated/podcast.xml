@@ -1063,5 +1063,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-09-02_cs.lg09d3c058-0416-4ff2-bc33-584ad95059ab.mp3" type="audio/mp3" length="8219000"/>
       <guid>5a534599-f8e2-4e8d-b3bd-3fdb29aeeb33</guid>
     </item>
+    <item>
+      <title>2023-09-02 cs.AI: &quot;Revolutionary AI Breakthroughs: Offline Reinforcement Learning, Language Models, Video Generation, 3D Interactions and More!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04726v2 Title Diffusion Policies for Out of Distribution Generalization in Offline Reinforcement Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.16911v1 Title PointLLM Empowering Large Language Models to Understand Point Clouds
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.16909v1 Title StyleInV A Temporal Style Modulated Inversion Network for Unconditional Video Generation
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.16905v1 Title InterDiff Generating 3D Human Object Interactions with Physics Informed Diffusion
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.16898v1 Title Transformers as Support Vector Machines</description>
+      <pubDate>Sat, 02 Sep 2023 08:29:18 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-09-02_cs.ai8134408f-9fc3-4b64-b39a-8f48eff63b1c.mp3" type="audio/mp3" length="9031448"/>
+      <guid>1a8c0279-ff49-4759-b6c6-dcedb27189cb</guid>
+    </item>
   </channel>
 </rss>
