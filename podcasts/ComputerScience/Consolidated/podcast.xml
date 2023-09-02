@@ -1052,5 +1052,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-08-04_cs.lgb8986923-3633-4b05-9ae5-5a1eff18414b.mp3" type="audio/mp3" length="9051320"/>
       <guid>c49bbb63-f5bd-4b32-a45a-d558a706d630</guid>
     </item>
+    <item>
+      <title>2023-09-02 cs.LG: &quot;Revolutionary Research Papers: From Reinforcement Learning to Wine Tasting, Unveiling Groundbreaking Techniques!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2307.04726v2 Title Diffusion Policies for Out of Distribution Generalization in Offline Reinforcement Learning
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.16904v1 Title A Note on Randomized Kaczmarz Algorithm for Solving Doubly Noisy Linear Systems
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.16900v1 Title Learning to Taste A Multimodal Wine Dataset
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.16898v1 Title Transformers as Support Vector Machines
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2308.16896v1 Title PointOcc Cylindrical Tri Perspective View for Point based 3D Semantic Occupancy Prediction</description>
+      <pubDate>Sat, 02 Sep 2023 08:28:55 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-09-02_cs.lg09d3c058-0416-4ff2-bc33-584ad95059ab.mp3" type="audio/mp3" length="8219000"/>
+      <guid>5a534599-f8e2-4e8d-b3bd-3fdb29aeeb33</guid>
+    </item>
   </channel>
 </rss>
