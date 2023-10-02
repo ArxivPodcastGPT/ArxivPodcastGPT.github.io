@@ -1074,5 +1074,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-09-02_cs.ai8134408f-9fc3-4b64-b39a-8f48eff63b1c.mp3" type="audio/mp3" length="9031448"/>
       <guid>1a8c0279-ff49-4759-b6c6-dcedb27189cb</guid>
     </item>
+    <item>
+      <title>2023-10-02 cs.AI: &quot;Revolutionary Research: Incredible Tools and Techniques for Efficient Multi-Robot Systems!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2309.17453v1 Title Efficient Streaming Language Models with Attention Sinks
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2309.17452v1 Title ToRA A Tool Integrated Reasoning Agent for Mathematical Problem Solving
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2309.17444v1 Title LLM grounded Video Diffusion Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2309.17437v1 Title Learning Decentralized Flocking Controllers with Spatio Temporal Graph Neural Network
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2309.17433v1 Title DREAM Decentralized Reinforcement Learning for Exploration and Efficient Energy Management in Multi Robot Systems</description>
+      <pubDate>Mon, 02 Oct 2023 08:30:43 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-10-02_cs.ai50bb59cb-23d8-4c9d-bfb5-52a18af193d0.mp3" type="audio/mp3" length="7794008"/>
+      <guid>5394d051-e84f-4211-b0ca-f7b2277c4828</guid>
+    </item>
   </channel>
 </rss>
