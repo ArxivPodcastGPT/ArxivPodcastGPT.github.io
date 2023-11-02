@@ -1105,5 +1105,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-02_cs.ai0b99b4e0-5768-4cdf-84f3-63c54cd08d0a.mp3" type="audio/mp3" length="5526424"/>
       <guid>18dc46c3-714b-4f4f-b140-0ad3d49cdddf</guid>
     </item>
+    <item>
+      <title>2023-11-02 cs.LG: &quot;Unlocking the Secrets of AI: From Customizing Images to Cyber Security &amp; Communication Skills&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2302.04841v3 Title Is This Loss Informative Faster Text to Image Customization by Tracking Objective Dynamics
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2311.00696v1 Title Decision Support Framework for Home Health Caregiver Allocation A Case Study of HHC Agency in Tennessee USA
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2311.00691v1 Title Software Repositories and Machine Learning Research in Cyber Security
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2311.00690v1 Title What User Behaviors Make the Differences During the Process of Visual Analytics 
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2311.00687v1 Title Improving Interpersonal Communication by Simulating Audiences with Language Models</description>
+      <pubDate>Thu, 02 Nov 2023 08:30:27 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-02_cs.lg7a9dd65c-90b4-4203-bd28-fe0e492a5bb1.mp3" type="audio/mp3" length="8858936"/>
+      <guid>607d542f-7cf0-421a-84a7-79a07e885bab</guid>
+    </item>
   </channel>
 </rss>
