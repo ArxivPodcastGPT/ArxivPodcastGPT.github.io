@@ -1096,5 +1096,14 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-10-02_cs.lg7b71fea0-eb77-4e0f-8f08-383a040e5adc.mp3" type="audio/mp3" length="6785144"/>
       <guid>8ecbe7cf-068d-49b7-b012-1671e430a982</guid>
     </item>
+    <item>
+      <title>2023-11-02 cs.AI: &quot;Revolutionary Language Models: Unleashing Creativity, Boosting Problem Solving, and Enhancing Communication!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2311.00694v1 Title Unleashing the Creative Mind Language Model As Hierarchical Policy For Improved Exploration on Challenging Problem Solving
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2311.00693v1 Title On Task personalized Multimodal Few shot Learning for Visually rich Document Entity Retrieval
+ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/abs/2311.00687v1 Title Improving Interpersonal Communication by Simulating Audiences with Language Models</description>
+      <pubDate>Thu, 02 Nov 2023 08:28:22 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-02_cs.ai0b99b4e0-5768-4cdf-84f3-63c54cd08d0a.mp3" type="audio/mp3" length="5526424"/>
+      <guid>18dc46c3-714b-4f4f-b140-0ad3d49cdddf</guid>
+    </item>
   </channel>
 </rss>
