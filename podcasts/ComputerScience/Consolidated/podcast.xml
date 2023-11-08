@@ -1116,5 +1116,12 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-02_cs.lg7a9dd65c-90b4-4203-bd28-fe0e492a5bb1.mp3" type="audio/mp3" length="8858936"/>
       <guid>607d542f-7cf0-421a-84a7-79a07e885bab</guid>
     </item>
+    <item>
+      <title>2023-11-08 AI: &quot;10 'Game-Changing' Research Papers You NEED to Read - Guaranteed to Blow your Mind!&quot;</title>
+      <description/>
+      <pubDate>Wed, 08 Nov 2023 17:09:09 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-08_ai:_&quot;437ebc35-048d-4711-8c5b-8bb39df36e89.mp3" type="audio/mp3" length="39688"/>
+      <guid>1902cc7b-1172-43fc-b87e-4c08312f5902</guid>
+    </item>
   </channel>
 </rss>
