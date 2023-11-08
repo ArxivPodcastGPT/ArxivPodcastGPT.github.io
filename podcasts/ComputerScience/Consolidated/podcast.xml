@@ -1130,5 +1130,12 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-08_cl:_&quot;68f0da70-a09b-4584-8dd3-edd7964319cb.mp3" type="audio/mp3" length="39688"/>
       <guid>a47b42db-e266-48b0-9638-9b2446fd9266</guid>
     </item>
+    <item>
+      <title>2023-11-08 CL: &quot;5 Groundbreaking Scientific Discoveries That Will Blow Your Mind!&quot;</title>
+      <description/>
+      <pubDate>Wed, 08 Nov 2023 17:12:38 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-08_cl:_&quot;609901a5-f8bc-400b-a5cc-f364e5883aa8.mp3" type="audio/mp3" length="39688"/>
+      <guid>c0aba572-4383-473f-8907-d9f730ab7234</guid>
+    </item>
   </channel>
 </rss>
