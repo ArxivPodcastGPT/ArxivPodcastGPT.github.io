@@ -1151,5 +1151,14 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-08_cl:_&quot;7cd0c6d1-05b4-4713-97ac-6c555cd96d30.mp3" type="audio/mp3" length="39688"/>
       <guid>d3468b98-30a5-4ec9-9a37-759b379217e5</guid>
     </item>
+    <item>
+      <title>2023-11-08 cs.AI: &quot;Mind-Blowing Discoveries: OtterHD Models, Magic Garment Reconstruction, and Mood Detection Using Video Games!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.04219v1 Title OtterHD A High Resolution Multi modality Model
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.04218v1 Title Towards Garment Sewing Pattern Reconstruction from a Single Image
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.04215v1 Title Wearable data from subjects playing Super Mario sitting university exams or performing physical exercise help detect acute mood episodes via self supervised learning</description>
+      <pubDate>Wed, 08 Nov 2023 17:19:56 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-08_cs.aifc4e7123-483e-45af-9871-85d7236c1bb3.mp3" type="audio/mp3" length="19648216"/>
+      <guid>512290c3-1035-4740-a29c-61a4198dbb04</guid>
+    </item>
   </channel>
 </rss>
