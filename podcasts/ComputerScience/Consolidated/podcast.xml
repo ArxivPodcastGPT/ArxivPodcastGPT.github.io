@@ -1137,5 +1137,12 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-16k for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-08_cl:_&quot;609901a5-f8bc-400b-a5cc-f364e5883aa8.mp3" type="audio/mp3" length="39688"/>
       <guid>c0aba572-4383-473f-8907-d9f730ab7234</guid>
     </item>
+    <item>
+      <title>2023-11-08 CL: &quot;Mind-Blowing Research Papers that Will Revolutionize Your Understanding of the World!&quot;</title>
+      <description/>
+      <pubDate>Wed, 08 Nov 2023 17:13:11 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-08_cl:_&quot;214f1b87-1ea5-480a-b8c0-e8347e16b3c9.mp3" type="audio/mp3" length="39688"/>
+      <guid>b777b195-0c53-4303-8776-aa13defbb47b</guid>
+    </item>
   </channel>
 </rss>
