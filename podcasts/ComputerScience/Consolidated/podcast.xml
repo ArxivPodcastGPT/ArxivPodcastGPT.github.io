@@ -1171,5 +1171,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-08_cs.aie1737134-23b4-4de3-bf5a-30e4e29532d2.mp3" type="audio/mp3" length="33703928"/>
       <guid>6dd2918f-2bea-4cd8-957f-67ef19a67b65</guid>
     </item>
+    <item>
+      <title>2023-11-08 cs.LG: 5 Mind-Blowing Research Papers That Will Revolutionize AI and Data Science</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.04218v1 Title Towards Garment Sewing Pattern Reconstruction from a Single Image
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.04215v1 Title Wearable data from subjects playing Super Mario sitting university exams or performing physical exercise help detect acute mood episodes via self supervised learning
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.04205v1 Title Rephrase and Respond Let Large Language Models Ask Better Questions for Themselves
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.04190v1 Title Spatio Temporal Anomaly Detection with Graph Networks for Data Quality Monitoring of the Hadron Calorimeter
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2303.15714v4 Title Explicit Planning Helps Language Models in Logical Reasoning</description>
+      <pubDate>Wed, 08 Nov 2023 22:41:12 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-08_cs.lg832211b2-f06e-4fae-96c7-eee8e4cf2ee5.mp3" type="audio/mp3" length="33331928"/>
+      <guid>17fcb377-fd59-4e2b-9ef8-be1bbbaa42fd</guid>
+    </item>
   </channel>
 </rss>
