@@ -1192,5 +1192,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-09_cs.lge542e837-c518-4ca0-9275-4e3e9b2c19a6.mp3" type="audio/mp3" length="22201512"/>
       <guid>f4d64552-d7fc-41fd-912c-735079e408b6</guid>
     </item>
+    <item>
+      <title>2023-11-09 cs.AI: &quot;Unraveling the Secrets of Large Language Models: Gradients, Pruning, and Watermarks - A Journey into Multimodal Causal Disentanglement!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.04902v1 Title Beyond Size How Gradients Shape Pruning Decisions in Large Language Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.04898v1 Title Two Complementary Perspectives to Continual Learning Ask Not Only What to Optimize But Also How
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2308.00113v2 Title Three Bricks to Consolidate Watermarks for Large Language Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.04894v1 Title DAMEX Dataset aware Mixture of Experts for visual understanding of mixture of datasets
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2310.18471v2 Title Causal disentanglement of multimodal data</description>
+      <pubDate>Thu, 09 Nov 2023 16:10:28 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-09_cs.ai7d26e00f-0373-46d4-890f-1978250e22ec.mp3" type="audio/mp3" length="28157528"/>
+      <guid>1d69e332-b53f-48c6-8e1c-a932e9afdc8a</guid>
+    </item>
   </channel>
 </rss>
