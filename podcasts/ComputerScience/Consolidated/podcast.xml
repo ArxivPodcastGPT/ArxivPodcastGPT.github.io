@@ -1203,5 +1203,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-09_cs.ai7d26e00f-0373-46d4-890f-1978250e22ec.mp3" type="audio/mp3" length="28157528"/>
       <guid>1d69e332-b53f-48c6-8e1c-a932e9afdc8a</guid>
     </item>
+    <item>
+      <title>2023-11-11 cs.LG: &quot;Revolutionary Techniques Unveiled: Train Massive AI Models, Simulate Reality, Read Minds, and Solve Quantum Puzzles!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.05610v1 Title Efficient Parallelization Layouts for Large Scale Distributed Model Training
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.05606v1 Title Diffusion Generative Multi Fidelity Learning for Physical Simulation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.03764v2 Title Neuro GPT Developing A Foundation Model for EEG
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.05598v1 Title Sorting Out Quantum Monte Carlo
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.05596v1 Title LLM Augmented Hierarchical Agents</description>
+      <pubDate>Sat, 11 Nov 2023 08:28:02 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-11_cs.lgce2d2036-6ea1-4029-829f-3690259740b4.mp3" type="audio/mp3" length="30421208"/>
+      <guid>98b86623-548e-4a57-a039-6086391c82db</guid>
+    </item>
   </channel>
 </rss>
