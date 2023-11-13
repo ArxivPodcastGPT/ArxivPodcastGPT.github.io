@@ -1247,5 +1247,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_cs.lg9a0b0342-fad5-4422-ad0a-6bb13baad849.mp3" type="audio/mp3" length="27164888"/>
       <guid>9e1c65e6-818e-44fc-ae9e-3bb93ae66597</guid>
     </item>
+    <item>
+      <title>2023-11-13 cs.AI: &quot;Scientists Unveil Shocking Secrets of AI: Revolutionary Fine-Tuning, Alarming Data Contamination, and the Surprising Power of Synthetic Datasets!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06243v1 Title Parameter Efficient Orthogonal Finetuning via Butterfly Factorization
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06233v1 Title Data Contamination Quiz A Tool to Detect and Estimate Contamination in Large Language Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06224v1 Title Harnessing Synthetic Datasets The Role of Shape Bias in Deep Neural Network Generalization
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06217v1 Title MultiIoT Towards Large scale Multisensory Learning for the Internet of Things
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2304.02754v2 Title Conceptual structure coheres in human cognition but not in large language models</description>
+      <pubDate>Mon, 13 Nov 2023 08:32:22 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_cs.aid765b393-d380-4677-b848-de884b435b84.mp3" type="audio/mp3" length="28742648"/>
+      <guid>776a601c-b93e-421b-afcd-39696305e31c</guid>
+    </item>
   </channel>
 </rss>
