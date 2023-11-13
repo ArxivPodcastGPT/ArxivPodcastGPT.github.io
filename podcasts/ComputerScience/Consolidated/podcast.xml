@@ -1302,5 +1302,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_stat:1754d701-dfe5-4ef9-a505-f34521d26601.mp3" type="audio/mp3" length="30763928"/>
       <guid>4212e7cc-f377-45f5-9275-77f9d55b2eb9</guid>
     </item>
+    <item>
+      <title>2023-11-13 q-fin: &quot;Discover How AI and Optimal Strategies Revolutionize Everything from Youth Jobs in Ghana to Catastrophe Insurance Profits!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06048 Title Empirical Review of Youth Employment Programs in Ghana
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.05977 Title Price mediated contagion with endogenous market liquidity
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.05840 Title Predictive AI for SME and Large Enterprise Financial Performance Management
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.05822 Title Optimal taxation and the Domar Musgrave effect
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.05781 Title Optimal dividend strategies for a catastrophe insurer</description>
+      <pubDate>Mon, 13 Nov 2023 19:59:41 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_q-fin153fa4ee-4606-4ab3-98c6-b702b3348573.mp3" type="audio/mp3" length="28370168"/>
+      <guid>83ff7d47-b824-4b7a-b2cd-89673be993e0</guid>
+    </item>
   </channel>
 </rss>
