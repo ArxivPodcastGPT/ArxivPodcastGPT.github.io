@@ -1291,5 +1291,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_econ:c8e131e6-348c-434b-85a4-bea03c22610a.mp3" type="audio/mp3" length="27889688"/>
       <guid>c71dc5ef-23ed-4d06-b4cd-f3006f30415c</guid>
     </item>
+    <item>
+      <title>2023-11-13 stat: &quot;Scientists Shatter Limits of Machine Learning: Unveiling Revolutionary Techniques for Decoding Brain Signals and Predicting Behavior!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06220 Title Bayesian nonparametric generative modeling of large multivariate non Gaussian spatial fields
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06212 Title Differentiable VQ VAE s for Robust White Matter Streamline Encodings
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06139 Title Jump Particle Filtering Framework for Joint Target Tracking and Intent Recognition
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06138 Title Minimum norm interpolation by perceptra Explicit regularization and implicit bias
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06108 Title Nonparametric consistency for maximum likelihood estimation and clustering based on mixtures of elliptically symmetric distributions</description>
+      <pubDate>Mon, 13 Nov 2023 19:54:28 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_stat:1754d701-dfe5-4ef9-a505-f34521d26601.mp3" type="audio/mp3" length="30763928"/>
+      <guid>4212e7cc-f377-45f5-9275-77f9d55b2eb9</guid>
+    </item>
   </channel>
 </rss>
