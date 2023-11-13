@@ -1269,5 +1269,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_cs:_&quot;12240b7d-d86d-4a7e-8274-754d9736ac8f.mp3" type="audio/mp3" length="28879448"/>
       <guid>dd85a31b-c439-44bf-ac37-6e84ec8797ba</guid>
     </item>
+    <item>
+      <title>2023-11-13 q-bio: &quot;Scientists Discover Groundbreaking Techniques to Map Brain Signals and Unravel Protein Mysteries!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06194 Title CESPED a new benchmark for supervised particle pose estimation in Cryo EM
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06159 Title Discrete synaptic events induce global oscillations in balanced neural networks
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06074 Title Two compartment neuronal spiking model expressing brain state specific apical amplification isolation and drive regimes
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06034 Title Structure of the space of folding protein sequences defined by large language models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.05862 Title Emergence and reconfiguration of modular structure for synaptic neural networks during continual familiarity detection</description>
+      <pubDate>Mon, 13 Nov 2023 19:43:23 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_q-biob18e391f-d497-4e11-8e97-1eee83b43968.mp3" type="audio/mp3" length="31130168"/>
+      <guid>16b01d0d-7550-45f3-a698-e80c06080eb3</guid>
+    </item>
   </channel>
 </rss>
