@@ -1280,5 +1280,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_q-biob18e391f-d497-4e11-8e97-1eee83b43968.mp3" type="audio/mp3" length="31130168"/>
       <guid>16b01d0d-7550-45f3-a698-e80c06080eb3</guid>
     </item>
+    <item>
+      <title>2023-11-13 econ: &quot;Economists Reveal Shocking Findings: From Youth Jobs to Tax Secrets, Discover How Patience Can Change the Game!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06092 Title Patience ensures fairness
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06048 Title Empirical Review of Youth Employment Programs in Ghana
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.05883 Title Time Varying Identification of Monetary Policy Shocks
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.05822 Title Optimal taxation and the Domar Musgrave effect
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.05758 Title Collective Sampling An Ex Ante Perspective</description>
+      <pubDate>Mon, 13 Nov 2023 19:48:42 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_econ:c8e131e6-348c-434b-85a4-bea03c22610a.mp3" type="audio/mp3" length="27889688"/>
+      <guid>c71dc5ef-23ed-4d06-b4cd-f3006f30415c</guid>
+    </item>
   </channel>
 </rss>
