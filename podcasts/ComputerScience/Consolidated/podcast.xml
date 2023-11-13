@@ -1258,5 +1258,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_cs.aid765b393-d380-4677-b848-de884b435b84.mp3" type="audio/mp3" length="28742648"/>
       <guid>776a601c-b93e-421b-afcd-39696305e31c</guid>
     </item>
+    <item>
+      <title>2023-11-13 cs: &quot;Revolutionary Tech Breakthroughs Unveiled: From Summoning Digital Demons to Visionary AI and Beyond!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06243 Title Parameter Efficient Orthogonal Finetuning via Butterfly Factorization
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06242 Title Florence 2 Advancing a Unified Representation for a Variety of Vision Tasks
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06241 Title Nonnegativity Problems for Matrix Semigroups
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06239 Title Argumentation Element Annotation Modeling using XLNet
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.06237 Title Summon a Demon and Bind it A Grounded Theory of LLM Red Teaming in the Wild</description>
+      <pubDate>Mon, 13 Nov 2023 19:38:20 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_cs:_&quot;12240b7d-d86d-4a7e-8274-754d9736ac8f.mp3" type="audio/mp3" length="28879448"/>
+      <guid>dd85a31b-c439-44bf-ac37-6e84ec8797ba</guid>
+    </item>
   </channel>
 </rss>
