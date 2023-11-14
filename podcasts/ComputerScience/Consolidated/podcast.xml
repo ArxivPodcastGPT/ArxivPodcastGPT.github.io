@@ -1335,5 +1335,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-14_q-bioa524758e-3154-418d-8a81-cf4bcf495904.mp3" type="audio/mp3" length="29441048"/>
       <guid>c1fa95e9-ec31-4991-94c3-476891c149d9</guid>
     </item>
+    <item>
+      <title>2023-11-14 econ: &quot;Unveil Secrets to Winning at Work and Life: Surprising Links Between Risk, Technology Overload, AI Power, Tough Decisions, and the Rebellion Transforming Our Society!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07269 Title Decision making under risk when is utility maximization equivalent to risk minimization 
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07072 Title Technostress and Job Performance Understanding the Negative Impacts and Strategic Responses in the Workplace
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07071 Title The Impact of Generative Artificial Intelligence
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07067 Title High Dimensional Binary Choice Model with Unknown Heteroskedasticity or Instrumental Variables
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07010 Title From Authority Respect to Grassroots Dissent Degree Weighted Social Learning and Convergence Speed</description>
+      <pubDate>Tue, 14 Nov 2023 08:45:35 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-14_econ:a74ad8fd-037d-40c5-a044-55a3992167f5.mp3" type="audio/mp3" length="27633848"/>
+      <guid>76831163-5a51-4cdf-92d9-1fd0fdf06442</guid>
+    </item>
   </channel>
 </rss>
