@@ -1313,5 +1313,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-13_q-fin153fa4ee-4606-4ab3-98c6-b702b3348573.mp3" type="audio/mp3" length="28370168"/>
       <guid>83ff7d47-b824-4b7a-b2cd-89673be993e0</guid>
     </item>
+    <item>
+      <title>2023-11-14 cs: &quot;Revolutionizing AI: Breakthrough Techniques Merge Vision and Text, Unlock Secrets of Space Curves, and Could Save Lives from Power Disasters!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07575 Title SPHINX The Joint Mixing of Weights Tasks and Visual Embeddings for Multi modal Large Language Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07574 Title To See is to Believe Prompting GPT 4V for Better Visual Instruction Tuning
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07573 Title Realizability of Free Spaces of Curves
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07569 Title Optimal Load Shedding for Public Safety Power Shutoffs
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07568 Title Feature emergence via margin maximization case studies in algebraic tasks</description>
+      <pubDate>Tue, 14 Nov 2023 08:31:51 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-14_cs:_&quot;d56c9914-cd45-49dd-a84f-814e8edc4e6f.mp3" type="audio/mp3" length="28544408"/>
+      <guid>9b713122-cbb1-4b54-a17c-e5f6d7c18047</guid>
+    </item>
   </channel>
 </rss>
