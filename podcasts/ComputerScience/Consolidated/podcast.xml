@@ -1368,5 +1368,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-14_q-finfbb9ce94-fe8e-4ac0-b8d7-34d3be6315cd.mp3" type="audio/mp3" length="28726808"/>
       <guid>189773b8-7929-459a-8166-cd7a47c40b73</guid>
     </item>
+    <item>
+      <title>2023-11-14 astro-ph: &quot;Black Holes Spin Secrets, Alien Worlds Exposed, and Stellar Romances Unraveled: Breakthrough Discoveries that Will Blow Your Mind!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07576 Title On the connection between AGN radiative feedback and massive black hole spin
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07557 Title Backreaction of axion SU 2 dynamics during inflation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07530 Title Retrievals Applied To A Decision Tree Framework Can Characterize Earth like Exoplanet Analogs
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07528 Title The Effects of Wind Roche lobe Overflow on Binary Evolution
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07525 Title CCD Photometry of the Globular Cluster NGC 5897</description>
+      <pubDate>Tue, 14 Nov 2023 14:57:14 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-14_astro426c85e9-0da7-4ac7-a101-546fc6415a77.mp3" type="audio/mp3" length="32061848"/>
+      <guid>eda5f08c-39c9-4bee-8ea2-b1b146c884f5</guid>
+    </item>
   </channel>
 </rss>
