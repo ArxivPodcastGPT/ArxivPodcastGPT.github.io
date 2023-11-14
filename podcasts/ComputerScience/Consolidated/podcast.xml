@@ -1324,5 +1324,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-14_cs:_&quot;d56c9914-cd45-49dd-a84f-814e8edc4e6f.mp3" type="audio/mp3" length="28544408"/>
       <guid>9b713122-cbb1-4b54-a17c-e5f6d7c18047</guid>
     </item>
+    <item>
+      <title>2023-11-14 q-bio: &quot;Scientists Use Artificial Brains to Unlock Secrets of Behavior, Biodiversity, Viruses, and Heart Cells!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07526 Title Grounding Neuroscience in Behavioral Changes using Artificial Neural Networks
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07494 Title Biodiversity analysis of metaproteomics samples with Unipept a comprehensive tutorial
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07448 Title Evolution of SLiM mediated hijack functions in intrinsically disordered viral proteins
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07315 Title An introduction to reinforcement learning for neuroscience
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07313 Title Fibroblast mediated dynamics in diffusively uncoupled myocytes a simulation study using 2 cell motifs</description>
+      <pubDate>Tue, 14 Nov 2023 08:38:42 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-14_q-bioa524758e-3154-418d-8a81-cf4bcf495904.mp3" type="audio/mp3" length="29441048"/>
+      <guid>c1fa95e9-ec31-4991-94c3-476891c149d9</guid>
+    </item>
   </channel>
 </rss>
