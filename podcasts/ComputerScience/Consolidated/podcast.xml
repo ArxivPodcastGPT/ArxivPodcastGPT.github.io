@@ -1357,5 +1357,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-14_stat:ff3298c6-ea48-47c8-82fd-0594c7f13521.mp3" type="audio/mp3" length="28717208"/>
       <guid>11b5a91a-0fe7-4237-b8d7-01728a9a805b</guid>
     </item>
+    <item>
+      <title>2023-11-14 q-fin: &quot;AI Predicts Your Financial Future: Unveiling Groundbreaking Techniques That Could Revolutionize Your Wallet!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07513 Title A Hypothesis on Good Practices for AI based Systems for Financial Time Series Forecasting Towards Domain Driven XAI Methods
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07478 Title Optimal portfolio allocation with uncertain covariance matrix
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07231 Title Error Analysis of Option Pricing via Deep PDE Solvers Empirical Study
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07211 Title A Gaussian Process Based Method with Deep Kernel Learning for Pricing High dimensional American Options
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07072 Title Technostress and Job Performance Understanding the Negative Impacts and Strategic Responses in the Workplace</description>
+      <pubDate>Tue, 14 Nov 2023 08:58:50 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-14_q-finfbb9ce94-fe8e-4ac0-b8d7-34d3be6315cd.mp3" type="audio/mp3" length="28726808"/>
+      <guid>189773b8-7929-459a-8166-cd7a47c40b73</guid>
+    </item>
   </channel>
 </rss>
