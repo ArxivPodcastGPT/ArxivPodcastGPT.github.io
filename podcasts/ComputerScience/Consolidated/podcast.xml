@@ -1401,5 +1401,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-15_q-bio270c6e41-dac4-4db4-a5c2-9d8ba3cc0a69.mp3" type="audio/mp3" length="28811768"/>
       <guid>6e3df45b-2896-4fe2-98a2-9c9405e6485b</guid>
     </item>
+    <item>
+      <title>2023-11-15 econ: &quot;Experts Reveal Shocking Risks in Economics and Learning: Can We Avoid Financial Disaster with These Revolutionary Techniques?&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.08256 Title Consensus and Disagreement Information Aggregation under not so Naive Learning
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.08218 Title Estimating Conditional Value at Risk with Nonstationary Quantile Predictive Regression Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07920 Title Dynamic Incentives in Centralized Matching The Case of Japanese Daycare
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07905 Title Considering Risk Aversion in Economic Evaluation A Rank Dependent Approach
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.07754 Title Efficient Prior Free Mechanisms for No Regret Agents</description>
+      <pubDate>Wed, 15 Nov 2023 08:44:13 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-15_econ:1c1f7376-9eb9-4cb9-b8dc-280db782435b.mp3" type="audio/mp3" length="29669528"/>
+      <guid>a1119a95-0129-4b4f-9596-69633b683cdf</guid>
+    </item>
   </channel>
 </rss>
