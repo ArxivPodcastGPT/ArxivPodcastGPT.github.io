@@ -1379,5 +1379,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-14_astro426c85e9-0da7-4ac7-a101-546fc6415a77.mp3" type="audio/mp3" length="32061848"/>
       <guid>eda5f08c-39c9-4bee-8ea2-b1b146c884f5</guid>
     </item>
+    <item>
+      <title>2023-11-15 cs: &quot;Revolutionize Your Reality: Instant 3D Creation, Unleash Personalized AI Speech, Truthful Bots, Visual Recognition Breakthroughs, and Decoding Limitations Exposed!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.08403 Title Instant3D Instant Text to 3D Generation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.08402 Title Retrieve and Copy Scaling ASR Personalization to Large Catalogs
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.08401 Title Fine tuning Language Models for Factuality
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.08400 Title Towards Open Ended Visual Recognition with Large Language Model
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.08399 Title Constant Query Local Decoding Against Deletions Is Impossible</description>
+      <pubDate>Wed, 15 Nov 2023 08:31:06 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-15_cs:_&quot;4ca0b6b1-346d-4ecf-87b2-4090b10f68ea.mp3" type="audio/mp3" length="25195928"/>
+      <guid>a5192ce1-61a5-4393-b13a-89b24991143a</guid>
+    </item>
   </channel>
 </rss>
