@@ -1434,5 +1434,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-15_q-fin4a336d6b-c84c-46c3-a115-5dc50d731779.mp3" type="audio/mp3" length="28123448"/>
       <guid>52a807bd-88be-45e1-aa0e-168925a6fb1d</guid>
     </item>
+    <item>
+      <title>2023-11-16 cs: &quot;Revolutionizing Tech with 3D Human Cloning and AI Brains: Next-Level English-Indian Translations and Image Recognition Showdown!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09221 Title Single Image 3D Human Digitization with Shape Guided Diffusion
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09217 Title DMV3D Denoising Multi View Diffusion using 3D Large Reconstruction Model
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09216 Title Assessing Translation capabilities of Large Language Models involving English and Indian Languages
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09215 Title ConvNet vs Transformer Supervised vs CLIP Beyond ImageNet Accuracy
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09214 Title Mind s Mirror Distilling Self Evaluation Capability and Comprehensive Thinking from Large Language Models</description>
+      <pubDate>Thu, 16 Nov 2023 08:43:39 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-16_cs:_&quot;d31ec8b3-77f4-44bb-8eb2-740fe1e3efd2.mp3" type="audio/mp3" length="30501848"/>
+      <guid>5a727737-4fb1-4caa-8036-9409030086c0</guid>
+    </item>
   </channel>
 </rss>
