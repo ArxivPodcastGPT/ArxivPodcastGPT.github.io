@@ -1445,5 +1445,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-16_cs:_&quot;d31ec8b3-77f4-44bb-8eb2-740fe1e3efd2.mp3" type="audio/mp3" length="30501848"/>
       <guid>5a727737-4fb1-4caa-8036-9409030086c0</guid>
     </item>
+    <item>
+      <title>2023-11-16 q-bio: &quot;Groundbreaking Studies Reveal Your Brain Activity Could Predict Dementia and How ChatGPT Could Revolutionize Mental Health Treatment!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09147 Title Physiological complexity of EEG as a proxy for dementia risk prediction a review and preliminary cross section analysis
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09140 Title Rate induced tipping in complex high dimensional ecological networks
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09131 Title Practical Use of ChatGPT in Psychiatry for Treatment Plan and Psychoeducation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09107 Title Illness death model with renewal
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.08825 Title Emergence of a Novel Phase in Population and Community Dynamics Due to Fat Tailed Environmental Correlations</description>
+      <pubDate>Thu, 16 Nov 2023 09:00:21 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-16_q-biofe200a74-6a07-4b91-90a6-ea4274957ed0.mp3" type="audio/mp3" length="28979768"/>
+      <guid>aed76cfd-07b9-46be-b622-b281524affc3</guid>
+    </item>
   </channel>
 </rss>
