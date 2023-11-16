@@ -1467,5 +1467,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-16_physic7378712-a126-4d1f-a686-24b10f06627b.mp3" type="audio/mp3" length="30535928"/>
       <guid>117a6ad5-d230-4b40-9529-e6a95160f8fa</guid>
     </item>
+    <item>
+      <title>2023-11-16 q-fin: &quot;Experts Reveal Shocking Ways Machine Learning and Hedging Strategies Can Protect Your Wealth During Blackouts and Economic Chaos!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09148 Title Predicting risk reward ratio in financial markets for asset management using machine learning
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.08929 Title The impact of Electricity Blackouts and poor infrastructure on the livelihood of residents and the local economy of City of Johannesburg South Africa
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.08871 Title A short note on super hedging an arbitrary number of European options with integer valued strategies
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.08847 Title Robust discrete time super hedging strategies under AIP condition and under price uncertainty
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.08830 Title Quantity versus quality in publication activity knowledge production at the regional level</description>
+      <pubDate>Thu, 16 Nov 2023 09:40:31 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-16_q-fin4b2f6d5c-53a9-494d-8e4e-cdad5cd3b55f.mp3" type="audio/mp3" length="29030648"/>
+      <guid>54ec0172-35b5-44e7-9a13-2b934b746934</guid>
+    </item>
   </channel>
 </rss>
