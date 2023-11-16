@@ -1456,5 +1456,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-16_q-biofe200a74-6a07-4b91-90a6-ea4274957ed0.mp3" type="audio/mp3" length="28979768"/>
       <guid>aed76cfd-07b9-46be-b622-b281524affc3</guid>
     </item>
+    <item>
+      <title>2023-11-16 physics: &quot;Scientists Shatter Expectations: Unstoppable Light, Levitating Atoms, and the Secret Powers of Water and Air Revealed!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09220 Title Stability of topologically protected slow light against disorder
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09169 Title Measurement of the static Stark Shift of the 7s 2S 1 2 level in atomic cesium
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09167 Title Thermal noise calibration of functionalized cantilevers for force microscopy effects of the colloidal probe position
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09143 Title Experimental Study of Condensation of Water on Polydimethylsiloxane Coated Copper Surfaces
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09100 Title Global Cascade of Kinetic Energy in the Ocean and the Atmospheric Imprint</description>
+      <pubDate>Thu, 16 Nov 2023 09:18:43 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-16_physic7378712-a126-4d1f-a686-24b10f06627b.mp3" type="audio/mp3" length="30535928"/>
+      <guid>117a6ad5-d230-4b40-9529-e6a95160f8fa</guid>
+    </item>
   </channel>
 </rss>
