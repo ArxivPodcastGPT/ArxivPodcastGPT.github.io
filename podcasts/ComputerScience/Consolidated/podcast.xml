@@ -1500,5 +1500,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-17_q-bioe6a69f0e-c3ef-47fe-9416-c91575f3a55b.mp3" type="audio/mp3" length="27137048"/>
       <guid>e2e76436-64a2-4320-bb62-3f2bbcf05046</guid>
     </item>
+    <item>
+      <title>2023-11-17 physics: &quot;Revolutionary Techniques Unveiled: From Jet Modeling Breakthroughs to DNA Radiation Effects! Discover How These Innovations Are Changing Science!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10072 Title Improving 3D Synthetic Jet Modeling in a Crossflow
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10048 Title Linear scaling local natural orbital CCSD T approach for open shell systems algorithm benchmarks and large scale applications
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10045 Title Spontaneous Opinion Swings in the Voter Model with Latency
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10036 Title Dynamic CBCT Imaging using Prior Model Free Spatiotemporal Implicit Neural Representation PMF STINR 
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10028 Title Analytic Calculation of Clustered Ionization in DNA from Charged Particle Radiation</description>
+      <pubDate>Fri, 17 Nov 2023 08:48:38 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-17_physi36b10d29-fa3e-4424-b92d-69648912cff0.mp3" type="audio/mp3" length="30546488"/>
+      <guid>4a709d57-1bde-417f-8715-d7d5a0f4914c</guid>
+    </item>
   </channel>
 </rss>
