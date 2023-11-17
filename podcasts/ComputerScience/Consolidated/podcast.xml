@@ -1489,5 +1489,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-17_cs:_&quot;b3c833c3-1fe9-4977-993c-6669f9c1054b.mp3" type="audio/mp3" length="26752568"/>
       <guid>e2fd0fcb-45b8-453e-90ef-2f7d8afdec38</guid>
     </item>
+    <item>
+      <title>2023-11-17 q-bio: &quot;Revolutionary iPhone Feature Now Diagnoses Stroke Symptoms, Scientists Combat Dengue with Sterile Insects, and the Mystery of Human Balance Unlocked!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09754 Title Efficacy of Wolbachia mediated sterility to suppress dengue a synthetic control study
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09716 Title Using the Built in iPhone Body Tracking System for Neurological Tests The Example of Assessing Arm Weakness in Stroke Patients A Preliminary Evaluation of Accuracy and Performance
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09697 Title A Dynamic Computational Model of Head Sway Responses in Human Upright Stance Postural Control during Support Surface Tilt
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09678 Title A branching model for intergenerational telomere length dynamics
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09672 Title Facilitating the sharing of electrophysiology data analysis results through in depth provenance capture</description>
+      <pubDate>Fri, 17 Nov 2023 08:40:01 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-17_q-bioe6a69f0e-c3ef-47fe-9416-c91575f3a55b.mp3" type="audio/mp3" length="27137048"/>
+      <guid>e2e76436-64a2-4320-bb62-3f2bbcf05046</guid>
+    </item>
   </channel>
 </rss>
