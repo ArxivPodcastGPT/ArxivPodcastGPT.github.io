@@ -1522,5 +1522,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-17_q-fin38192487-2db0-4cc8-a0ee-79a413330de8.mp3" type="audio/mp3" length="27830168"/>
       <guid>46d89101-d19d-4840-81c3-7d498e33397e</guid>
     </item>
+    <item>
+      <title>2023-11-18 cs: &quot;Revolutionary AI Breakthroughs Transforming Art, Gaming, Traffic, and Photo Editing: Find Out How!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10093 Title The Chosen One Consistent Characters in Text to Image Diffusion Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10092 Title Traffic Video Object Detection using Motion Prior
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10091 Title Adaptive Shells for Efficient Neural Radiance Field Rendering
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10090 Title JaxMARL Multi Agent RL Environments in JAX
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10089 Title Emu Edit Precise Image Editing via Recognition and Generation Tasks</description>
+      <pubDate>Sat, 18 Nov 2023 08:30:44 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-18_cs:_&quot;4940b235-a77b-4165-a89d-70125cae6eb8.mp3" type="audio/mp3" length="29101688"/>
+      <guid>56a65308-2906-480d-9192-5cd5c6e9f3fc</guid>
+    </item>
   </channel>
 </rss>
