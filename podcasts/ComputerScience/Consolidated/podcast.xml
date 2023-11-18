@@ -1555,5 +1555,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-18_physi1d335720-5c71-49e8-9e96-ba4b86778179.mp3" type="audio/mp3" length="31134968"/>
       <guid>7b9b1d88-d6ae-4e3c-a847-affb3fad0ce2</guid>
     </item>
+    <item>
+      <title>2023-11-18 q-fin: &quot;Discover Shocking Financial Strategies and Sweet Truths That Will Transform Your Wealth and City Life!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10021 Title Worst Case Optimal Investment in Incomplete Markets
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09885 Title The efficacy of the sugar free labels is reduced by the health sweetness tradeoff
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09432 Title Urban economics of migration in the cities of the northeast region of Brazil
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09429 Title New configurations of the interface between innovation and urban spatial agglomeration the localized industrial systems lis of the clothing in Fortaleza Brazil
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09148 Title Predicting risk reward ratio in financial markets for asset management using machine learning</description>
+      <pubDate>Sat, 18 Nov 2023 08:49:37 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-18_q-fin6f694dc9-69aa-4f22-9a11-551766e10e52.mp3" type="audio/mp3" length="28214168"/>
+      <guid>95fde4e8-0f39-47d6-9291-b80baf7dd506</guid>
+    </item>
   </channel>
 </rss>
