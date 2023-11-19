@@ -1577,5 +1577,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-19_cs:_&quot;14732c5d-626a-4fe0-8077-6106f100095f.mp3" type="audio/mp3" length="28867928"/>
       <guid>ecc71831-0c19-48b7-917b-47e721168770</guid>
     </item>
+    <item>
+      <title>2023-11-19 q-bio: &quot;Scientists Unleash Groundbreaking Techniques to Fight Dengue, Revolutionize Stroke Recovery, and Unravel the Mysteries of Human Balance and Aging!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09754 Title Efficacy of Wolbachia mediated sterility to suppress dengue a synthetic control study
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09716 Title Using the Built in iPhone Body Tracking System for Neurological Tests The Example of Assessing Arm Weakness in Stroke Patients A Preliminary Evaluation of Accuracy and Performance
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09697 Title A Dynamic Computational Model of Head Sway Responses in Human Upright Stance Postural Control during Support Surface Tilt
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09678 Title A branching model for intergenerational telomere length dynamics
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09672 Title Facilitating the sharing of electrophysiology data analysis results through in depth provenance capture</description>
+      <pubDate>Sun, 19 Nov 2023 08:33:08 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-19_q-bio4b900e54-bfd0-432c-ae86-adc4a57d0612.mp3" type="audio/mp3" length="26563448"/>
+      <guid>4aefcd64-bc0c-4151-af32-d9d48be5243b</guid>
+    </item>
   </channel>
 </rss>
