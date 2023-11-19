@@ -1599,5 +1599,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-19_physi510a8230-5ec9-4b4d-82b9-00c9e6277326.mp3" type="audio/mp3" length="29046488"/>
       <guid>463bacac-b0be-473d-b200-90d0dc45880c</guid>
     </item>
+    <item>
+      <title>2023-11-19 q-fin: &quot;Expert Warns: Sugar-Free Scams, Stock Market Secrets, and Brazilian Urban Goldmines—What You NEED to Know Now!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10021 Title Worst Case Optimal Investment in Incomplete Markets
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09885 Title The efficacy of the sugar free labels is reduced by the health sweetness tradeoff
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09432 Title Urban economics of migration in the cities of the northeast region of Brazil
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09429 Title New configurations of the interface between innovation and urban spatial agglomeration the localized industrial systems lis of the clothing in Fortaleza Brazil
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.09148 Title Predicting risk reward ratio in financial markets for asset management using machine learning</description>
+      <pubDate>Sun, 19 Nov 2023 08:42:20 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-19_q-fin9d1a6159-58ae-4b5f-8c8a-cf6acf3808eb.mp3" type="audio/mp3" length="30251768"/>
+      <guid>cb38952f-bd78-4a31-b1f5-1898130c9195</guid>
+    </item>
   </channel>
 </rss>
