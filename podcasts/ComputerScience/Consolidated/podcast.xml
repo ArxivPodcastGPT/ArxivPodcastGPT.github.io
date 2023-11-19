@@ -1566,5 +1566,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-18_q-fin6f694dc9-69aa-4f22-9a11-551766e10e52.mp3" type="audio/mp3" length="28214168"/>
       <guid>95fde4e8-0f39-47d6-9291-b80baf7dd506</guid>
     </item>
+    <item>
+      <title>2023-11-19 cs: &quot;Revolutionary AI Tech Transforms Images and Games: See How It Can Edit Photos with Unseen Precision, Predict Traffic Flow, and Render 3D Worlds Faster Than Ever!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10093 Title The Chosen One Consistent Characters in Text to Image Diffusion Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10092 Title Traffic Video Object Detection using Motion Prior
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10091 Title Adaptive Shells for Efficient Neural Radiance Field Rendering
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10090 Title JaxMARL Multi Agent RL Environments in JAX
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10089 Title Emu Edit Precise Image Editing via Recognition and Generation Tasks</description>
+      <pubDate>Sun, 19 Nov 2023 08:28:45 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-19_cs:_&quot;14732c5d-626a-4fe0-8077-6106f100095f.mp3" type="audio/mp3" length="28867928"/>
+      <guid>ecc71831-0c19-48b7-917b-47e721168770</guid>
+    </item>
   </channel>
 </rss>
