@@ -1632,5 +1632,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-20_q-bio45bddc20-fe2a-4c58-bc5a-008165310b61.mp3" type="audio/mp3" length="28146488"/>
       <guid>0c3d6086-a8ab-48ce-aa51-1140a5c45f59</guid>
     </item>
+    <item>
+      <title>2023-11-20 physics: &quot;Revolutionizing Medicine and Tech: Scientists Unveil Breakthroughs in Cancer Treatment and Ultra-Fast Laser Imaging!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10694 Title Principles for single pixel terahertz imaging based on the engineering of illuminating and collecting nonparaxial diffractive optics
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10688 Title A sliding window based algorithm for faster transformation of time series into complex networks
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10684 Title Total Skin Electron Therapy Stanford Technique Evolution With Monte Carlo Simulation Toward Personalized Treatments For Cutaneous Lymphoma
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10646 Title High Repetition Rate Pulse Shaping of a Spectrally Broadened Yb Femtosecond Laser
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10641 Title Image Domain Material Decomposition for Dual energy CT using Unsupervised Learning with Data fidelity Loss</description>
+      <pubDate>Mon, 20 Nov 2023 08:49:24 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-20_physia6041f70-b485-4247-90ab-72f52b219424.mp3" type="audio/mp3" length="22491128"/>
+      <guid>cc03647d-be6a-4f6b-b834-20e708121fde</guid>
+    </item>
   </channel>
 </rss>
