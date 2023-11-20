@@ -1621,5 +1621,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-20_cs:_&quot;fe50d407-a12c-41a1-beb5-53ec329a01a7.mp3" type="audio/mp3" length="22939448"/>
       <guid>fdb05b7d-be0a-4af2-8f72-62d6711e8589</guid>
     </item>
+    <item>
+      <title>2023-11-20 q-bio: &quot;Unlocking the Human Mind and Harnessing Deep Learning: From Gut Bacteria to Space, Scientists are Redefining Existence!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10669 Title Optimal navigability of weighted human brain connectomes in physical space
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10640 Title Multi delay arterial spin labeled perfusion estimation with biophysics simulation and deep learning
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10624 Title Growth rate distributions of gut microbiota time series neutral models and temporal dependence
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10563 Title Accelerating ILP solvers for Minimum Flow Decompositions through search space and dimensionality reductions
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10539 Title ToSkA Topological Skeleton Analysis for Network Based Shape Representation and Evaluation of Objects from Cells to Death Stars</description>
+      <pubDate>Mon, 20 Nov 2023 08:41:48 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-20_q-bio45bddc20-fe2a-4c58-bc5a-008165310b61.mp3" type="audio/mp3" length="28146488"/>
+      <guid>0c3d6086-a8ab-48ce-aa51-1140a5c45f59</guid>
+    </item>
   </channel>
 </rss>
