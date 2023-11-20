@@ -1610,5 +1610,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-19_q-fin9d1a6159-58ae-4b5f-8c8a-cf6acf3808eb.mp3" type="audio/mp3" length="30251768"/>
       <guid>cb38952f-bd78-4a31-b1f5-1898130c9195</guid>
     </item>
+    <item>
+      <title>2023-11-20 cs: &quot;Scientists Unveil Revolutionary Techniques to Generate Videos from Text and Evaluate AI Models, Plus Breakthroughs in Flow Algorithms and Climate Adaptive Language Models!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10709 Title Emu Video Factorizing Text to Video Generation by Explicit Image Conditioning
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10708 Title SelfEval Leveraging the discriminative nature of generative models for evaluation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10707 Title Multimodal Representation Learning by Alternating Unimodal Adaptation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10706 Title Cactus Representations in Polylogarithmic Max flow via Maximal Isolating Mincuts
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.10702 Title Camels in a Changing Climate Enhancing LM Adaptation with Tulu 2</description>
+      <pubDate>Mon, 20 Nov 2023 08:34:33 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-20_cs:_&quot;fe50d407-a12c-41a1-beb5-53ec329a01a7.mp3" type="audio/mp3" length="22939448"/>
+      <guid>fdb05b7d-be0a-4af2-8f72-62d6711e8589</guid>
+    </item>
   </channel>
 </rss>
