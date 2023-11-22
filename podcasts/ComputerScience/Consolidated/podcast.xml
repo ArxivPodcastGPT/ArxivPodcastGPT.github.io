@@ -1687,5 +1687,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-22_physi48981f12-f8bc-4457-88a5-6e165de0f1c6.mp3" type="audio/mp3" length="25947128"/>
       <guid>3cf4e313-44e0-4b76-9096-b514f68c4133</guid>
     </item>
+    <item>
+      <title>2023-11-22 q-fin: &quot;Financial Experts Hate This! Discover the Revolutionary Math Trick for Lightning-Fast Credit Assessments and Risk-Free Portfolio Magic!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12575 Title Fast calculation of Counterparty Credit exposures and associated sensitivities using fourier series expansion
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12517 Title Optimal Portfolio with Ratio Type Periodic Evaluation under Short Selling Prohibition
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12450 Title Can we hedge carbon risk A network embedding approach
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12247 Title A simulated electronic market with speculative behaviour and bubble formation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12183 Title Optimal Transport Divergences induced by Scoring Functions</description>
+      <pubDate>Wed, 22 Nov 2023 08:57:41 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-22_q-fin238b233d-7c19-4f95-8251-225a5d700756.mp3" type="audio/mp3" length="32046968"/>
+      <guid>4e420404-ba9c-4fce-a0a2-db2374543d64</guid>
+    </item>
   </channel>
 </rss>
