@@ -1665,5 +1665,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-22_cs:_&quot;138b1871-5f49-4b02-add3-70d26813de55.mp3" type="audio/mp3" length="25459928"/>
       <guid>da6bef74-e6de-46e6-9666-5f28e27a5278</guid>
     </item>
+    <item>
+      <title>2023-11-22 q-bio: &quot;Revolutionary DNA Techniques and AI Transforming Everything We Know About Genetics, Health, and the Economy!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12717 Title Phylogenetic least squares estimation without genetic distances
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12570 Title BEND Benchmarking DNA Language Models on biologically meaningful tasks
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12143 Title Gene expression in growing cells A biophysical primer
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12080 Title Exploring the Relationship Between COVID 19 Induced Economic Downturn and Women s Nutritional Health Disparities
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12045 Title Using Guided Transfer Learning to Predispose AI Agent to Learn Efficiently from Small RNA sequencing Datasets</description>
+      <pubDate>Wed, 22 Nov 2023 08:41:12 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-22_q-bio55f69c2f-b53c-4868-aa38-e486e393d23f.mp3" type="audio/mp3" length="30582968"/>
+      <guid>124d7a1f-a4af-4463-b473-b751dc31b5a2</guid>
+    </item>
   </channel>
 </rss>
