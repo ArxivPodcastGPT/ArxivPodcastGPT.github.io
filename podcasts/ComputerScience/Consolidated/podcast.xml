@@ -1676,5 +1676,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-22_q-bio55f69c2f-b53c-4868-aa38-e486e393d23f.mp3" type="audio/mp3" length="30582968"/>
       <guid>124d7a1f-a4af-4463-b473-b751dc31b5a2</guid>
     </item>
+    <item>
+      <title>2023-11-22 physics: &quot;Scientists Unleash Breakthroughs Across the Board: From Cancer Cell Secrets and Photon Magic to Probing Deep Ocean Mysteries and High-Pressure Boils!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12787 Title Molecular simulation approaches to probing the effects of mechanical forces in the actin cytoskeleton
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12749 Title Bubble departure and sliding in high pressure flow boiling of water
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12739 Title Biomechanical Analysis Of Breast Cancer Cells A Comparative Study Of Invasive And Non Invasive Cell Lines Using Digital Holographic Microscopy
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12734 Title Optimal Transition Paths for AMOC Collapse and Recovery in a Stochastic Box Model
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12718 Title Hybrid III V Silicon photonic circuits embedding generation and routing of entangled photon pairs</description>
+      <pubDate>Wed, 22 Nov 2023 08:49:04 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-22_physi48981f12-f8bc-4457-88a5-6e165de0f1c6.mp3" type="audio/mp3" length="25947128"/>
+      <guid>3cf4e313-44e0-4b76-9096-b514f68c4133</guid>
+    </item>
   </channel>
 </rss>
