@@ -1654,5 +1654,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-20_q-fineca2bd8a-8ae1-4f9d-94e2-e8e38f37edc7.mp3" type="audio/mp3" length="27023768"/>
       <guid>4317d9ca-db43-4335-a4c9-c19852bb2f14</guid>
     </item>
+    <item>
+      <title>2023-11-22 cs: &quot;Revolutionary Tech Unleashed: Monocular Video Perception to Multi-Modal AI - Discover the Future of Visual Understanding and Language Models!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12796 Title Physics guided Shape from Template Monocular Video Perception through Neural Surrogate Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12793 Title ShareGPT4V Improving Large Multi Modal Models with Better Captions
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12792 Title Intrinsic Image Decomposition via Ordinal Shading
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12786 Title Mechanistically analyzing the effects of fine tuning on procedurally defined tasks
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.12785 Title Prompting Frameworks for Large Language Models A Survey</description>
+      <pubDate>Wed, 22 Nov 2023 08:31:56 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-22_cs:_&quot;138b1871-5f49-4b02-add3-70d26813de55.mp3" type="audio/mp3" length="25459928"/>
+      <guid>da6bef74-e6de-46e6-9666-5f28e27a5278</guid>
+    </item>
   </channel>
 </rss>
