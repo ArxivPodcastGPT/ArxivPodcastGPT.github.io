@@ -1720,5 +1720,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-26_q-biofbbdaeaf-93d4-4341-93bd-43b7b10e72e5.mp3" type="audio/mp3" length="28877048"/>
       <guid>58831197-1571-4bd3-9a86-b9a6dd5f448e</guid>
     </item>
+    <item>
+      <title>2023-11-26 physics: &quot;Scientists Smash Efficiency Records with New Lens Design and Crack the Code to Electron Excitement, All While Unraveling the Secrets of Chaos in Ocean Turbulence!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13592 Title High efficiency high NA metalens designed by maximizing the efficiency limit
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13579 Title Nucleation phenomena and extreme vulnerability of spatial k core systems
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13576 Title Aufbau Suppressed Coupled Cluster Theory for Electronically Excited States
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13567 Title On the normal modes of coupled harmonic oscillators
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13560 Title Inverse energy cascade in ocean macroscopic turbulence Kolmogorov self similarity in surface drifter observations and Richardson Obhukov constant</description>
+      <pubDate>Sun, 26 Nov 2023 08:38:25 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-26_physi613d7bae-ffbf-4da3-b051-4faac8c2a5aa.mp3" type="audio/mp3" length="30272888"/>
+      <guid>885b95c2-5d8f-4b73-bc17-69d5b1e11866</guid>
+    </item>
   </channel>
 </rss>
