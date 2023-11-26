@@ -1709,5 +1709,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-26_cs:_&quot;d592aca0-b68c-45ab-9b15-ba3069dfcd16.mp3" type="audio/mp3" length="27665528"/>
       <guid>a8d27716-f497-43a5-96cc-0506fc8a54b0</guid>
     </item>
+    <item>
+      <title>2023-11-26 q-bio: &quot;Discover the Breakthrough Secret That Links Your Brain's Aging Process to Revolutionary Toxin Detection and the Fast-Paced World of Molecular Dynamics!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13501 Title Multiscale cortical morphometry reveals pronounced regional and scale dependent variations across the lifespan
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13490 Title Benchmarking Toxic Molecule Classification using Graph Neural Networks and Few Shot Learning
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13466 Title Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13417 Title Reproducible image based profiling with Pycytominer
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13339 Title Non deterministic linear thresholding systems reveal their deterministic origins</description>
+      <pubDate>Sun, 26 Nov 2023 08:32:07 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-26_q-biofbbdaeaf-93d4-4341-93bd-43b7b10e72e5.mp3" type="audio/mp3" length="28877048"/>
+      <guid>58831197-1571-4bd3-9a86-b9a6dd5f448e</guid>
+    </item>
   </channel>
 </rss>
