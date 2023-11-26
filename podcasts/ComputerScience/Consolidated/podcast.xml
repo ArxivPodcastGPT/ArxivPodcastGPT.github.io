@@ -1698,5 +1698,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-22_q-fin238b233d-7c19-4f95-8251-225a5d700756.mp3" type="audio/mp3" length="32046968"/>
       <guid>4e420404-ba9c-4fce-a0a2-db2374543d64</guid>
     </item>
+    <item>
+      <title>2023-11-26 cs: &quot;New AI Breakthrough: Transforming Content Creation, Style Fusion, and Even Counting T-Rexes with Groundbreaking Visual Techniques!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13602 Title Retrieval Augmented Layout Transformer for Content Aware Layout Generation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13601 Title Visual In Context Prompting
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13600 Title ZipLoRA Any Subject in Any Style by Effectively Merging LoRAs
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13596 Title T Rex Counting by Visual Prompting
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.13594 Title Labeling Neural Representations with Inverse Recognition</description>
+      <pubDate>Sun, 26 Nov 2023 08:26:32 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-26_cs:_&quot;d592aca0-b68c-45ab-9b15-ba3069dfcd16.mp3" type="audio/mp3" length="27665528"/>
+      <guid>a8d27716-f497-43a5-96cc-0506fc8a54b0</guid>
+    </item>
   </channel>
 </rss>
