@@ -1753,5 +1753,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-29_cs:_&quot;96b883b8-4ea5-40f6-b1bb-15629bca57d2.mp3" type="audio/mp3" length="29072408"/>
       <guid>8815f1e5-f83a-4153-a02d-4a32170840c2</guid>
     </item>
+    <item>
+      <title>2023-11-29 q-bio: &quot;Revolutionize Your Health: From Cutting-edge Computer Simulations to Lifesaving Drug Discoveries, New Tech Transforms Medicine and Data Management!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.16946 Title From Byte to Bench to Bedside Molecular Dynamics Simulations and Drug Discovery
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.16925 Title Multiallelic Walsh transforms
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.16784 Title Infection responsivity of Commercial Dressings Through Halochromic Drop casting
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.16712 Title Onedata4Sci Life science data management solution based on Onedata
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.16686 Title Algorithmic approach for an unique definition of the next generation matrix</description>
+      <pubDate>Wed, 29 Nov 2023 08:45:38 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-29_q-bioe386e960-bad9-4a21-9c63-2d28cfe96cb3.mp3" type="audio/mp3" length="35123288"/>
+      <guid>09afcd62-589c-40cd-8240-721624922c7f</guid>
+    </item>
   </channel>
 </rss>
