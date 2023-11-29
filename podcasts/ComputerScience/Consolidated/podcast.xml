@@ -1775,5 +1775,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-29_physid2c55635-d636-4a5d-b5f0-2a563c9aa8d6.mp3" type="audio/mp3" length="35253848"/>
       <guid>a53e01bd-5e0e-4209-958c-3ea07017e263</guid>
     </item>
+    <item>
+      <title>2023-11-29 q-fin: &quot;Financial Experts Hate This! New Secrets of Pricing, Prediction, and Profits that Could Change Banking and Climate Risk Forever!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.17011 Title Pricing and hedging for a sticky diffusion
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.16762 Title Machine learning methods for American style path dependent contracts
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.16705 Title Development of a Bankruptcy Prediction Model for the Banking Sector in Mozambique Using Linear Discriminant Analysis
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.16570 Title Epistemic Limits of Empirical Finance Causal Reductionism and Self Reference
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.16370 Title Climate Crops and Postharvest Conflict</description>
+      <pubDate>Wed, 29 Nov 2023 09:08:29 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-11-29_q-find09ecdad-b801-4741-b911-d186c41bc908.mp3" type="audio/mp3" length="32330168"/>
+      <guid>fd1ff9f1-5a26-40c6-9e09-4619694ff4cb</guid>
+    </item>
   </channel>
 </rss>
