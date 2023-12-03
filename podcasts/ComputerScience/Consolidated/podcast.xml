@@ -1797,5 +1797,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-01_cs:_&quot;c99e6a4d-e310-4ac6-bedf-06ab253c6853.mp3" type="audio/mp3" length="26632568"/>
       <guid>0cadbd35-93be-4a62-95eb-a7a7d69e7398</guid>
     </item>
+    <item>
+      <title>2023-12-03 cs: &quot;Revolutionizing AI: From Tracking Chaos on the Streets to Deciphering Daily Life and Human Poses with Groundbreaking Datasets and Models!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18840 Title Just Add Pose Induced Video Transformers for Understanding Activities of Daily Living
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18839 Title TrafficMOT A Challenging Dataset for Multi Object Tracking in Complex Traffic Scenarios
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18838 Title Dataset Distillation in Large Data Era
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18837 Title VIDiff Translating Videos via Multi Modal Instructions with Diffusion Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18836 Title PoseGPT Chatting about 3D Human Pose</description>
+      <pubDate>Sun, 03 Dec 2023 08:26:41 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-03_cs:_&quot;f7b1c1ce-e2cd-4d56-aac8-1c67335637af.mp3" type="audio/mp3" length="27714488"/>
+      <guid>7af9e62d-1e80-43f0-a7e2-b295962cb693</guid>
+    </item>
   </channel>
 </rss>
