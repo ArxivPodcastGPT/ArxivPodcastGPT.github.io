@@ -1819,5 +1819,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-03_q-bio635f7010-683d-49bf-96d2-b17e105f1ed0.mp3" type="audio/mp3" length="27168248"/>
       <guid>61bf3667-953e-447c-bc85-81a2f6105cdc</guid>
     </item>
+    <item>
+      <title>2023-12-03 physics: &quot;Revolutionize Your Science Knowledge: Unbelievable Breakthroughs in Plasma Research, Supercomputing, and Futuristic Imaging Revealed!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18737 Title GPGPU Acceleration of Incoherent Scatter Radar Plasma Line Analysis
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18723 Title Thomson scattering diagnostics at the Globus M2 tokamak
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18715 Title Accelerating Flow Simulations using Online Dynamic Mode Decomposition
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18697 Title A liquid phase loop mode argon purification system
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18687 Title Design of two dimensional reflective imaging systems An approach based on inverse methods</description>
+      <pubDate>Sun, 03 Dec 2023 08:38:14 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-03_physi14979a94-6f97-4c02-8df9-643fb71e63d4.mp3" type="audio/mp3" length="33930968"/>
+      <guid>fb976ac3-6bf2-4f4c-845b-a5d82448d1a9</guid>
+    </item>
   </channel>
 </rss>
