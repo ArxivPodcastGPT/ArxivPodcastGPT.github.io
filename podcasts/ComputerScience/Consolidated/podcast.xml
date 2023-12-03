@@ -1830,5 +1830,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-03_physi14979a94-6f97-4c02-8df9-643fb71e63d4.mp3" type="audio/mp3" length="33930968"/>
       <guid>fb976ac3-6bf2-4f4c-845b-a5d82448d1a9</guid>
     </item>
+    <item>
+      <title>2023-12-03 q-fin: &quot;Exposed: The Dirty Secrets of Cryptocurrency Trades and Luxury Resorts - How Innovative Green Strategies and Market Gurus Influence Your Honey and Investments!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18717 Title Crypto Wash Trading Direct vs Indirect Estimation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18453 Title Implementing Sustainable Tourism practices in luxury resorts of Maldives Sustainability principles Tripple Bottomline Approach
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18351 Title Does ESG and Digital Transformation affects Corporate Sustainability The Moderating role of Green Innovation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18283 Title The two square root laws of market impact and the role of sophisticated market participants
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18269 Title The impact of sensory characteristics on the willingness to pay for honey</description>
+      <pubDate>Sun, 03 Dec 2023 08:44:33 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-03_q-finf7b5d290-6a32-4907-9048-68b308ebdc00.mp3" type="audio/mp3" length="28907288"/>
+      <guid>82d66348-4bb1-424e-aabb-f30aa1073d91</guid>
+    </item>
   </channel>
 </rss>
