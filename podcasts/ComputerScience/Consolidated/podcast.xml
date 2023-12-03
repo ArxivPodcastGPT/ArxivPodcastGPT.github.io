@@ -1808,5 +1808,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-03_cs:_&quot;f7b1c1ce-e2cd-4d56-aac8-1c67335637af.mp3" type="audio/mp3" length="27714488"/>
       <guid>7af9e62d-1e80-43f0-a7e2-b295962cb693</guid>
     </item>
+    <item>
+      <title>2023-12-03 q-bio: &quot;Scientists Shocked by AI's Ability to Unravel the Secrets of the Brain, Revolutionize Disease Cures, and Unlock the Mysteries of Aging Decisions!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18574 Title Multi scale Iterative Refinement towards Robust and Versatile Molecular Docking
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18527 Title InfoFlowNet A Multi head Attention based Self supervised Learning Model with Surrogate Approach for Uncovering Brain Effective Connectivity
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18389 Title Polymer conformation genetic and environmental factors associated with this characteristic of glutenin in wheat grain
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18376 Title Age Effects on Decision Making Drift Diffusion Model
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2311.18222 Title AI predicted protein deformation encodes energy landscape perturbation</description>
+      <pubDate>Sun, 03 Dec 2023 08:31:45 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-03_q-bio635f7010-683d-49bf-96d2-b17e105f1ed0.mp3" type="audio/mp3" length="27168248"/>
+      <guid>61bf3667-953e-447c-bc85-81a2f6105cdc</guid>
+    </item>
   </channel>
 </rss>
