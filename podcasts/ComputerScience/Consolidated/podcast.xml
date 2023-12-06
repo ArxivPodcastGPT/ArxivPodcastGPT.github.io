@@ -1841,5 +1841,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-03_q-finf7b5d290-6a32-4907-9048-68b308ebdc00.mp3" type="audio/mp3" length="28907288"/>
       <guid>82d66348-4bb1-424e-aabb-f30aa1073d91</guid>
     </item>
+    <item>
+      <title>2023-12-06 cs: &quot;You Won't Believe How AI Can Now Understand Pictures, Words, and Even Navigate the Physical World Like Humans!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02981 Title ReconFusion 3D Reconstruction with Diffusion Priors
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02980 Title GPT4Point A Unified Framework for Point Language Understanding and Generation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02976 Title Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02975 Title Dexterous Functional Grasping
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02974 Title Describing Differences in Image Sets with Natural Language</description>
+      <pubDate>Wed, 06 Dec 2023 08:32:42 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-06_cs:_&quot;2e102f17-0113-43d7-b4e1-f407e164b91c.mp3" type="audio/mp3" length="26089688"/>
+      <guid>6dcd5c84-0319-48e1-aea4-4edb95bf1fe6</guid>
+    </item>
   </channel>
 </rss>
