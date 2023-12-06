@@ -1863,5 +1863,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-06_q-bio9c0c703e-ce6d-4285-b477-a08f043408c6.mp3" type="audio/mp3" length="29416088"/>
       <guid>f5b71cb6-6a85-4e05-8e82-096cd32027c5</guid>
     </item>
+    <item>
+      <title>2023-12-06 physics: &quot;Scientists Unveil Mind-Blowing Advances: From Earthquake Predictions to Heart Mapping and Revolutionizing Fluid Analysis with Cutting-Edge Tech!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02951 Title Experimental and Numerical Investigation of Porous Bleed Control for Supersonic Subsonic Flows and Shock Wave Boundary Layer Interactions
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02922 Title Quaternion Aligned Electroanatomical Models of the Murine Atria from Standard Output Functional and Structural Imaging
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02917 Title PMUT Powered Photoacoustic Detection Revolutionizing Microfluidic Concentration Measurements
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02900 Title A complexity measure identifying the accumulation of stresses before major earthquakes
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02898 Title Madgraph5 aMC NLO on GPUs and vector CPUs Experience with the first alpha release</description>
+      <pubDate>Wed, 06 Dec 2023 08:52:27 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-06_physi24b6f4ed-74e5-48b5-9d7a-a50ba42c0a09.mp3" type="audio/mp3" length="30831128"/>
+      <guid>28d65bf5-16c3-44ec-afc0-2b7f88249ea2</guid>
+    </item>
   </channel>
 </rss>
