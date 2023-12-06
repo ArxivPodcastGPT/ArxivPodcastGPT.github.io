@@ -1852,5 +1852,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-06_cs:_&quot;2e102f17-0113-43d7-b4e1-f407e164b91c.mp3" type="audio/mp3" length="26089688"/>
       <guid>6dcd5c84-0319-48e1-aea4-4edb95bf1fe6</guid>
     </item>
+    <item>
+      <title>2023-12-06 q-bio: &quot;Revolutionary AI Discoveries Transform Our Understanding of Vision, Biology, and Reality Itself!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02791 Title Unsupervised learning on spontaneous retinal activity leads to efficient neural representation geometry
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02447 Title Fast non autoregressive inverse folding with discrete diffusion
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02391 Title Approximation of Intractable Likelihood Functions in Systems Biology via Normalizing Flows
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02367 Title States as goal directed concepts an epistemic approach to state representation learning
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02305 Title Effects of a mixed reality headset on the delay of visually evoked potentials</description>
+      <pubDate>Wed, 06 Dec 2023 08:41:37 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-06_q-bio9c0c703e-ce6d-4285-b477-a08f043408c6.mp3" type="audio/mp3" length="29416088"/>
+      <guid>f5b71cb6-6a85-4e05-8e82-096cd32027c5</guid>
+    </item>
   </channel>
 </rss>
