@@ -1874,5 +1874,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-06_physi24b6f4ed-74e5-48b5-9d7a-a50ba42c0a09.mp3" type="audio/mp3" length="30831128"/>
       <guid>28d65bf5-16c3-44ec-afc0-2b7f88249ea2</guid>
     </item>
+    <item>
+      <title>2023-12-06 q-fin: &quot;Experts Reveal Shocking Secrets: From Beating the Market and Insurance Timing to Mapping Happiness with Your Phone!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02943 Title Striking the Balance Life Insurance Timing and Asset Allocation in Financial Planning
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02660 Title Uniswap Daily Transaction Indices by Network
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02516 Title Generating a Map of Well being Regions using Multiscale Moving Direction Entropy on Mobile Sensors
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02472 Title An explanation for the distribution characteristics of stock returns
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.02250 Title Valuing Post Revenue Biopharmaceutical Assets with Pfizer s Current Portfolio as a Case Study</description>
+      <pubDate>Wed, 06 Dec 2023 09:01:50 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-06_q-fin3e5bbcaf-1ab2-4192-80ee-6abd792cec20.mp3" type="audio/mp3" length="28182968"/>
+      <guid>bca4eb58-a09e-4338-8d46-a97778240086</guid>
+    </item>
   </channel>
 </rss>
