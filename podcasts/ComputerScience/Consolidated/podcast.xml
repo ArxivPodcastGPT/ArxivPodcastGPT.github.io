@@ -1896,5 +1896,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-10_cs:_&quot;0e3ddcc1-de88-4729-bd16-4ec29dd25926.mp3" type="audio/mp3" length="27728408"/>
       <guid>72d2a512-8f32-43b9-a074-a833adec19d6</guid>
     </item>
+    <item>
+      <title>2023-12-10 q-bio: &quot;Revolutionary AI Techniques Transform Biology: From Instant Drug Design to Predicting Mutation Impacts and Unraveling Brain Mysteries!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04323 Title Equivariant Scalar Fields for Molecular Docking with Fast Fourier Transforms
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04064 Title DiscoBAX Discovery of Optimal Intervention Sets in Genomic Experiment Design
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04019 Title Efficiently Predicting Protein Stability Changes Upon Single point Mutation with Large Language Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.03957 Title PerSival Neural network based visualisation for pervasive continuum mechanical simulations in musculoskeletal biomechanics
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.03954 Title Disentangling Fact from Grid Cell Fiction in Trained Deep Path Integrators</description>
+      <pubDate>Sun, 10 Dec 2023 08:36:27 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-10_q-biode99ee96-7df9-40a3-b806-918daa3f8b13.mp3" type="audio/mp3" length="31114808"/>
+      <guid>e5b6a98f-43fd-496f-805e-4ee4faef32b3</guid>
+    </item>
   </channel>
 </rss>
