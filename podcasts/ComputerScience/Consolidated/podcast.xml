@@ -1907,5 +1907,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-10_q-biode99ee96-7df9-40a3-b806-918daa3f8b13.mp3" type="audio/mp3" length="31114808"/>
       <guid>e5b6a98f-43fd-496f-805e-4ee4faef32b3</guid>
     </item>
+    <item>
+      <title>2023-12-10 physics: &quot;Is a Mysterious Force Changing Weather Patterns on Bear Island? Scientists Unveil Cutting-Edge Tech to Transform Energy and Reflection in the Universe!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04502 Title Pattern change of precipitation extremes in Bear Island
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04491 Title Electric Field and SAR Reduction in High Impedance RF Arrays by Using High Permittivity Materials for 7T MR Imaging
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04471 Title Broadband High Reflectivity Dielectric Mirrors at Wafer Scale Combining Photonic Crystal and Metasurface Architectures for Advanced Lightsails
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04458 Title Generalized Alchemical Integral Transform and the multi electron atom energy
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04441 Title Efficient Synthesis of Passively Loaded Finite Arrays for Tunable Anomalous Reflection</description>
+      <pubDate>Sun, 10 Dec 2023 08:44:17 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-10_physifd3de79f-c838-499e-a340-0cfddbfb40f1.mp3" type="audio/mp3" length="28526168"/>
+      <guid>4269a36f-7189-40bf-a50b-d5540c20b93a</guid>
+    </item>
   </channel>
 </rss>
