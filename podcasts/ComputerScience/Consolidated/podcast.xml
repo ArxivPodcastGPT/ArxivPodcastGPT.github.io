@@ -1918,5 +1918,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-10_physifd3de79f-c838-499e-a340-0cfddbfb40f1.mp3" type="audio/mp3" length="28526168"/>
       <guid>4269a36f-7189-40bf-a50b-d5540c20b93a</guid>
     </item>
+    <item>
+      <title>2023-12-10 q-fin: &quot;Shocking Effects of COVID on Family Happiness, Financial Risk, and Inventory Secrets Revealed by Surprising New Studies!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04411 Title Family Structure Gender and Subjective Well being Effect of Child ren before and after COVID 19 in Japan
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04045 Title Partial Information Breeds Systemic Risk
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.03929 Title Simulation of a L vy process its extremum and hitting time of the extremum via characteristic functions
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.03915 Title Alternative models for FX arbitrage opportunities and efficient pricing of double barrier options in L vy models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.03898 Title The Cost Function of a Two Level Inventory System with identical retailers benefitting from Information Sharing</description>
+      <pubDate>Sun, 10 Dec 2023 08:53:06 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-10_q-fin9800b66b-5445-42e2-b2f4-1d8ec13a65a6.mp3" type="audio/mp3" length="31608728"/>
+      <guid>ebcd5047-7a94-4aba-8609-c0fc560c69fb</guid>
+    </item>
   </channel>
 </rss>
