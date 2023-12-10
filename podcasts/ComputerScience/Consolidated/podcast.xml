@@ -1929,5 +1929,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-10_q-fin9800b66b-5445-42e2-b2f4-1d8ec13a65a6.mp3" type="audio/mp3" length="31608728"/>
       <guid>ebcd5047-7a94-4aba-8609-c0fc560c69fb</guid>
     </item>
+    <item>
+      <title>2023-12-10 psyarxiv: &quot;Psychopaths Among Us and AI Parenting Wonders: Discover How Our Brains Sync with Art and Music Plus the Ultimate Nature vs Nurture Showdown!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/a5fuq/download/ Measures of Subclinical Psychopathy and Everyday Sadism are Still Redundant A Conceptual Replication and Extension of Bl tner and Mokros 2023 
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/r37e4/download/ Modeling of Family and Parenting Relationships for Artificial Intelligence Parenting Systems
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/76c32/download/ The role of audiovisual congruence in perception and aesthetic appreciation of contemporary music and visual art
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/6k2zu/download/ Understanding and Cultivating Effective Listening A Dialectical Theory of the Tensions between Mindset and Behavior
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/ug398/download/ Nature versus nurture in the detection of sour notes</description>
+      <pubDate>Sun, 10 Dec 2023 16:56:44 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-10_psyar493212f8-30dd-4220-a72d-25671be7e7ce.mp3" type="audio/mp3" length="30546968"/>
+      <guid>790d15ca-34b3-4557-bbc4-32cc5258eada</guid>
+    </item>
   </channel>
 </rss>
