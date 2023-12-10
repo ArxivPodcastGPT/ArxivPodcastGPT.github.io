@@ -1885,5 +1885,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-06_q-fin3e5bbcaf-1ab2-4192-80ee-6abd792cec20.mp3" type="audio/mp3" length="28182968"/>
       <guid>bca4eb58-a09e-4338-8d46-a97778240086</guid>
     </item>
+    <item>
+      <title>2023-12-10 cs: &quot;Revolutionizing AI Vision: From Hyper-Realistic Synthetic Images to 3D Supermodels, Discover the Next-Gen Tech Transforming How Machines See the World!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04567 Title Scaling Laws of Synthetic Images for Model Training for Now
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04566 Title Gen2Det Generate to Detect
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04565 Title MuRF Multi Baseline Radiance Fields
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04564 Title EAGLES Efficient Accelerated 3D Gaussians with Lightweight EncodingS
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.04563 Title Visual Geometry Grounded Deep Structure From Motion</description>
+      <pubDate>Sun, 10 Dec 2023 08:29:00 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-10_cs:_&quot;0e3ddcc1-de88-4729-bd16-4ec29dd25926.mp3" type="audio/mp3" length="27728408"/>
+      <guid>72d2a512-8f32-43b9-a074-a833adec19d6</guid>
+    </item>
   </channel>
 </rss>
