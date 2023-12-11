@@ -1940,5 +1940,15 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-10_psyar493212f8-30dd-4220-a72d-25671be7e7ce.mp3" type="audio/mp3" length="30546968"/>
       <guid>790d15ca-34b3-4557-bbc4-32cc5258eada</guid>
     </item>
+    <item>
+      <title>2023-12-11 psyarxiv: &quot;AI Reveals Shocking Insights on Brain Power, Security Loopholes in Finance, and Privacy in Online Learning!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/awyxe/download/ Measuring Cognitive Ability From Young Age Development and Validation of a New Test Battery for Working Memory Capacity
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/b7vp3/download/ ENHANCING AUTHENTICATION AND FRAUD DETECTION IN FINANCIAL TECHNOLOGY AND WIRELESS PAYMENTS
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/3dhpx/download/ An EEGManyLabs study to test the role of the alpha phase on visual perception a replication and new evidence 
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/t4arn/download/ Creation and validation of the Online Self Disclosure via Educational Platforms OSDEP Scale</description>
+      <pubDate>Mon, 11 Dec 2023 13:16:50 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-11_psyar609a8e4c-4ba4-474a-981b-c361268bf9a3.mp3" type="audio/mp3" length="24394632"/>
+      <guid>7f08f25d-b8f2-42ec-91fc-795b1a85ad47</guid>
+    </item>
   </channel>
 </rss>
