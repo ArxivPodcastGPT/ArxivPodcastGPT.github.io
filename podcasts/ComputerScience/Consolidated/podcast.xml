@@ -1961,5 +1961,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-1106 for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-12_cs:_&quot;398dc196-e993-400c-b3cd-202ec77d5417.mp3" type="audio/mp3" length="41323928"/>
       <guid>3525255d-cabd-48d9-b4eb-a5e04c5732fc</guid>
     </item>
+    <item>
+      <title>2023-12-12 psyarxiv: &quot;AI Reveals Shocking Truths: Language Skills Mystery, Parenting Tech Revolution, and Mind-Blowing Insights into Bilingual Homes and Distraction!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-1106 for https://arxiv.org/abs/https://osf.io/s8mwv/download/ A meta analysis of 97 studies reveals that statistical learning and language ability are only weakly correlated
+ChatGPT generated podcast using model=gpt-3.5-turbo-1106 for https://arxiv.org/abs/https://osf.io/r37e4/download/ Modeling of Family and Parenting Relationships for Artificial Intelligence Parenting Systems
+ChatGPT generated podcast using model=gpt-3.5-turbo-1106 for https://arxiv.org/abs/https://osf.io/93mbe/download/ Effects of Bilingualism Household Size and Siblings on Theory of Mind Development in Pakistani and British Children
+ChatGPT generated podcast using model=gpt-3.5-turbo-1106 for https://arxiv.org/abs/https://osf.io/qjcp2/download/ Inter trial priming is not sufficient for feature based distractor suppression
+ChatGPT generated podcast using model=gpt-3.5-turbo-1106 for https://arxiv.org/abs/https://osf.io/6ct3x/download/ The role of intersectionality in differentiating the impact of youth adversity on adolescent depression and anxiety symptoms in the community</description>
+      <pubDate>Tue, 12 Dec 2023 18:43:18 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-12_psyar809efe4e-03d8-4523-b6a3-6cd9ee4e7ce1.mp3" type="audio/mp3" length="37716248"/>
+      <guid>1b248416-8c21-4866-a67b-db12af7de847</guid>
+    </item>
   </channel>
 </rss>
