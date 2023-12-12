@@ -1950,5 +1950,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-11_psyar609a8e4c-4ba4-474a-981b-c361268bf9a3.mp3" type="audio/mp3" length="24394632"/>
       <guid>7f08f25d-b8f2-42ec-91fc-795b1a85ad47</guid>
     </item>
+    <item>
+      <title>2023-12-12 cs: &quot;Revolutionary AI Can Generate Hyper-Realistic 3D Worlds and Videos on Your Phone While Protecting Your Privacy!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-3.5-turbo-1106 for https://arxiv.org/abs/2312.06663 Title CAD Photorealistic 3D Generation via Adversarial Distillation
+ChatGPT generated podcast using model=gpt-3.5-turbo-1106 for https://arxiv.org/abs/2312.06662 Title Photorealistic Video Generation with Diffusion Models
+ChatGPT generated podcast using model=gpt-3.5-turbo-1106 for https://arxiv.org/abs/2312.06660 Title EdgeSAM Prompt In the Loop Distillation for On Device Deployment of SAM
+ChatGPT generated podcast using model=gpt-3.5-turbo-1106 for https://arxiv.org/abs/2312.06658 Title Mean estimation in the add remove model of differential privacy
+ChatGPT generated podcast using model=gpt-3.5-turbo-1106 for https://arxiv.org/abs/2312.06655 Title Sherpa3D Boosting High Fidelity Text to 3D Generation via Coarse 3D Prior</description>
+      <pubDate>Tue, 12 Dec 2023 18:39:10 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-12_cs:_&quot;398dc196-e993-400c-b3cd-202ec77d5417.mp3" type="audio/mp3" length="41323928"/>
+      <guid>3525255d-cabd-48d9-b4eb-a5e04c5732fc</guid>
+    </item>
   </channel>
 </rss>
