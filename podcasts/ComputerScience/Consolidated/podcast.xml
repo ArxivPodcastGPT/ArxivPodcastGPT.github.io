@@ -2005,5 +2005,16 @@ ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https:
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-12_psyarecee492f-1810-49d2-ba96-439ecf4362a0.mp3" type="audio/mp3" length="6148396"/>
       <guid>2e4163c1-46d0-4d8e-976a-b89462feb669</guid>
     </item>
+    <item>
+      <title>2023-12-13 cs: &quot;Revolutionary Tech Unleashed: Explore Massive Real-Time Environments, Rewrite History with AI, Craft 3D Faces with Text, and Kickstart Video Evolution – Discover the Breakthroughs!&quot;</title>
+      <description>ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/2312.07541 Title SMERF Streamable Memory Efficient Radiance Fields for Real Time Large Scene Exploration
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/2312.07540 Title diff History for Long Context Language Agents
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/2312.07539 Title HeadArtist Text conditioned 3D Head Generation with Self Score Distillation
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/2312.07538 Title Anatomically Constrained Implicit Face Models
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/2312.07537 Title FreeInit Bridging Initialization Gap in Video Diffusion Models</description>
+      <pubDate>Wed, 13 Dec 2023 16:16:50 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-13_cs:_&quot;e64cb8b8-bd5c-4661-af6e-e77aad794cc9.mp3" type="audio/mp3" length="6985485"/>
+      <guid>516d61e0-23e3-40bf-8d05-74f533fb9f4c</guid>
+    </item>
   </channel>
 </rss>
