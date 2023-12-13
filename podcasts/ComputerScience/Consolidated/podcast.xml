@@ -1983,5 +1983,16 @@ ChatGPT generated podcast using model=gpt-3.5-turbo-1106 for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-12_q-fin65d6b547-b437-49c4-a1cb-b00510cc821c.mp3" type="audio/mp3" length="39943448"/>
       <guid>f5fa9c49-1302-4ec1-920b-e5b0f63b821f</guid>
     </item>
+    <item>
+      <title>2023-12-12 psyarxiv: &quot;Discover the Shocking Connection Between Brain Waves, Visual Tricks, and the Dark Side of Personality!&quot;</title>
+      <description>ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/3dhpx/download/ An EEGManyLabs study to test the role of the alpha phase on visual perception a replication and new evidence 
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/a5fuq/download/ Measures of Subclinical Psychopathy and Everyday Sadism are Still Redundant A Conceptual Replication and Extension of Bl tner and Mokros 2023 
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/ug398/download/ Nature versus nurture in the detection of sour notes
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/wyqhp/download/ Licenciatura en Psicolog a Thesis Aproximaci n al estudio Psicopatol gico del TEPT a trav s de t cnicas de neuroimagen 
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/ecwzk/download/ Sequential sampling models in memory</description>
+      <pubDate>Tue, 12 Dec 2023 20:35:59 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-12_psyar9041ae90-47c2-480e-abcb-f3c78ce950b0.mp3" type="audio/mp3" length="7906879"/>
+      <guid>1d59165d-b684-49c1-8ed8-2693163cc691</guid>
+    </item>
   </channel>
 </rss>
