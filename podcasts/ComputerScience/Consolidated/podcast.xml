@@ -2027,5 +2027,16 @@ ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https:
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-13_psyar343425ea-cf82-4f99-a32f-de4cba8e17c7.mp3" type="audio/mp3" length="7861485"/>
       <guid>9fbb7bf0-1b61-4996-a701-cfe31ff74682</guid>
     </item>
+    <item>
+      <title>2023-12-13 q-fin: &quot;Discover How Brazil's Growth, Russian Solar Power, and Vietnam's Real Estate Revolution Could Change Everything We Know About Economic Development!&quot;</title>
+      <description>ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/2312.07469 Title Export complexity industrial complexity and regional economic growth in Brazil
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/2312.07328 Title Knowledge Management in Socio Economic Development of Municipal Units Basic Concepts
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/2312.07240 Title Would Russian solar energy projects be feasible independent of state subsidies 
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/2312.07065 Title Towards a Framework for a New Research Ecosystem
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/2312.06994 Title The behavioral intention to adopt Proptech services in Vietnam real estate market</description>
+      <pubDate>Wed, 13 Dec 2023 16:24:39 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-13_q-finef4bfca7-a692-4558-a0e9-79cf889a3633.mp3" type="audio/mp3" length="6439149"/>
+      <guid>29a1d22d-5a4a-42ca-8c34-8a0b50b34179</guid>
+    </item>
   </channel>
 </rss>
