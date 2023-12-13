@@ -2016,5 +2016,16 @@ ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https:
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-13_cs:_&quot;e64cb8b8-bd5c-4661-af6e-e77aad794cc9.mp3" type="audio/mp3" length="6985485"/>
       <guid>516d61e0-23e3-40bf-8d05-74f533fb9f4c</guid>
     </item>
+    <item>
+      <title>2023-12-13 psyarxiv: &quot;Discover Unbelievable AI Insights! From Mapping Jungles to Psychopathology, from Secret Online Behaviors to Workplace Culture, and Even Athletes' Stress Levels!&quot;</title>
+      <description>ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/hqd5a/download/ Information Categorization for Canopy Mapping using Quality Control QC Tool Affinity Diagram KJ Method 
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/wyqhp/download/ Licenciatura en Psicolog a Thesis Aproximaci n al estudio Psicopatol gico del TEPT a trav s de t cnicas de neuroimagen 
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/t4arn/download/ Creation and validation of the Online Self Disclosure via Educational Platforms OSDEP Scale
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/7qghy/download/ Organizing for Engagement A Multilevel SEM Model of the Relationship Between Work Engagement Job Design Participation Climate and Clan Culture
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/h4ctk/download/ Hair cortisol concentration is associated with executive function in female college football players</description>
+      <pubDate>Wed, 13 Dec 2023 16:20:48 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-13_psyar343425ea-cf82-4f99-a32f-de4cba8e17c7.mp3" type="audio/mp3" length="7861485"/>
+      <guid>9fbb7bf0-1b61-4996-a701-cfe31ff74682</guid>
+    </item>
   </channel>
 </rss>
