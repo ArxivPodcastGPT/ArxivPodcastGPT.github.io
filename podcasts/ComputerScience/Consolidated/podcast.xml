@@ -1994,5 +1994,16 @@ ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https:
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-12_psyar9041ae90-47c2-480e-abcb-f3c78ce950b0.mp3" type="audio/mp3" length="7906879"/>
       <guid>1d59165d-b684-49c1-8ed8-2693163cc691</guid>
     </item>
+    <item>
+      <title>2023-12-12 psyarxiv: &quot;AI Reveals Shocking Links Between Your Income, Mom's Job, PTSD Therapy, Dog Cognition, and Love Across Time!&quot;</title>
+      <description>ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/depvx/download/ The Interplay of Family Socioeconomic Status Parental Engagement and Maternal Employment on Vocabulary Development in Korean Children
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/wyqhp/download/ Licenciatura en Psicolog a Thesis Aproximaci n al estudio Psicopatol gico del TEPT a trav s de t cnicas de neuroimagen 
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/h8ju3/download/ A Behavioral Signature for Quantifying the Social Value of Interpersonal Relationships with Specific Others
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/3f5tr/download/  Dogs are conscious to a great extent vis vis humans dog human equivalence in negotiating culpability for dog human violence in urban India
+ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https://arxiv.org/abs/https://osf.io/ut6qp/download/ The Conceptual Structure of Human Relationships Across Modern and Historical Cultures</description>
+      <pubDate>Tue, 12 Dec 2023 21:01:23 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-12_psyarecee492f-1810-49d2-ba96-439ecf4362a0.mp3" type="audio/mp3" length="6148396"/>
+      <guid>2e4163c1-46d0-4d8e-976a-b89462feb669</guid>
+    </item>
   </channel>
 </rss>
