@@ -2071,5 +2071,16 @@ ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-15_psyar6a592048-b689-4c1f-896f-d359e79c93ab.mp3" type="audio/mp3" length="5548557"/>
       <guid>9034f010-553c-4c1a-992c-f60d32f423fe</guid>
     </item>
+    <item>
+      <title>2023-12-15 q-fin: &quot;Discover the Secrets: How Information Unlocks Hidden Value in Financial Markets&quot;</title>
+      <description>ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.09201 Title Robust option pricing with volatility term structure An empirical study for variance options
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.09081 Title Forecasting skill of a crowd prediction platform A comparison of exchange rate forecasts
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.08927 Title Limit Order Book Dynamics and Order Size Modelling Using Compound Hawkes Process
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.08784 Title Convergence of Heavy Tailed Hawkes Processes and the Microstructure of Rough Volatility
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.07878 Title New Kids on the Block On the impact of information retrieval on contextual resource integration patterns</description>
+      <pubDate>Fri, 15 Dec 2023 08:40:47 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-15_q-finc6d92405-b46f-4ae1-8313-a43b2f3f80b1.mp3" type="audio/mp3" length="5954445"/>
+      <guid>a9f9a175-996b-46ad-b3dc-561d585152c3</guid>
+    </item>
   </channel>
 </rss>
