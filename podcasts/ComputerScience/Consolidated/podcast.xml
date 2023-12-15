@@ -2038,5 +2038,16 @@ ChatGPT generated podcast using model=AWS/anthropic.claude-instant-v1 for https:
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-13_q-finef4bfca7-a692-4558-a0e9-79cf889a3633.mp3" type="audio/mp3" length="6439149"/>
       <guid>29a1d22d-5a4a-42ca-8c34-8a0b50b34179</guid>
     </item>
+    <item>
+      <title>2023-12-15 cs: &quot;AI-Powered Image Revolution: Localized Editing, 3D Depth Mastery, Fine-Grained Text Control, Vision-Language Synergy, and Textural Masterpieces Revealed&quot;</title>
+      <description>ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.09256 Title LIME Localized Image Editing via Attention Regularization in Diffusion Models
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.09254 Title Revisiting Depth Completion from a Stereo Matching Perspective for Cross domain Generalization
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.09252 Title FineControlNet Fine level Text Control for Image Generation with Spatially Aligned Text Control Injection
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.09251 Title VL GPT A Generative Pre trained Transformer for Vision and Language Understanding and Generation
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.09250 Title Single Mesh Diffusion Models with Field Latents for Texture Generation</description>
+      <pubDate>Fri, 15 Dec 2023 03:16:26 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-15_cs:_&quot;db9f3941-a8d2-49fc-960c-037abcfeddae.mp3" type="audio/mp3" length="5086989"/>
+      <guid>7b66a96a-8ddf-4367-bb00-29913ed0cc45</guid>
+    </item>
   </channel>
 </rss>
