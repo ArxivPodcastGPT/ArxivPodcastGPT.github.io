@@ -2093,5 +2093,16 @@ ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-18_cs:_a81e6ca38-3713-44a6-9f08-70fb27afc83b.mp3" type="audio/mp3" length="5244045"/>
       <guid>c6b8bfa1-1876-4367-a0ef-6bd13d4a800f</guid>
     </item>
+    <item>
+      <title>2023-12-18 psyarxiv: AI Unlocks Astonishing Breakthroughs in Physical Reasoning, Literary Analysis, Mental Health, and Medical Diagnostics</title>
+      <description>ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/https://osf.io/f9ukv/download/ Blending simulation and abstraction for physical reasoning
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/https://osf.io/xvrdu/download/ Manual for the Annotation of Parallelisms und Deviations in Rhymed and Metered Texts
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/https://osf.io/b64nx/download/ Avoidance and Fear Day by Day in Social Anxiety Disorder
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/https://osf.io/w5mp9/download/ Innovating Skin Cancer Detection with Transfer Learning Feature Fusion Efficient Data Management Data Augmentation and Interdisciplinary Expertise for Better Outcomes
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/https://osf.io/dbyw7/download/ MoralNet A Benchmarking Protocol for Evaluating Morality in AI Systems</description>
+      <pubDate>Mon, 18 Dec 2023 08:35:42 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-18_psyara107dde2-1a11-4631-b2d8-d7c3d182ecf6.mp3" type="audio/mp3" length="4091373"/>
+      <guid>b3b4baf6-9870-4b94-86be-1e7cb1f1ff9e</guid>
+    </item>
   </channel>
 </rss>
