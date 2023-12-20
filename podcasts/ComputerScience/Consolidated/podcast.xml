@@ -2115,5 +2115,16 @@ ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-18_q-fin2769096c-88e5-4d5b-b8fd-0a0ecc6aa9c3.mp3" type="audio/mp3" length="3944205"/>
       <guid>779c9403-8ff5-42cc-a422-3843f13160bb</guid>
     </item>
+    <item>
+      <title>2023-12-20 cs: &quot;Unleash Your Vision: Seeing the Unseen with Revolutionary AI Explorations&quot;</title>
+      <description>ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.12437 Title Weakly Supervised Open Vocabulary Object Detection
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.12436 Title A Challenger to GPT 4V Early Explorations of Gemini in Visual Expertise
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.12433 Title Tracking Any Object Amodally
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.12431 Title On Inference Stability for Diffusion Models
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.12430 Title Efficient Title Reranker for Fast and Improved Knowledge Intense NLP</description>
+      <pubDate>Wed, 20 Dec 2023 08:24:46 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-20_cs:_&quot;e84175fd-2d0e-4361-8a61-a66186eb1b27.mp3" type="audio/mp3" length="5094861"/>
+      <guid>3d1ce6f1-9470-45d8-9cd5-141f51ce2e4f</guid>
+    </item>
   </channel>
 </rss>
