@@ -2126,5 +2126,16 @@ ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-20_cs:_&quot;e84175fd-2d0e-4361-8a61-a66186eb1b27.mp3" type="audio/mp3" length="5094861"/>
       <guid>3d1ce6f1-9470-45d8-9cd5-141f51ce2e4f</guid>
     </item>
+    <item>
+      <title>2023-12-20 psyarxiv: New Research Reveals the Secrets of the Human Mind</title>
+      <description>ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/https://osf.io/zhjd2/download/ Acoustical and cultural explanations for contextual tonal stability
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/https://osf.io/2a49z/download/ Motif Learning Facilitates Sequence Memorization and Generalization
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/https://osf.io/y5msw/download/ Mother infant social gaze dynamics relate to infant brain activity and word segmentation
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/https://osf.io/p8wne/download/ Meaningfulness and familiarity expand visual working memory capacity
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/https://osf.io/zrcft/download/ Detecting hysteresis in psychological processes with the hysteretic threshold autoregressive HysTAR model</description>
+      <pubDate>Wed, 20 Dec 2023 08:29:02 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-20_psyar0e146f9a-5042-4904-b75f-c5ce851beed2.mp3" type="audio/mp3" length="5153613"/>
+      <guid>57190604-28c0-41e7-94bc-c27e6f16d518</guid>
+    </item>
   </channel>
 </rss>
