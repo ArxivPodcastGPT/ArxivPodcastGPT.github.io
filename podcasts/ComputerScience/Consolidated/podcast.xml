@@ -2137,5 +2137,16 @@ ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-20_psyar0e146f9a-5042-4904-b75f-c5ce851beed2.mp3" type="audio/mp3" length="5153613"/>
       <guid>57190604-28c0-41e7-94bc-c27e6f16d518</guid>
     </item>
+    <item>
+      <title>2023-12-20 q-fin: Unlock Your Potential: AI, Green Jobs, Economic Sustainability, and More!</title>
+      <description>ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.11942 Title Skills or Degree The Rise of Skill Based Hiring for AI and Green Jobs
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.11806 Title Managing Demographic Transitions A Comprehensive Analysis of China s Path to Economic Sustainability
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.11797 Title Learning Merton s Strategies in an Incomplete Market Recursive Entropy Regularization and Biased Gaussian Exploration
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.11767 Title Least cost diets to teach optimization and consumer behavior with applications to health equity poverty measurement and international development
+ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/abs/2312.11711 Title Energy saving technologies and energy efficiency in the post pandemic world</description>
+      <pubDate>Wed, 20 Dec 2023 08:32:33 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-20_q-fin3b4c4765-4d93-4395-9113-9ad6c059f1db.mp3" type="audio/mp3" length="3760173"/>
+      <guid>4ce5670e-f1e9-471b-963d-6cab16b735e8</guid>
+    </item>
   </channel>
 </rss>
