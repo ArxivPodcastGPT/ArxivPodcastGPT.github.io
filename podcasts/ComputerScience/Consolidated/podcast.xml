@@ -2170,5 +2170,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-22_psyaree05963e-4918-4c66-af7d-3b71164e7717.mp3" type="audio/mp3" length="7169037"/>
       <guid>0765c612-a0c7-41f4-b69d-ff33bd7e546d</guid>
     </item>
+    <item>
+      <title>2023-12-22 q-fin: &quot;Unveiling the Hidden Secrets: From Cyber Resilience to Venture Capital&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14120 Title Name order and the top elite Long term effects of a hidden cur riculum
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14044 Title CVA Hedging by Risk Averse Stochastic Horizon Reinforcement Learning
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.13884 Title Measures of Resilience to Cyber Contagion An Axiomatic Approach for Complex Systems
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.13719 Title Market Adaptive Ratio for Portfolio Management
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.13564 Title The Effect of Antitrust Enforcement on Venture Capital Investments</description>
+      <pubDate>Fri, 22 Dec 2023 08:51:24 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-22_q-fin6a7bf982-c53b-4ac0-bfec-1803303d4228.mp3" type="audio/mp3" length="6404877"/>
+      <guid>ce25e91d-31bf-4e1f-b90f-2e2914af0813</guid>
+    </item>
   </channel>
 </rss>
