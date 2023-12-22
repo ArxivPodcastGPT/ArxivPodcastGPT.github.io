@@ -2159,5 +2159,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-22_cs:_nac0228ec-ae4c-4ced-8ce5-c14545c55abc.mp3" type="audio/mp3" length="6216621"/>
       <guid>9cf423c1-00da-472d-95b3-2f77fd02013a</guid>
     </item>
+    <item>
+      <title>2023-12-22 psyarxiv: Unraveling the Mysteries of Perception, Language, and Interaction in Humans and Machines</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/swzr7/download/ Temporal errors Researchers should stop studying the flash lag effect
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/2a49z/download/ Motif Learning Facilitates Sequence Memorization and Generalization
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/y5msw/download/ Mother infant social gaze dynamics relate to infant brain activity and word segmentation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/kzv47/download/  Really he dased the cat to the boy Two year olds exploit grammatical and thematic content to learn novel verb meanings
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/xrp9f/download/ Coercion in Psychiatry The Human Rights Challenge</description>
+      <pubDate>Fri, 22 Dec 2023 08:42:08 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-22_psyaree05963e-4918-4c66-af7d-3b71164e7717.mp3" type="audio/mp3" length="7169037"/>
+      <guid>0765c612-a0c7-41f4-b69d-ff33bd7e546d</guid>
+    </item>
   </channel>
 </rss>
