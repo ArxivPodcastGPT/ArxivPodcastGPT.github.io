@@ -2148,5 +2148,16 @@ ChatGPT generated podcast using model=GOOGLE/gemini-pro for https://arxiv.org/ab
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-20_q-fin3b4c4765-4d93-4395-9113-9ad6c059f1db.mp3" type="audio/mp3" length="3760173"/>
       <guid>4ce5670e-f1e9-471b-963d-6cab16b735e8</guid>
     </item>
+    <item>
+      <title>2023-12-22 cs: Next-Level Reality: Making the Virtual World More Realistic with AI</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14157 Title 3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14154 Title Virtual Pets Animatable Animal Generation in 3D Scenes
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14150 Title DriveLM Driving with Graph Visual Question Answering
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14149 Title TagAlign Improving Vision Language Alignment with Multi Tag Classification
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14140 Title HeadCraft Modeling High Detail Shape Variations for Animated 3DMMs</description>
+      <pubDate>Fri, 22 Dec 2023 08:32:18 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-22_cs:_nac0228ec-ae4c-4ced-8ce5-c14545c55abc.mp3" type="audio/mp3" length="6216621"/>
+      <guid>9cf423c1-00da-472d-95b3-2f77fd02013a</guid>
+    </item>
   </channel>
 </rss>
