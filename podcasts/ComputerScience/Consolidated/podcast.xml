@@ -2181,5 +2181,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-22_q-fin6a7bf982-c53b-4ac0-bfec-1803303d4228.mp3" type="audio/mp3" length="6404877"/>
       <guid>ce25e91d-31bf-4e1f-b90f-2e2914af0813</guid>
     </item>
+    <item>
+      <title>2023-12-25 cs: Unlock the Power of AI: Mastering 3D Hand Motion, Reinforcement Learning from Human Insight, Efficient Neural Network Training, Pruning Large Models, and Rice Phenotyping Innovation</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14929 Title MACS Mass Conditioned 3D Hand and Object Motion Synthesis
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14925 Title A Survey of Reinforcement Learning from Human Feedback
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14924 Title Training Convolutional Neural Networks with the Forward Forward algorithm
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14923 Title Fast NTK Parameter Efficient Unlearning for Large Scale Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14920 Title A Novel Sampled Clustering Algorithm for Rice Phenotypic Data</description>
+      <pubDate>Mon, 25 Dec 2023 08:34:43 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-25_cs:_u007c3bc4-217e-40d6-b16e-404bf3b1563b.mp3" type="audio/mp3" length="7553613"/>
+      <guid>5ac1f0fc-e1a3-418d-b242-07a81c7c47ad</guid>
+    </item>
   </channel>
 </rss>
