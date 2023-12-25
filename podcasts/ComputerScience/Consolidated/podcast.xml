@@ -2203,5 +2203,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-25_psyar618a1163-a94f-4093-8b7f-dae789f99c6d.mp3" type="audio/mp3" length="7464621"/>
       <guid>ac305fa7-b3eb-4d07-b3f5-30a0f1d98fb5</guid>
     </item>
+    <item>
+      <title>2023-12-25 q-fin: Uncover the Hidden Forces Shaping Your Finances, Health, and Retirement</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14903 Title Scalable Agent Based Modeling for Complex Financial Market Simulations
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14853 Title In the Line of Fire A Systematic Review and Meta Analysis of Job Burnout Among Nurses
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14765 Title A hypothesis test for the long term calibration in rating systems with overlapping time windows
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14515 Title Does religiosity influence corporate greenwashing behavior 
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.14355 Title Optimal Strategies for the Decumulation of Retirement Savings under Differing Appetites for Liquidity and Investment Risks</description>
+      <pubDate>Mon, 25 Dec 2023 08:52:33 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-25_q-fin42a893c8-fd6a-4b01-ae84-35c2c187b663.mp3" type="audio/mp3" length="6576621"/>
+      <guid>65364e8c-303a-4f7a-b9e2-8f8836a2648d</guid>
+    </item>
   </channel>
 </rss>
