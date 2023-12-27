@@ -2214,5 +2214,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-25_q-fin42a893c8-fd6a-4b01-ae84-35c2c187b663.mp3" type="audio/mp3" length="6576621"/>
       <guid>65364e8c-303a-4f7a-b9e2-8f8836a2648d</guid>
     </item>
+    <item>
+      <title>2023-12-27 cs: AI Unlocks Secrets of Human Conversation, Embodiment, and More</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.16171 Title Principled Instructions Are All You Need for Questioning LLaMA 1 2 GPT 3 5 4
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.16170 Title EmbodiedScan A Holistic Multi Modal 3D Perception Suite Towards Embodied AI
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.16168 Title Social Transmotion Promptable Human Trajectory Prediction
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.16163 Title Age of Information in Gossip Networks A Friendly Introduction and Literature Survey
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.16159 Title Zero Shot Cross Lingual Reranking with Large Language Models for Low Resource Languages</description>
+      <pubDate>Wed, 27 Dec 2023 08:34:27 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-27_cs:_a6a2b1cff-2f6b-41c9-9e16-ce67040178d1.mp3" type="audio/mp3" length="7298829"/>
+      <guid>24dc85eb-99e6-4eca-b34e-02cbf6ba9fcf</guid>
+    </item>
   </channel>
 </rss>
