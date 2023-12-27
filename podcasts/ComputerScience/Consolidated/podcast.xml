@@ -2236,5 +2236,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-27_psyar97357afa-8d7b-41a8-b018-d86f2b1ffc7b.mp3" type="audio/mp3" length="5888493"/>
       <guid>4dee6438-60fc-4a23-baad-f93de20a15dd</guid>
     </item>
+    <item>
+      <title>2023-12-27 q-fin: Unleash the Power: AI, Green Marketing, and Stock Trading Secrets Revealed</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.16161 Title Can the creation of separate bidding zones within countries create imbalances in PV uptake Evidence from Sweden
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.15950 Title Implied volatility also is path dependent
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.15865 Title Mental Perception of Quality Green Marketing as a Catalyst for Brand Quality Enhancement
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.15730 Title Deep Reinforcement Learning for Quantitative Trading
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.15563 Title Dynamics of Global Emission Permit Prices and Regional Social Cost of Carbon under Noncooperation</description>
+      <pubDate>Wed, 27 Dec 2023 08:52:36 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-27_q-fina269fd09-f966-4216-a4d3-382ad17411d2.mp3" type="audio/mp3" length="7095117"/>
+      <guid>41e8cb29-8afe-46bf-995c-15a108e2b70f</guid>
+    </item>
   </channel>
 </rss>
