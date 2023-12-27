@@ -2225,5 +2225,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-27_cs:_a6a2b1cff-2f6b-41c9-9e16-ce67040178d1.mp3" type="audio/mp3" length="7298829"/>
       <guid>24dc85eb-99e6-4eca-b34e-02cbf6ba9fcf</guid>
     </item>
+    <item>
+      <title>2023-12-27 psyarxiv: Unveiling the Secrets of Science, AI, and Human Behavior</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/spz4w/download/ Opening open science to all Demystifying reproducibility and transparency practices in linguistic research
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/y69px/download/ Human Divergent Exploration Capacity for Material Design A Comparison with Artificial Intelligence
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/357fh/download/ Actual and Perceived Partisan Bias in Judgments of Political Misinformation as Lies
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/x8knb/download/ What Motivates Support for Freedom of Religious Belief A Multi Country Study
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/gvsh2/download/ Japanese version of the Perth Alexithymia Questionnaire</description>
+      <pubDate>Wed, 27 Dec 2023 08:41:57 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-27_psyar97357afa-8d7b-41a8-b018-d86f2b1ffc7b.mp3" type="audio/mp3" length="5888493"/>
+      <guid>4dee6438-60fc-4a23-baad-f93de20a15dd</guid>
+    </item>
   </channel>
 </rss>
