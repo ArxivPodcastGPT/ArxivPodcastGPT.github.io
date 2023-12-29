@@ -2258,5 +2258,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-29_cs:_db64ed045-260d-4833-8d47-1580d509b385.mp3" type="audio/mp3" length="4735725"/>
       <guid>1bb1ab75-9fdc-42bf-abf9-5ed63b803fa2</guid>
     </item>
+    <item>
+      <title>2023-12-29 psyarxiv: Unveiling the Secrets: Mind Games, Virtual Adventures, Risky Bets, and Ethical AI</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/dzqjp/download/ Individualisation in cognitive skills training essential or superfluous Examining the effectiveness of an adaptive game for training executive functions in young adults
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/qfdvz/download/ Reeling in Stories An Investigation of Creative Behaviors and Creativity Support on Instagram
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/p82nx/download/ Effect of Calibration Training on the Calibration of Intelligence Analysts Judgments
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/j7aef/download/ Variability and accessibility of information guide gaze dynamics in decision making
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/zgqad/download/ Virtuous Vehicles Identifying the Values Profiles of Human Drivers as a Basis for Programming Virtuous Decision Making in Self driving Cars</description>
+      <pubDate>Fri, 29 Dec 2023 08:45:03 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-29_psyarb542a251-1cee-4c15-8620-1a09edb41d08.mp3" type="audio/mp3" length="6395085"/>
+      <guid>cc6a0e83-904a-49f0-9a2c-e5193faa85e4</guid>
+    </item>
   </channel>
 </rss>
