@@ -2269,5 +2269,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-29_psyarb542a251-1cee-4c15-8620-1a09edb41d08.mp3" type="audio/mp3" length="6395085"/>
       <guid>cc6a0e83-904a-49f0-9a2c-e5193faa85e4</guid>
     </item>
+    <item>
+      <title>2023-12-29 q-fin: Economists Uncover the Secrets to Economic Success</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17157 Title Discounting the distant future What do historical bond prices imply about the long term discount rate 
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.16710 Title Health related Quality of life Financial Toxicity Productivity Loss and Catastrophic Health Expenditures After Lung Cancer Diagnosis in Argentina
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.16698 Title The Green Advantage Analyzing the Effects of Eco Friendly Marketing on Consumer Loyalty
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.16637 Title Price predictability at ultra high frequency Entropy based randomness test
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.16448 Title Randomized Signature Methods in Optimal Portfolio Selection</description>
+      <pubDate>Fri, 29 Dec 2023 09:00:00 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-29_q-finef14362f-65ad-40f4-80d0-8aa43d53fc39.mp3" type="audio/mp3" length="7914573"/>
+      <guid>0b9d05e1-226e-427b-9d0b-312326bf97f8</guid>
+    </item>
   </channel>
 </rss>
