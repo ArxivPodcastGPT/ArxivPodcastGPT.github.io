@@ -2247,5 +2247,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-27_q-fina269fd09-f966-4216-a4d3-382ad17411d2.mp3" type="audio/mp3" length="7095117"/>
       <guid>41e8cb29-8afe-46bf-995c-15a108e2b70f</guid>
     </item>
+    <item>
+      <title>2023-12-29 cs: Discover the Secrets: From Android Dreams to AI Reality</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17250 Title iFusion Inverting Diffusion for Pose Free Reconstruction from Sparse Views
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17249 Title Do Androids Know They re Only Dreaming of Electric Sheep 
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17248 Title Rethinking Model based Policy based and Value based Reinforcement Learning via the Lens of Representation Complexity
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17247 Title Amodal Ground Truth and Completion in the Wild
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17244 Title The LLM Surgeon</description>
+      <pubDate>Fri, 29 Dec 2023 08:33:30 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-29_cs:_db64ed045-260d-4833-8d47-1580d509b385.mp3" type="audio/mp3" length="4735725"/>
+      <guid>1bb1ab75-9fdc-42bf-abf9-5ed63b803fa2</guid>
+    </item>
   </channel>
 </rss>
