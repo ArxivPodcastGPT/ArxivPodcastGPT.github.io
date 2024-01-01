@@ -2302,5 +2302,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-01_psyar6e48a9bf-8ba0-4241-8b59-234da13070db.mp3" type="audio/mp3" length="7233357"/>
       <guid>8374013b-b9a2-460d-8059-cc4cf5b8930f</guid>
     </item>
+    <item>
+      <title>2024-01-01 q-fin: Discover the Surprising Connection Between Finance, Nature, and Health</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17375 Title Causal Discovery in Financial Markets A Framework for Nonstationary Time Series Data
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17337 Title Exploring Nature Datasets and Models for Analyzing Nature Related Disclosures
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17157 Title Discounting the distant future What do historical bond prices imply about the long term discount rate 
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.16710 Title Health related Quality of life Financial Toxicity Productivity Loss and Catastrophic Health Expenditures After Lung Cancer Diagnosis in Argentina
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.16698 Title The Green Advantage Analyzing the Effects of Eco Friendly Marketing on Consumer Loyalty</description>
+      <pubDate>Mon, 01 Jan 2024 08:47:41 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-01_q-fin87e80bf2-7adb-4f42-99de-6f5a93c19294.mp3" type="audio/mp3" length="6339309"/>
+      <guid>0fc905b7-46ab-4c8f-a076-4c07fcc8b930</guid>
+    </item>
   </channel>
 </rss>
