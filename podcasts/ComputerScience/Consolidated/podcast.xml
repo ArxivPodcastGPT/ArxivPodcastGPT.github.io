@@ -2280,5 +2280,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2023-12-29_q-finef14362f-65ad-40f4-80d0-8aa43d53fc39.mp3" type="audio/mp3" length="7914573"/>
       <guid>0b9d05e1-226e-427b-9d0b-312326bf97f8</guid>
     </item>
+    <item>
+      <title>2024-01-01 cs: Discover the Ultimate AI Assistant: A Fusion of Knowledge, Physics, Collaboration, and Security</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17748 Title K PERM Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona Adaptive Queries
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17738 Title Physics informed Graphical Neural Network for Power System State Estimation
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17731 Title MURP Multi Agent Ultra Wideband Relative Pose Estimation with Constrained Communications in 3D Environments
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17726 Title Comparing Effectiveness and Efficiency of Interactive Application Security Testing IAST and Runtime Application Self Protection RASP Tools in a Large Java based System
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2312.17722 Title An Experimental Study of Satisfaction Response Evaluation of Online Collaborative Learning</description>
+      <pubDate>Mon, 01 Jan 2024 08:33:36 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-01_cs:_de508f6c0-152d-46c1-9253-3db542569d4e.mp3" type="audio/mp3" length="6681933"/>
+      <guid>a4821555-7dcc-4733-abb8-0e655021f6b6</guid>
+    </item>
   </channel>
 </rss>
