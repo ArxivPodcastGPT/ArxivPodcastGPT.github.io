@@ -2291,5 +2291,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-01_cs:_de508f6c0-152d-46c1-9253-3db542569d4e.mp3" type="audio/mp3" length="6681933"/>
       <guid>a4821555-7dcc-4733-abb8-0e655021f6b6</guid>
     </item>
+    <item>
+      <title>2024-01-01 psyarxiv: &quot;Uncovering Secrets: From Behavior Patterns to Statistical Controversies&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/6xyp5/download/ Unfortunately everything is under control A plea for stronger statistical considerations about the use of control variables
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/7z4vm/download/ Innovative Approaches in Ovarian Cancer Research and Treatment
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/u9xgp/download/ Meta analytic prospective associations between self esteem and eating disorders appear to be spurious A reanalysis and comment on Krauss et al 2023 
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/p82nx/download/ Effect of Calibration Training on the Calibration of Intelligence Analysts Judgments
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/2bzvr/download/ Hooked on Books A Deep Dive into the Reading Motivations of ADHD and Non ADHD Children</description>
+      <pubDate>Mon, 01 Jan 2024 08:40:23 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-01_psyar6e48a9bf-8ba0-4241-8b59-234da13070db.mp3" type="audio/mp3" length="7233357"/>
+      <guid>8374013b-b9a2-460d-8059-cc4cf5b8930f</guid>
+    </item>
   </channel>
 </rss>
