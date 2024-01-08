@@ -2335,5 +2335,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-08_psyar3357acc3-1a4d-41f9-9c29-eebe95fdcb59.mp3" type="audio/mp3" length="7074765"/>
       <guid>f36f0945-4270-4da6-bf4d-4ffdbdeaabc6</guid>
     </item>
+    <item>
+      <title>2024-01-08 q-fin: &quot;Unraveling Financial Conundrums: Navigating Risk, Optimizing Investments, and Decoding Inflation in the Global Marketplace&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.02681 Title Displaying risk in mergers a diagrammatic approach for exchange ratio determination
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.02601 Title Constrained Max Drawdown a Fast and Robust Portfolio Optimization Approach
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.02428 Title Cu nto es demasiada inflaci n Una clasificaci n de reg menes inflacionarios
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.02378 Title Opinion formation in the world trade network
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.02353 Title Game Mining How to Make Money from those about to Play a Game</description>
+      <pubDate>Mon, 08 Jan 2024 08:52:40 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-08_q-finadde9a35-c5c2-4577-8b99-18c9403ac0af.mp3" type="audio/mp3" length="7221357"/>
+      <guid>94386cb7-d42c-42f4-88bc-faff86cd7b64</guid>
+    </item>
   </channel>
 </rss>
