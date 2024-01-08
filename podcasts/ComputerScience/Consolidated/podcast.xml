@@ -2324,5 +2324,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-08_cs:_&quot;1754375e-c6ee-4030-9961-e454054911cc.mp3" type="audio/mp3" length="6345453"/>
       <guid>fa9ebc6e-9040-470d-89d8-2517dfa90204</guid>
     </item>
+    <item>
+      <title>2024-01-08 psyarxiv: **Uncover the Secrets of the Mind: From Perception to Memory and Beyond**</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/ruyw6/download/ Temporal associations supporting repetitions in free recall
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/42bpn/download/ The role of working memory in probabilistic cuing of visual search
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/hb7wx/download/ Enlightening the Mind Comparing Stroboscopic Stimulation and Meditation for Mood and Cognition Enhancement
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/z7d6j/download/ Detecting Lies Through Others Eyes Children Use Perceptual Access Cues to Evaluate Listeners Beliefs about Informants Deception
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/m6pqj/download/ Reproducing the Psychedelic Experience One of the 5 Most Meaningful Experiences in Life </description>
+      <pubDate>Mon, 08 Jan 2024 08:43:32 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-08_psyar3357acc3-1a4d-41f9-9c29-eebe95fdcb59.mp3" type="audio/mp3" length="7074765"/>
+      <guid>f36f0945-4270-4da6-bf4d-4ffdbdeaabc6</guid>
+    </item>
   </channel>
 </rss>
