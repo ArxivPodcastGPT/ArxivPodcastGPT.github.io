@@ -2313,5 +2313,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-01_q-fin87e80bf2-7adb-4f42-99de-6f5a93c19294.mp3" type="audio/mp3" length="6339309"/>
       <guid>0fc905b7-46ab-4c8f-a076-4c07fcc8b930</guid>
     </item>
+    <item>
+      <title>2024-01-08 cs: &quot;Revolutionizing AI: Vision, Natural Language, Knowledge Management, and Interactive Visualization&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.02957 Title Denoising Vision Transformers
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.02955 Title Open Vocabulary SAM Segment and Recognize Twenty thousand Classes Interactively
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.02954 Title DeepSeek LLM Scaling Open Source Language Models with Longtermism
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.02952 Title Optimizing Dataflow Systems for Scalable Interactive Visualization
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.02950 Title The Tactician s Web of Large Scale Formal Knowledge</description>
+      <pubDate>Mon, 08 Jan 2024 08:34:18 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-08_cs:_&quot;1754375e-c6ee-4030-9961-e454054911cc.mp3" type="audio/mp3" length="6345453"/>
+      <guid>fa9ebc6e-9040-470d-89d8-2517dfa90204</guid>
+    </item>
   </channel>
 </rss>
