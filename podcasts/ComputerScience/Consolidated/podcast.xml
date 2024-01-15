@@ -2368,5 +2368,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-15_psyar058e078a-087a-4915-a7ed-2a18aece8a15.mp3" type="audio/mp3" length="8092173"/>
       <guid>05752222-aa03-49a7-8e89-c96afa16f69f</guid>
     </item>
+    <item>
+      <title>2024-01-15 q-fin: &quot;Harnessing AI for Financial Forecasting: Unraveling Market Dynamics&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.06740 Title A deep implicit explicit minimizing movement method for option pricing in jump diffusion models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.06724 Title Equity auction dynamics latent liquidity models with activity acceleration
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.06457 Title Analysis of the Impact of Central bank Digital Currency on the Demand for Transactional Currency
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.06249 Title SpotV2Net Multivariate Intraday Spot Volatility Forecasting via Vol of Vol Informed Graph Attention Networks
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.06179 Title CNN DRL for Scalable Actions in Finance</description>
+      <pubDate>Mon, 15 Jan 2024 09:00:06 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-15_q-finfc459b99-b5e0-49ed-a6ce-11b1cdfc160f.mp3" type="audio/mp3" length="9634221"/>
+      <guid>4bf31fff-47a7-4b5d-976c-f792a0f9e5e9</guid>
+    </item>
   </channel>
 </rss>
