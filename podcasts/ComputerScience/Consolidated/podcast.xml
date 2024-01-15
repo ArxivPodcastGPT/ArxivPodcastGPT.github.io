@@ -2357,5 +2357,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-15_cs:_&quot;f391abee-598c-455e-8782-40c3f9dcac2d.mp3" type="audio/mp3" length="7386861"/>
       <guid>7ccf6aa9-f1ce-4750-b658-4358f0cefe74</guid>
     </item>
+    <item>
+      <title>2024-01-15 psyarxiv: Unlock the Secrets of Learning, Social Identity, Open Science, and Enhanced Esports Performance</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/fnez5/download/ Learning training boosts causal attribution tendencies similarly to brief cognitive restructuring depending on individual differences in learning rate
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/3eacr/download/ Exploring the Role of Social Identity in the Glass Cliff Phenomenon A Gender Projection Model
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/bgudc/download/ Demystifying Open Science in Health Psychology and Behavioral Medicine A Practical Guide to Registered Reports and Data Notes
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/xts5k/download/ Standing Enhances Esports Performance and Executive Function for Short Durations but Not for Long Implications for Positive Sitting
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/zd79j/download/ GPS navigation assistance improves driving mobility in older drivers</description>
+      <pubDate>Mon, 15 Jan 2024 08:49:16 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-15_psyar058e078a-087a-4915-a7ed-2a18aece8a15.mp3" type="audio/mp3" length="8092173"/>
+      <guid>05752222-aa03-49a7-8e89-c96afa16f69f</guid>
+    </item>
   </channel>
 </rss>
