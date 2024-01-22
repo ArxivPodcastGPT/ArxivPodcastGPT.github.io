@@ -2379,5 +2379,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-15_q-finfc459b99-b5e0-49ed-a6ce-11b1cdfc160f.mp3" type="audio/mp3" length="9634221"/>
       <guid>4bf31fff-47a7-4b5d-976c-f792a0f9e5e9</guid>
     </item>
+    <item>
+      <title>2024-01-22 cs: &quot;From Satellites to Surgery: Unveiling Hidden Truths and Advancing Technologies&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.10891 Title Depth Anything Unleashing the Power of Large Scale Unlabeled Data
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.10890 Title Event detection from novel data sources Leveraging satellite imagery alongside GPS traces
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.10889 Title Synthesizing Moving People with 3D Control
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.10886 Title SCENES Subpixel Correspondence Estimation With Epipolar Supervision
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.10883 Title RetinaVR Democratizing Vitreoretinal Surgery Training with a Portable and Affordable Virtual Reality Simulator in the Metaverse</description>
+      <pubDate>Mon, 22 Jan 2024 08:38:39 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-22_cs:_&quot;2c64c872-3d82-4184-921a-f0f9ea02d1b7.mp3" type="audio/mp3" length="7311309"/>
+      <guid>07853f84-4dd5-4621-b638-e6b51b0b5279</guid>
+    </item>
   </channel>
 </rss>
