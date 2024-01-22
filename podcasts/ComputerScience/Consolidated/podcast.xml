@@ -2390,5 +2390,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-22_cs:_&quot;2c64c872-3d82-4184-921a-f0f9ea02d1b7.mp3" type="audio/mp3" length="7311309"/>
       <guid>07853f84-4dd5-4621-b638-e6b51b0b5279</guid>
     </item>
+    <item>
+      <title>2024-01-22 psyarxiv: &quot;Unveiling the Secrets of Human Perception, Social Interactions, Sleep, and Academic Success&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/ux72c/download/ The problem of viewpoint II Constraints on the structure of the pictorial percept
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/g9e3z/download/ Modeling the minds of friends Dorsomedial prefrontal cortex encodes accurate dyadic meta evaluations about how others perceive us
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/ykfhq/download/ The How and Why of Sleep Motor Theory and Catecholamine Hypothesis
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/zy4xe/download/ Importance of students social resources for their academic achievement and well being in elementary school
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/jn69p/download/ Beta Binomial Meta Analysis of Individual Differences Based on Sample Means and Standard Deviations Studying Reliability of Sum Scores of Binary Items</description>
+      <pubDate>Mon, 22 Jan 2024 08:49:29 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-22_psyarb641e38a-a5c5-4891-bfc2-08364d91c7c9.mp3" type="audio/mp3" length="6493677"/>
+      <guid>21c22391-8b12-469c-87be-3f0c394b3ca5</guid>
+    </item>
   </channel>
 </rss>
