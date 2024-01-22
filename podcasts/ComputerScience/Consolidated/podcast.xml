@@ -2401,5 +2401,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-22_psyarb641e38a-a5c5-4891-bfc2-08364d91c7c9.mp3" type="audio/mp3" length="6493677"/>
       <guid>21c22391-8b12-469c-87be-3f0c394b3ca5</guid>
     </item>
+    <item>
+      <title>2024-01-22 q-fin: Uncover Economic Trends and Market Dynamics with Cutting-Edge Research</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.10872 Title An Experimental Study of Decentralized Matching
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.10722 Title Stylized Facts and Market Microstructure An In Depth Exploration of German Bond Futures Market
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.10370 Title Deep Generative Modeling for Financial Time Series with Application in VaR A Comparative Review
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.10261 Title How industrial clusters influence the growth of the regional GDP A spatial approach
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.10255 Title Nowcasting Madagascar s real GDP using machine learning algorithms</description>
+      <pubDate>Mon, 22 Jan 2024 09:02:03 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-22_q-finf8492f1e-7273-4364-a9ab-68750b1b74f9.mp3" type="audio/mp3" length="7454829"/>
+      <guid>a122a2ae-1aab-4f9a-9b8a-6417d66d3a0e</guid>
+    </item>
   </channel>
 </rss>
