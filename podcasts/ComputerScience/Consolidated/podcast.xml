@@ -2434,5 +2434,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-29_psyar105808c2-82ea-4220-a051-da3e39708227.mp3" type="audio/mp3" length="7140237"/>
       <guid>b3351cd2-dd4d-4334-9c06-6fab9661b0f8</guid>
     </item>
+    <item>
+      <title>2024-01-29 q-fin: Uncover Hidden Market Gems: Data Science Unlocks Sustainable Trading, Eco-Friendly Travel, and Cartel Detection</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.15069 Title Sustainable Market Incentives Lessons from European Feebates for a ZEV Future
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.14945 Title Free public transport to the destination A causal analysis of tourists travel mode choice
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.14761 Title ESG driven pairs algorithm for sustainable trading Analysis from the Indian market
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.14757 Title How to Use Data Science in Economics a Classroom Game Based on Cartel Detection
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.14672 Title Optimal portfolio under ratio type periodic evaluation in incomplete markets with stochastic factors</description>
+      <pubDate>Mon, 29 Jan 2024 08:50:28 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-29_q-fine04929e7-7a89-4a7f-829d-cdbfdf9fc093.mp3" type="audio/mp3" length="6614349"/>
+      <guid>478a982e-ea35-4bb1-84bc-b6f26a92a8a9</guid>
+    </item>
   </channel>
 </rss>
