@@ -2423,5 +2423,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-29_cs:_ubfc45816-cb2c-49c6-a77b-d0f85a0c5ea9.mp3" type="audio/mp3" length="7149453"/>
       <guid>f6d47e7b-946c-4503-aa82-f158db2dc575</guid>
     </item>
+    <item>
+      <title>2024-01-29 psyarxiv: Unraveling the Secrets of Mind, Matter, and Social Dynamics</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/8kn52/download/ Inhibition of Return in Three Dimensional Space Can be Modulated by Depth and Object Membership
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/x7aew/download/ The computational unconscious Adaptive narrative control psychopathology and subjective well being
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/jzamn/download/ The biased enforcement of rarely followed rules
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/zemp4/download/ Comparing Buffer Versus Transmission Models of Bullying Victimization Math Self Efficacy and Math Achievement A Multilevel Approach
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/https://osf.io/z3g9c/download/ Experimental evidence that exerting effort increases meaning</description>
+      <pubDate>Mon, 29 Jan 2024 08:41:21 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-29_psyar105808c2-82ea-4220-a051-da3e39708227.mp3" type="audio/mp3" length="7140237"/>
+      <guid>b3351cd2-dd4d-4334-9c06-6fab9661b0f8</guid>
+    </item>
   </channel>
 </rss>
