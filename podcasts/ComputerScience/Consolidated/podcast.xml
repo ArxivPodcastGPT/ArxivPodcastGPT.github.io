@@ -2412,5 +2412,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-22_q-finf8492f1e-7273-4364-a9ab-68750b1b74f9.mp3" type="audio/mp3" length="7454829"/>
       <guid>a122a2ae-1aab-4f9a-9b8a-6417d66d3a0e</guid>
     </item>
+    <item>
+      <title>2024-01-29 cs: Unleashing the Power of Language Models: From Fiction to Fact</title>
+      <description>ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.15077 Title EAGLE Speculative Sampling Requires Rethinking Feature Uncertainty
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.15075 Title Annotated Hands for Generative Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.15071 Title From GPT 4 to Gemini and Beyond Assessing the Landscape of MLLMs on Generalizability Trustworthiness and Causality through Four Modalities
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.15068 Title Pairing Orthographically Variant Literary Words to Standard Equivalents Using Neural Edit Distance Models
+ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/abs/2401.15062 Title Expert with Clustering Hierarchical Online Preference Learning Framework</description>
+      <pubDate>Mon, 29 Jan 2024 08:31:04 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-29_cs:_ubfc45816-cb2c-49c6-a77b-d0f85a0c5ea9.mp3" type="audio/mp3" length="7149453"/>
+      <guid>f6d47e7b-946c-4503-aa82-f158db2dc575</guid>
+    </item>
   </channel>
 </rss>
