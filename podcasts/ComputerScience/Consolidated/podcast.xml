@@ -2456,5 +2456,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-04_cs:_&quot;e6a04861-bb03-479b-ac79-28f02c58ba65.mp3" type="audio/mp3" length="1781037"/>
       <guid>9ce0f3e5-b0fa-4073-b334-734f80efd56c</guid>
     </item>
+    <item>
+      <title>2024-02-04 psyarxiv: &quot;Mind-Blowing Insights: Exploring Color Perception, Social Representations, Emotional Signatures, and Twitter Habits in a Fascinating ChatGPT Podcast!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/28f76/download/ Open Review of Kawakita et al s Is my red your red 2023 PsyArVix
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/s8eka/download/ Traces of our past the social representation of the physical world
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/5cxd9/download/ Spontaneous Thought Dynamics as a Signature of Positive and Negative Affectivity
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/824nb/download/ Beyond Active and Passive Social Media Use Habit Mechanisms Are Behind Frequent Posting and Scrolling on Twitter X
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/bywj2/download/ Children interpret some disjunctions conjunctively Evidence from child Romanian</description>
+      <pubDate>Sun, 04 Feb 2024 18:42:50 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-04_psyar4c806942-e56c-447a-b987-7dbfde34d449.mp3" type="audio/mp3" length="4947405"/>
+      <guid>10709824-b488-4da3-ba73-62c24723e780</guid>
+    </item>
   </channel>
 </rss>
