@@ -2445,5 +2445,16 @@ ChatGPT generated podcast using model=gpt-4-1106-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-01-29_q-fine04929e7-7a89-4a7f-829d-cdbfdf9fc093.mp3" type="audio/mp3" length="6614349"/>
       <guid>478a982e-ea35-4bb1-84bc-b6f26a92a8a9</guid>
     </item>
+    <item>
+      <title>2024-02-04 cs: &quot;Revolutionary AI Research Papers Unleashed - Boost Your Video Segmentation, Text Analysis, and Out of Distribution Detection with ViCA NeRF and More!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.00868 Title We re Not Using Videos Effectively An Updated Domain Adaptive Video Segmentation Baseline
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.00867 Title AToM Amortized Text to Mesh using 2D Diffusion
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.00865 Title Towards Optimal Feature Shaping Methods for Out of Distribution Detection
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.00864 Title ViCA NeRF View Consistency Aware 3D Editing of Neural Radiance Fields
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.00861 Title Evaluating Large Language Models for Generalization and Robustness via Data Compression</description>
+      <pubDate>Sun, 04 Feb 2024 18:36:09 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-04_cs:_&quot;e6a04861-bb03-479b-ac79-28f02c58ba65.mp3" type="audio/mp3" length="1781037"/>
+      <guid>9ce0f3e5-b0fa-4073-b334-734f80efd56c</guid>
+    </item>
   </channel>
 </rss>
