@@ -2467,5 +2467,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-04_psyar4c806942-e56c-447a-b987-7dbfde34d449.mp3" type="audio/mp3" length="4947405"/>
       <guid>10709824-b488-4da3-ba73-62c24723e780</guid>
     </item>
+    <item>
+      <title>2024-02-04 q-fin: &quot;Revolutionary Techniques Unveiled: From Tontine Cats to Loan Default Prediction, This Clickbait Title Has It All!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.00855 Title Egalitarian pooling and sharing of longevity risk a k a The many ways to skin a tontine cat 
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.00543 Title The extension of Pearson correlation coefficient measuring noise and selecting features
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.00515 Title Developing A Multi Agent and Self Adaptive Framework with Deep Reinforcement Learning for Dynamic Portfolio Risk Management
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.00445 Title Option pricing for Barndorff Nielsen and Shephard model by supervised deep learning
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.00299 Title Attention based Dynamic Multilayer Graph Neural Networks for Loan Default Prediction</description>
+      <pubDate>Sun, 04 Feb 2024 18:49:23 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-04_q-finbb32c1f1-e591-4b60-b27c-fefcb2251cf8.mp3" type="audio/mp3" length="4726125"/>
+      <guid>8c89b379-fe08-4c3d-b298-734c40ec9a5b</guid>
+    </item>
   </channel>
 </rss>
