@@ -2500,5 +2500,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-05_psyarc3535132-9f32-457c-830b-138f763574a5.mp3" type="audio/mp3" length="6448269"/>
       <guid>5c55cd47-9ed2-4378-9043-4d57a8fae4cf</guid>
     </item>
+    <item>
+      <title>2024-02-05 q-fin: &quot;Unveiling the Secrets of Financial Markets: From Sentiment Analysis to Volatility Forecasting and Skill Evaluation!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.01441 Title Learning the Market Sentiment Based Ensemble Trading Agents
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.01354 Title Forecasting Volatility of Oil based Commodities The Model of Dynamic Persistence
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.01142 Title A simple method for joint evaluation of skill in directional forecasts of multiple variables
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.01141 Title Income distribution in Thailand is scale invariant
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.01337 Title Convergence rates for Backward SDEs driven by L vy processes</description>
+      <pubDate>Mon, 05 Feb 2024 08:51:05 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-05_q-fin59091534-5179-44a4-bca7-ba59337fc809.mp3" type="audio/mp3" length="6346317"/>
+      <guid>aa592f5d-af12-4f1e-aea5-7fdfa02dfaa1</guid>
+    </item>
   </channel>
 </rss>
