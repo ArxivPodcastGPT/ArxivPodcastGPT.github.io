@@ -2478,5 +2478,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-04_q-finbb32c1f1-e591-4b60-b27c-fefcb2251cf8.mp3" type="audio/mp3" length="4726125"/>
       <guid>8c89b379-fe08-4c3d-b298-734c40ec9a5b</guid>
     </item>
+    <item>
+      <title>2024-02-05 cs: &quot;Unleashing the Power of AI: From Optimizing Hyperparameters to Enhancing Language Models - A Journey through Cutting-Edge Research&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.01632 Title Beyond Lengthscales No regret Bayesian Optimisation With Unknown Hyperparameters Of Any Type
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.01629 Title Position Paper Generalized grammar rules and structure based generalization beyond classical equivariance for lexical tasks and transduction
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.01622 Title TravelPlanner A Benchmark for Real World Planning with Language Agents
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.01621 Title Stochastic Two Points Method for Deep Model Zeroth order Optimization
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.01620 Title MAGDi Structured Distillation of Multi Agent Interaction Graphs Improves Reasoning in Smaller Language Models</description>
+      <pubDate>Mon, 05 Feb 2024 08:31:28 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-05_cs:_&quot;2b5d38b4-a4a8-4f31-a689-06930e0e4dba.mp3" type="audio/mp3" length="6412077"/>
+      <guid>056ebe9c-dcf6-4f8f-9c25-897325153e90</guid>
+    </item>
   </channel>
 </rss>
