@@ -2489,5 +2489,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-05_cs:_&quot;2b5d38b4-a4a8-4f31-a689-06930e0e4dba.mp3" type="audio/mp3" length="6412077"/>
       <guid>056ebe9c-dcf6-4f8f-9c25-897325153e90</guid>
     </item>
+    <item>
+      <title>2024-02-05 psyarxiv: &quot;Groundbreaking Research Reveals Mind-Blowing Insights from ChatGPT Generated Podcasts!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/ch2wx/download/ Language Writ Large LLMs ChatGPT Grounding Meaning and Understanding
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/s8eka/download/ Traces of our past the social representation of the physical world
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/pehxw/download/ Is Limiting Social Media Use Feasible for Young Adults A 3 Study Replication Failure of a Screen Time Reduction Intervention
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/fsehy/download/ Parameter Optimization of Non Invasive Vagus Nerve Stimulation for Novel Language Learning in Typically Developing Young Adults
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/xqs9j/download/ Common and Uncommon Drinking Patterns in Young Adulthood Uncovered by Person Specific Computational Modeling</description>
+      <pubDate>Mon, 05 Feb 2024 08:42:19 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-05_psyarc3535132-9f32-457c-830b-138f763574a5.mp3" type="audio/mp3" length="6448269"/>
+      <guid>5c55cd47-9ed2-4378-9043-4d57a8fae4cf</guid>
+    </item>
   </channel>
 </rss>
