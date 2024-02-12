@@ -2522,5 +2522,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-12_cs:_&quot;341193b6-d419-4963-92d8-8be1a53982ca.mp3" type="audio/mp3" length="6464589"/>
       <guid>8bed656b-6f30-4238-8708-987ef6b9e935</guid>
     </item>
+    <item>
+      <title>2024-02-12 psyarxiv: &quot;5 Mind-Blowing Papers Explored in a Clickbait Podcast: From Psychopathology to Pandemic Parenting and Perceptual Evaluations!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/36emd/download/ Contingencias como Modelos de Causalidad en Psicopatolog a
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/9dx5t/download/ Becoming a New Parent During the Pandemic Experiences of Pregnancy Birth and the Post Natal Period
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/4kwmr/download/ Sheer Disagreement Theory conflicting worldviews may motivate social response adjustment
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/bdn2a/download/ Using Gibbs Sampling with People to characterize perceptual and aesthetic evaluations in multidimensional visual stimulus space
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/3bfu8/download/ Make abandoned research publicly available</description>
+      <pubDate>Mon, 12 Feb 2024 08:34:54 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-12_psyar72f0dd2b-ef7e-4f1c-9e57-aa0538789118.mp3" type="audio/mp3" length="6487629"/>
+      <guid>8d2714c9-f227-42d2-b32a-76babcc2c471</guid>
+    </item>
   </channel>
 </rss>
