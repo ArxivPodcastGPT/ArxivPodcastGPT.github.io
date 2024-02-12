@@ -2533,5 +2533,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-12_psyar72f0dd2b-ef7e-4f1c-9e57-aa0538789118.mp3" type="audio/mp3" length="6487629"/>
       <guid>8d2714c9-f227-42d2-b32a-76babcc2c471</guid>
     </item>
+    <item>
+      <title>2024-02-12 q-fin: &quot;Mind-blowing Research Unveils Boxing Bias, Market Turbulence Secrets, Sustainable Supply Chains, Gendered Labor Markets, and Financial Market Paradigms!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.06594 Title They were robbed Scoring by the middlemost to attenuate biased judging in boxing
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.06032 Title Navigating Market Turbulence Insights from Causal Network Contagion Value at Risk
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.06100 Title Towards Industry 5 0 A Systematic Literature Review on Sustainable and Green Composite Materials Supply Chains
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.05729 Title Monetary Policy and the Gendered Labor Market Dynamics Evidence from Developing Economies
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.05364 Title Coarse graining correlation matrices according to macrostructures Financial markets as a paradigm</description>
+      <pubDate>Mon, 12 Feb 2024 08:40:29 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-12_q-fin3b08a7e8-7ff1-423c-b482-07047855b889.mp3" type="audio/mp3" length="6597357"/>
+      <guid>2e32b3a2-aaf0-4539-aa4e-12a1bd211e5c</guid>
+    </item>
   </channel>
 </rss>
