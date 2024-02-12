@@ -2511,5 +2511,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-05_q-fin59091534-5179-44a4-bca7-ba59337fc809.mp3" type="audio/mp3" length="6346317"/>
       <guid>aa592f5d-af12-4f1e-aea5-7fdfa02dfaa1</guid>
     </item>
+    <item>
+      <title>2024-02-12 cs: &quot;Groundbreaking Research Unveils Game-Changing Findings in AI, Software Development, and Neural Networks!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.06627 Title Feedback Loops With Language Models Drive In Context Reward Hacking
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.06626 Title Computing Optimal Commitments to Strategies and Outcome Conditional Utility Transfers
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.06625 Title Understanding the Effects of Iterative Prompting on Truthfulness
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.06624 Title Empirically Exploring How Novices Write Software Models in Alloy
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.06622 Title A two stage algorithm in evolutionary product unit neural networks for classification</description>
+      <pubDate>Mon, 12 Feb 2024 08:28:43 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-12_cs:_&quot;341193b6-d419-4963-92d8-8be1a53982ca.mp3" type="audio/mp3" length="6464589"/>
+      <guid>8bed656b-6f30-4238-8708-987ef6b9e935</guid>
+    </item>
   </channel>
 </rss>
