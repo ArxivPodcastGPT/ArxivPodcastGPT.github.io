@@ -2544,5 +2544,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-12_q-fin3b08a7e8-7ff1-423c-b482-07047855b889.mp3" type="audio/mp3" length="6597357"/>
       <guid>2e32b3a2-aaf0-4539-aa4e-12a1bd211e5c</guid>
     </item>
+    <item>
+      <title>2024-02-19 cs: &quot;Revolutionary AI Breakthrough: How Instruction Diversity and Verbal Feedback are Changing the Game in Predictive Healthcare Models!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.10896 Title PaLM2 VAdapter Progressively Aligned Language Model Makes a Strong Vision language Adapter
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.10894 Title Fusion of Diffusion Weighted MRI and Clinical Data for Predicting Functional Outcome after Acute Ischemic Stroke with Deep Contrastive Learning
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.10893 Title RLVF Learning from Verbal Feedback without Overgeneralization
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.10892 Title Proving membership in LLM pretraining data via data watermarks
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.10891 Title Instruction Diversity Drives Generalization To Unseen Tasks</description>
+      <pubDate>Mon, 19 Feb 2024 08:33:00 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-19_cs:_&quot;ae30bcb5-9e69-4ac4-924f-1169f912e7a1.mp3" type="audio/mp3" length="6390093"/>
+      <guid>0f795de8-40d0-4298-bc61-81533d2a5512</guid>
+    </item>
   </channel>
 </rss>
