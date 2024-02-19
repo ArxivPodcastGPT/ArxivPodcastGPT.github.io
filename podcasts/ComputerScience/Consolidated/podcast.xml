@@ -2566,5 +2566,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-19_psyar6c2e7ff7-8e44-4ef1-b4a8-338f7f4d3f36.mp3" type="audio/mp3" length="6248973"/>
       <guid>d8ec50b0-02a8-4986-89b9-2202c1cc5c1a</guid>
     </item>
+    <item>
+      <title>2024-02-19 q-fin: &quot;Revolutionary Insights in Crypto and Stock Markets: Learn How AI, Emoji, and Mathematical Theories Are Changing the Game!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.10803 Title Modelling crypto markets by multi agent reinforcement learning
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.10760 Title RAGIC Risk Aware Generative Adversarial Model for Stock Interval Construction
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.10481 Title Emoji Driven Crypto Assets Market Reactions
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.10253 Title The Famous American Economist H Markowitz and Mathematical Overview of his Portfolio Selection Theory
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.10215 Title The Mean Field Market Model Revisited</description>
+      <pubDate>Mon, 19 Feb 2024 08:51:31 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-19_q-fin6b6dcfb1-74d8-40da-9788-5958930fec56.mp3" type="audio/mp3" length="5765517"/>
+      <guid>a0fef93f-fc7d-426c-9e72-8e37e3904225</guid>
+    </item>
   </channel>
 </rss>
