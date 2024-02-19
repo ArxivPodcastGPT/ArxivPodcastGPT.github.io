@@ -2555,5 +2555,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-19_cs:_&quot;ae30bcb5-9e69-4ac4-924f-1169f912e7a1.mp3" type="audio/mp3" length="6390093"/>
       <guid>0f795de8-40d0-4298-bc61-81533d2a5512</guid>
     </item>
+    <item>
+      <title>2024-02-19 psyarxiv: &quot;Unveiling Secrets of Substance Use, Sociodemographic Factors, and Software Vulnerabilities: Shocking Discoveries Exposed!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/5jyx9/download/ Intrinsic brain activity in sensorimotor cortices characterises substance use disorders An activation likelihood estimation meta analysis
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/zxbtc/download/ Do Different Features of Interdependence Have the Same Psychological Consequences Familial Respect Predicts Dispositional Bias
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/5qw4p/download/ Understanding the individual sociodemographic and mobility related factors associated with active and sustainable mobility a mixed methods study
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/v7fqb/download/ Software Vulnerabilities as Cognitive Blindspots assessing the suitability of a dual processing theory of decision making for secure coding
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/eytpm/download/ Are There Place Based Disparities in Mortality Risk Findings from Two Longitudinal Studies of Aging</description>
+      <pubDate>Mon, 19 Feb 2024 08:43:29 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-19_psyar6c2e7ff7-8e44-4ef1-b4a8-338f7f4d3f36.mp3" type="audio/mp3" length="6248973"/>
+      <guid>d8ec50b0-02a8-4986-89b9-2202c1cc5c1a</guid>
+    </item>
   </channel>
 </rss>
