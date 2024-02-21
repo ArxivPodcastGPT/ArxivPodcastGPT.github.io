@@ -2577,5 +2577,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-19_q-fin6b6dcfb1-74d8-40da-9788-5958930fec56.mp3" type="audio/mp3" length="5765517"/>
       <guid>a0fef93f-fc7d-426c-9e72-8e37e3904225</guid>
     </item>
+    <item>
+      <title>2024-02-21 econ: &quot;5 Groundbreaking Studies That Will Transform Your Understanding of Brand Loyalty, Methodologies, Social Choice, and Electricity Markets!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.13177 Title The Ebb and Flow of Brand Loyalty A 28 Year Bibliometric and Content Analysis
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.13023 Title Bridging Methodologies Angrist and Imbens Contributions to Causal Identification
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.13009 Title Sequential unanimity voting rules for binary social choice
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.12859 Title ATLAS A Model of Short term European Electricity Market Processes under Uncertainty Balancing Modules
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.12848 Title ATLAS A Model of Short term European Electricity Market Processes under Uncertainty</description>
+      <pubDate>Wed, 21 Feb 2024 09:35:04 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-21_econ:0c731fa7-26a6-41ef-bf6d-cc1ce3946fe3.mp3" type="audio/mp3" length="6845997"/>
+      <guid>fb1dc431-0f44-430a-80c6-fb1de14872a6</guid>
+    </item>
   </channel>
 </rss>
