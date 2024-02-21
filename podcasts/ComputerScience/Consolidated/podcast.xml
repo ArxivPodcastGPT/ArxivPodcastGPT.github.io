@@ -2588,5 +2588,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-21_econ:0c731fa7-26a6-41ef-bf6d-cc1ce3946fe3.mp3" type="audio/mp3" length="6845997"/>
       <guid>fb1dc431-0f44-430a-80c6-fb1de14872a6</guid>
     </item>
+    <item>
+      <title>2024-02-21 cs.GT: &quot;Revolutionary Strategies Unveiled: How These 5 Papers Will Change the Game for AI and Society!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.13156 Title Regret Minimizing Contracts Agency Under Uncertainty
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.12499 Title Automated Security Response through Online Learning with Adaptive Conjectures
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.13246 Title Game theory of undirected graphical models
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.13011 Title An evolutionary game with reputation based imitation mutation dynamics
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.12907 Title Incentive Compatibility for AI Alignment in Sociotechnical Systems Positions and Prospects</description>
+      <pubDate>Wed, 21 Feb 2024 09:42:45 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-21_cs.gtccb99506-56ff-4b5b-8c7b-6764322777a1.mp3" type="audio/mp3" length="6366189"/>
+      <guid>72c407c1-7391-4c3f-9ba2-00b744723ca6</guid>
+    </item>
   </channel>
 </rss>
