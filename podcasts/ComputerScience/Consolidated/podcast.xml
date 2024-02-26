@@ -2621,5 +2621,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-26_psyard6532dd5-eddb-4942-8170-a44dae820ce8.mp3" type="audio/mp3" length="7085421"/>
       <guid>7cef51b6-8a4b-4673-b9ed-7d8893d69664</guid>
     </item>
+    <item>
+      <title>2024-02-26 q-fin: &quot;5 Research Papers That Will Completely Change the Way You Think About CPI, Labor Dynamics, Efficiency Assessments, Health Economics, and Gaming Strategy!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.15498 Title Using CPI in Loss Given Default Forecasting Models for Commercial Real Estate Portfolio
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.15072 Title Impacts of Extreme Heat on Labor Force Dynamics
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.14940 Title Assessment of Technical Efficiency in the Moroccan Public Hospital Network Using the DEA Method
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.14939 Title Evaluating the Financial Factors Influencing Maternal Newborn and Child Health in Africa
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.15037 Title Analyzing Games in Maker Protocol Part One A Multi Agent Influence Diagram Approach Towards Coordination</description>
+      <pubDate>Mon, 26 Feb 2024 08:47:24 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-26_q-fin9e9b2ca2-ad2c-4e0e-94d7-49bd58087723.mp3" type="audio/mp3" length="6681453"/>
+      <guid>82bc66c4-136d-4b62-9139-c8ca71a04f9a</guid>
+    </item>
   </channel>
 </rss>
