@@ -2610,5 +2610,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-26_cs:_m2fc48baa-b5a5-4c68-9a36-4b870c66c5c2.mp3" type="audio/mp3" length="6996525"/>
       <guid>01a484eb-c3f1-4382-8c42-20c5d1287b59</guid>
     </item>
+    <item>
+      <title>2024-02-26 psyarxiv: &quot;Mind-Blowing Research Reveals How Self-Perception Affects Decision-Making in Virtual Reality - You Won't Believe What Happened!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/2vzad/download/ Motor Dominance and Movement Outcome Congruency Influence the Electrophysiological Correlates of Sensory Attenuation for Self Induced Visual Stimuli
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/emyxd/download/ The visual information available in virtual reality
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/g9p3e/download/ When and why does shared reality generalize 
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/8w9pc/download/ Are Beliefs about Being a Man Associated with White American Men s Self Perceptions about Confronting Racism 
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/hqazn/download/ Eyewitness Decision Processes A Valid Reflector Variable</description>
+      <pubDate>Mon, 26 Feb 2024 08:40:38 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-26_psyard6532dd5-eddb-4942-8170-a44dae820ce8.mp3" type="audio/mp3" length="7085421"/>
+      <guid>7cef51b6-8a4b-4673-b9ed-7d8893d69664</guid>
+    </item>
   </channel>
 </rss>
