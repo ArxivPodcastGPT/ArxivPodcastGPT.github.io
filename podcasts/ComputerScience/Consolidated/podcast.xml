@@ -2599,5 +2599,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-21_cs.gtccb99506-56ff-4b5b-8c7b-6764322777a1.mp3" type="audio/mp3" length="6366189"/>
       <guid>72c407c1-7391-4c3f-9ba2-00b744723ca6</guid>
     </item>
+    <item>
+      <title>2024-02-26 cs: Master the Art of AI-driven Human Motion Composition with Gen4Gen's Mechanics-Informed Co-Supervised Learning Pipeline!</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.15509 Title Seamless Human Motion Composition with Blended Positional Encodings
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.15506 Title AgentOhana Design Unified Data and Training Pipeline for Effective Agent Learning
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.15505 Title Co Supervised Learning Improving Weak to Strong Generalization with Hierarchical Mixture of Experts
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.15504 Title Gen4Gen Generative Data Pipeline for Generative Multi Concept Composition
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2402.15492 Title Mechanics Informed Autoencoder Enables Automated Detection and Localization of Unforeseen Structural Damage</description>
+      <pubDate>Mon, 26 Feb 2024 08:31:33 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-26_cs:_m2fc48baa-b5a5-4c68-9a36-4b870c66c5c2.mp3" type="audio/mp3" length="6996525"/>
+      <guid>01a484eb-c3f1-4382-8c42-20c5d1287b59</guid>
+    </item>
   </channel>
 </rss>
