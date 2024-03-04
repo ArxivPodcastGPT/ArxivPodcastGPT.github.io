@@ -2632,5 +2632,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-02-26_q-fin9e9b2ca2-ad2c-4e0e-94d7-49bd58087723.mp3" type="audio/mp3" length="6681453"/>
       <guid>82bc66c4-136d-4b62-9139-c8ca71a04f9a</guid>
     </item>
+    <item>
+      <title>2024-03-04 cs: &quot;Revolutionize Your Learning and Optimization with these Cutting-Edge Research Breakthroughs!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2403.00762 Title Point Could Mamba Point Cloud Learning via State Space Model
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2403.00758 Title Mitigating Reversal Curse via Semantic aware Permutation Training
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2403.00752 Title An Experimental Study of Low Latency Video Streaming over 5G
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2403.00745 Title AtP An efficient and scalable method for localizing LLM behaviour to components
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2403.00743 Title Neural Acceleration of Incomplete Cholesky Preconditioners</description>
+      <pubDate>Mon, 04 Mar 2024 10:16:12 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-04_cs:_&quot;d7f90334-d293-4caa-9241-6a20e8cdde2e.mp3" type="audio/mp3" length="7041933"/>
+      <guid>b044805c-022f-49a5-95be-7cd86b158640</guid>
+    </item>
   </channel>
 </rss>
