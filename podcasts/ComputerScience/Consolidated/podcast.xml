@@ -2643,5 +2643,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-04_cs:_&quot;d7f90334-d293-4caa-9241-6a20e8cdde2e.mp3" type="audio/mp3" length="7041933"/>
       <guid>b044805c-022f-49a5-95be-7cd86b158640</guid>
     </item>
+    <item>
+      <title>2024-03-04 psyarxiv: &quot;From Punishment to Artificial Intelligence: Unraveling the Complexities of Parental Identity and Evolution with Causal Mediation Analysis!&quot;</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/ybpja/download/ Can asymmetric punishment explain norm changes Comparing complaints and protests against complaints
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/r5yme/download/ Too smart for one s good Evolution favors individuals with a low level theory of mind in a complex network
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/kgubz/download/ Processes and Statuses of Parental Identity at Different Stages of Parenthood
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/wd4tr/download/ The Digital Divide in Action How Experiences of Digital Technology Shape Future Relationships with Artificial Intelligence
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/https://osf.io/qn2j5/download/ Mediation and Decomposition Analysis Why We Cannot Do What We Think We Can Do and How Causal Mediation Analysis Can Help Us</description>
+      <pubDate>Mon, 04 Mar 2024 10:22:23 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-04_psyar0495df07-1409-460c-966d-bffa6f7057e2.mp3" type="audio/mp3" length="6376269"/>
+      <guid>4bee0062-71a5-46d0-a6de-ca3441c565db</guid>
+    </item>
   </channel>
 </rss>
