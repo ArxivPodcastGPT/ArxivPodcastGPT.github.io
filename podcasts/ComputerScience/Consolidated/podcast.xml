@@ -2665,5 +2665,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-04_q-fin825efb6b-93c0-46b4-b268-11dfd758d579.mp3" type="audio/mp3" length="6348333"/>
       <guid>8481ed56-6729-4fa3-8d83-a0d16aa60c06</guid>
     </item>
+    <item>
+      <title>2024-03-04 psyarxiv: &quot;Unveiling Fascinating Discoveries in Perception, Memory, Teamwork, Heat Transfer, and Color Perception!&quot;</title>
+      <description>ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/https://osf.io/pc8kh/download/ Perceived Stereo Depth reflects Retinal Disparities not 3D Geometry
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/https://osf.io/ytced/download/ Supporting Adaptive Coordination in Human Autonomy Teams A Conceptual Framework
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/https://osf.io/9hv27/download/ Frontal delta and theta power reflect strategy changes during human spatial memory retrieval in a virtual water maze task an exploratory analysis
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/https://osf.io/nhmsz/download/ The influence of surface roughness on heat transfer characteristics in micro channel heat sinks for electronic cooling application
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/https://osf.io/a3x9p/download/ Effects of visual diet on color perception and aesthetics</description>
+      <pubDate>Mon, 04 Mar 2024 15:25:09 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-04_psyar96816c12-b3d2-431f-8457-82e63fdce147.mp3" type="audio/mp3" length="7581549"/>
+      <guid>10fc2382-d8b7-45d9-81b2-c43f5daf935d</guid>
+    </item>
   </channel>
 </rss>
