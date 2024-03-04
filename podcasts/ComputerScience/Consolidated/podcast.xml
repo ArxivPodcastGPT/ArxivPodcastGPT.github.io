@@ -2654,5 +2654,16 @@ ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/a
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-04_psyar0495df07-1409-460c-966d-bffa6f7057e2.mp3" type="audio/mp3" length="6376269"/>
       <guid>4bee0062-71a5-46d0-a6de-ca3441c565db</guid>
     </item>
+    <item>
+      <title>2024-03-04 q-fin: 5 Cutting-Edge Ways To Revolutionize Finance and Climate Policy!</title>
+      <description>ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2403.00746 Title A time stepping deep gradient flow method for option pricing in rough diffusion models
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2403.00707 Title Dimensionality reduction techniques to support insider trading detection
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2403.00653 Title Modelling Global Fossil CO2 Emissions with a Lognormal Distribution A Climate Policy Tool
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2403.00523 Title Assessing the Efficacy of Heuristic Based Address Clustering for Bitcoin
+ChatGPT generated podcast using model=gpt-4-0125-preview for https://arxiv.org/abs/2403.00474 Title Volatility based strategy on Chinese equity index ETF options</description>
+      <pubDate>Mon, 04 Mar 2024 10:27:55 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-04_q-fin825efb6b-93c0-46b4-b268-11dfd758d579.mp3" type="audio/mp3" length="6348333"/>
+      <guid>8481ed56-6729-4fa3-8d83-a0d16aa60c06</guid>
+    </item>
   </channel>
 </rss>
