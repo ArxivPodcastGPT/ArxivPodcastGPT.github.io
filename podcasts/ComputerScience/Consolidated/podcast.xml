@@ -2676,5 +2676,16 @@ ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-04_psyar96816c12-b3d2-431f-8457-82e63fdce147.mp3" type="audio/mp3" length="7581549"/>
       <guid>10fc2382-d8b7-45d9-81b2-c43f5daf935d</guid>
     </item>
+    <item>
+      <title>2024-03-11 cs: &quot;5 Mind-Blowing Studies on Language Guidance, Bayesian Models, Hyperparameter Tuning, Multimodal Understanding, and Learning Complex Models!&quot;</title>
+      <description>ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.05535 Title Tell Don t Show Language Guidance Eases Transfer Across Domains in Images and Videos
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.05534 Title Bayesian Preference Elicitation with Language Models
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.05532 Title Tune without Validation Searching for Learning Rate and Weight Decay on Training Sets
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.05530 Title Gemini 1 5 Unlocking multimodal understanding across millions of tokens of context
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.05529 Title The Computational Complexity of Learning Gaussian Single Index Models</description>
+      <pubDate>Mon, 11 Mar 2024 08:29:25 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-11_cs:_&quot;810ffee4-5c70-42e4-8ded-6def6200308b.mp3" type="audio/mp3" length="7895949"/>
+      <guid>51efa31d-1122-452d-b001-3586a854e177</guid>
+    </item>
   </channel>
 </rss>
