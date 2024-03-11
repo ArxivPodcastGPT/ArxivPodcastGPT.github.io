@@ -2698,5 +2698,16 @@ ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-11_psyar918f643b-e303-4403-a9c7-e2ad82260d26.mp3" type="audio/mp3" length="7840365"/>
       <guid>ae3a1126-3117-4fe1-a083-bd5c46d9741d</guid>
     </item>
+    <item>
+      <title>2024-03-11 q-fin: &quot;Unlocking the Secrets of Matching, Testing Business Cycles, Coming Out Costs, and Online Privacy - All in One Clickbait Title!&quot;</title>
+      <description>ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.05222 Title Matching under Imperfectly Transferable Utility
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.04104 Title Testing Business Cycle Theories Evidence from the Great Recession
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.03649 Title The Cost of Coming Out
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.03612 Title Using the Dual Privacy Framework to Understand Consumers Perceived Privacy Violations Under Different Firm Practices in Online Advertising
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.03610 Title Paying for Privacy Pay or Tracking Walls</description>
+      <pubDate>Mon, 11 Mar 2024 08:46:30 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-11_q-finffa7e955-fb62-458b-ad85-33b0e65712a8.mp3" type="audio/mp3" length="6330669"/>
+      <guid>ab039792-9cef-4484-9226-ca9ded544e66</guid>
+    </item>
   </channel>
 </rss>
