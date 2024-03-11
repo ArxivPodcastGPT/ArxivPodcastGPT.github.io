@@ -2687,5 +2687,16 @@ ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-11_cs:_&quot;810ffee4-5c70-42e4-8ded-6def6200308b.mp3" type="audio/mp3" length="7895949"/>
       <guid>51efa31d-1122-452d-b001-3586a854e177</guid>
     </item>
+    <item>
+      <title>2024-03-11 psyarxiv: Unveiling the Secrets of Language, Exclusion, and Data Synthesis: A Thrilling Journey Through Groundbreaking Research</title>
+      <description>ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/https://osf.io/8tx5j/download/ A Linguistic Sensorimotor Model of the Basic Level Advantage in Category Verification
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/https://osf.io/cxabn/download/ Intergroup Exclusion Elicits Levels of Distress and Hostility Similar to Interpersonal Exclusion
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/https://osf.io/ah7xe/download/ On Shocks
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/https://osf.io/m3ywe/download/ A Taxonomy of Data Synthesis A Tutorial
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/https://osf.io/6dc8e/download/ Optimal Two Time Point Longitudinal Models for Estimating Individual Level Change Asymptotic Insights and Practical Implications</description>
+      <pubDate>Mon, 11 Mar 2024 08:40:57 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-11_psyar918f643b-e303-4403-a9c7-e2ad82260d26.mp3" type="audio/mp3" length="7840365"/>
+      <guid>ae3a1126-3117-4fe1-a083-bd5c46d9741d</guid>
+    </item>
   </channel>
 </rss>
