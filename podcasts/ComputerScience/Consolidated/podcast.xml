@@ -2709,5 +2709,16 @@ ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-11_q-finffa7e955-fb62-458b-ad85-33b0e65712a8.mp3" type="audio/mp3" length="6330669"/>
       <guid>ab039792-9cef-4484-9226-ca9ded544e66</guid>
     </item>
+    <item>
+      <title>2024-03-13 q-fin: &quot;Shocking Discoveries: From Pandemic Profiteers to Climate Impacts - What You Need to Know!&quot;</title>
+      <description>ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.07617 Title Price Gouging or Market Forces Fairness Perceptions of Price Hikes in the Pandemic
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.07530 Title Carbon Economics of Different Agricultural Practices for Farming Soil
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.07180 Title Study of the Impact of the Big Data Era on Accounting and Auditing
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.07166 Title Small Price Changes Sales Volume and Menu Cost
+ChatGPT generated podcast using model=AWS/anthropic.claude-3-sonnet-20240229-v1:0 for https://arxiv.org/abs/2403.07019 Title Reasons behind the Water Crisis and its Potential Health Outcomes</description>
+      <pubDate>Wed, 13 Mar 2024 11:27:16 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-13_q-finc10cf134-5f7a-4c79-8928-4c3cba841d72.mp3" type="audio/mp3" length="11385357"/>
+      <guid>b529f070-dd62-4a31-8332-2840128f8199</guid>
+    </item>
   </channel>
 </rss>
