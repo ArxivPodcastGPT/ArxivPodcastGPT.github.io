@@ -2773,5 +2773,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-14_psyardf5f62f4-e144-4207-a730-dc73edf4b33e.mp3" type="audio/mp3" length="11856237"/>
       <guid>cf43a386-7f35-4cf9-973a-c21960243834</guid>
     </item>
+    <item>
+      <title>2024-03-14 econpapers: You Won't Believe What These Researchers Discovered! Clickbait Title Covers Diverse Topics from Water Crises to Accounting in the Big Data Era</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/http://arxiv.org/pdf/2403.07019;h=repec:arx:papers:2403.07019 Reasons behind the Water Crisis and its Potential Health Outcomes
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/http://arxiv.org/pdf/2403.07152;h=repec:arx:papers:2403.07152 Success functions in large contests
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/http://arxiv.org/pdf/2403.07177;h=repec:arx:papers:2403.07177 Collusive Outcomes Without Collusion
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/http://arxiv.org/pdf/2403.07180;h=repec:arx:papers:2403.07180 Study of the Impact of the Big Data Era on Accounting and Auditing
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/http://arxiv.org/pdf/2403.07236;h=repec:arx:papers:2403.07236 Partial Identification of Individual Level Parameters Using Aggregate Data in a Nonparametric Binary Outcome Model</description>
+      <pubDate>Thu, 14 Mar 2024 10:59:18 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-14_econpa20745c3-32ac-43ec-80a9-b4be1482ec1d.mp3" type="audio/mp3" length="9424269"/>
+      <guid>1afe2f50-cf2e-4162-9dda-c14e813c0f29</guid>
+    </item>
   </channel>
 </rss>
