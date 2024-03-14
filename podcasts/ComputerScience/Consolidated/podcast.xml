@@ -2742,5 +2742,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-13_psyarec7c832b-e8a2-4701-aa30-b58d8676d467.mp3" type="audio/mp3" length="9540813"/>
       <guid>063e1841-f45e-4f07-b1a7-06133061ed94</guid>
     </item>
+    <item>
+      <title>2024-03-13 cs.GT: &quot;You Won't Believe How These 5 Research Papers Can Change the Game!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.08741 Title Learning How to Strategically Disclose Information
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.08171 Title Tractable Local Equilibria in Non Concave Games
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.08145 Title Algorithmic Information Disclosure in Optimal Auctions
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.08082 Title Data Monetization Pathways and Complex Dynamic Game Equilibrium Analysis in the Energy Industry
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.08051 Title Multi Apartment Rent Division</description>
+      <pubDate>Wed, 13 Mar 2024 23:19:39 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-13_cs.gt6eb7a54c-c851-4d6c-b832-04bcdae5d340.mp3" type="audio/mp3" length="10243533"/>
+      <guid>61eb2588-7457-4654-8c45-c685d2884500</guid>
+    </item>
   </channel>
 </rss>
