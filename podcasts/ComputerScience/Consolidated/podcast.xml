@@ -2753,5 +2753,14 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-13_cs.gt6eb7a54c-c851-4d6c-b832-04bcdae5d340.mp3" type="audio/mp3" length="10243533"/>
       <guid>61eb2588-7457-4654-8c45-c685d2884500</guid>
     </item>
+    <item>
+      <title>2024-03-14 cs.LG: &quot;You Won't Believe How These 3 Groundbreaking AI Papers Are Revolutionizing the Industry!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.08763 Title Simple and Scalable Strategies to Continually Pre train Large Language Models
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.08699 Title Implicit Regularization of Gradient Flow on One Layer Softmax Attention
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.08673 Title When can we Approximate Wide Contrastive Models with Neural Tangent Kernels and Principal Component Analysis </description>
+      <pubDate>Thu, 14 Mar 2024 07:46:54 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-14_cs.lg14188c82-299a-469d-8ff7-d507f8f03c24.mp3" type="audio/mp3" length="5520237"/>
+      <guid>b520fab9-2d01-4a6f-a705-7b22a852933f</guid>
+    </item>
   </channel>
 </rss>
