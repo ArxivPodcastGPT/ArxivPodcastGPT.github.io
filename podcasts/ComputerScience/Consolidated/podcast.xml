@@ -2731,5 +2731,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-13_cs.aia711622e-fbbe-4b94-bcd7-0d3f46eeb368.mp3" type="audio/mp3" length="9893229"/>
       <guid>85d8c114-4dc3-432f-852b-ee4c9259f725</guid>
     </item>
+    <item>
+      <title>2024-03-13 psyarxiv: &quot;You Won't Believe What These ChatGPT Podcast Summaries Reveal About Psychology, AI, and the Extreme Context in Madagascar!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/jkzq5/download/ Psychological Safety and Patient Safety a systematic and narrative review
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/wrusc/download/ The Effects of Assumed AI vs Human Authorship on the Perception of a GPT generated Text
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/msuwz/download/ Long term perspectives of participating in extracurricular activities in an extreme context in Madagascar
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/ah7xe/download/ On Shocks
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/52r6h/download/ Atypical speech production of multisyllabic items by children with developmental language disorder DLD indicate prosodic difficulties</description>
+      <pubDate>Wed, 13 Mar 2024 23:14:41 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-13_psyarec7c832b-e8a2-4701-aa30-b58d8676d467.mp3" type="audio/mp3" length="9540813"/>
+      <guid>063e1841-f45e-4f07-b1a7-06133061ed94</guid>
+    </item>
   </channel>
 </rss>
