@@ -2762,5 +2762,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-14_cs.lg14188c82-299a-469d-8ff7-d507f8f03c24.mp3" type="audio/mp3" length="5520237"/>
       <guid>b520fab9-2d01-4a6f-a705-7b22a852933f</guid>
     </item>
+    <item>
+      <title>2024-03-14 psyarxiv: Shocking Discoveries: From Gesture Recognition to Evolutionary Displacement, Revealed by AI-Generated Podcasts!</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/2bmdh/download/ Automatic Recognition of Gesture Identity and Onset of Cues Speech
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/fz3ny/download/ Determinants of Persistent PTSD in War Exposed Children Application of a New Causal Discovery and Inference Approach in Syrian Refugees
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/9j8gm/download/ How displacement might have evolved
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/pgxrz/download/ Pretending not to know reveals a powerful capacity for self simulation
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/eq4kh/download/ Active inference and speech motor control a review and theory</description>
+      <pubDate>Thu, 14 Mar 2024 07:57:57 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-14_psyardf5f62f4-e144-4207-a730-dc73edf4b33e.mp3" type="audio/mp3" length="11856237"/>
+      <guid>cf43a386-7f35-4cf9-973a-c21960243834</guid>
+    </item>
   </channel>
 </rss>
