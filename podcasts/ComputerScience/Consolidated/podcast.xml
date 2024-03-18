@@ -2817,5 +2817,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-18_cs:_&quot;1d30333e-fb55-4ba2-b7e5-e4d97393ce2f.mp3" type="audio/mp3" length="9742701"/>
       <guid>127066cc-e074-41bc-84be-041ee28aab56</guid>
     </item>
+    <item>
+      <title>2024-03-18 osf: &quot;You Won't Believe What ChatGPT Discovered in These Groundbreaking Studies on Street Lights, Corruption, Air Pollution, Interventions, and Missing Data!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/zx7e9/download/ Application of ZigBee Technology and Neural Network Algorithm in Street Lamp Control System
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/ubgek/download/ Prosecutor s Authority in Investigating Corruption Crimes Law Number 1 of 2023 comes Into Force
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/4cje9/download/ South Korea s Environmental Securitization Process in Facing the Impact of China s Fine Dust
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/vzep5/download/ Why Research from Lower and Middle Income Countries Matters to Evidence Based Intervention ACT Research as an Example
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/sz9nu/download/ Missing Data Handling via EM and Multiple Imputation in Network Analysis using glasso and atan Regularization</description>
+      <pubDate>Mon, 18 Mar 2024 08:30:26 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-18_osf:_95e3733d-f1af-4634-b279-fd3655d7c4fd.mp3" type="audio/mp3" length="11133741"/>
+      <guid>694bdc5e-85fd-4a44-b828-52aa526c3c83</guid>
+    </item>
   </channel>
 </rss>
