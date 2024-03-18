@@ -2828,5 +2828,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-18_osf:_95e3733d-f1af-4634-b279-fd3655d7c4fd.mp3" type="audio/mp3" length="11133741"/>
       <guid>694bdc5e-85fd-4a44-b828-52aa526c3c83</guid>
     </item>
+    <item>
+      <title>2024-03-18 econpapers: &quot;From Energy to Real Estate: Surprising Insights Revealed in These 5 Compelling Studies!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://docs.iza.org/dp16854.pdf Trend in Energy Intensity and Carbon Performance in North Africa
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://docs.iza.org/dp16855.pdf Working from Home Increases Work Home Distances
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://docs.iza.org/dp16856.pdf A Note on Sen s Representation of the Gini Coefficient Revision and Repercussions
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://docs.iza.org/dp16857.pdf All That Glitters Golden Visas and Real Estate
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://docs.iza.org/dp16858.pdf The Consequences of Miscarriage on Parental Investments</description>
+      <pubDate>Mon, 18 Mar 2024 08:33:57 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-18_econp63415978-299d-4f92-ba57-fe75aa779076.mp3" type="audio/mp3" length="9628653"/>
+      <guid>223f1362-3917-435b-82a8-82f6c3b5a253</guid>
+    </item>
   </channel>
 </rss>
