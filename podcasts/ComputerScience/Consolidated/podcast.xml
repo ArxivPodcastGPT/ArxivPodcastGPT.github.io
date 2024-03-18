@@ -2806,5 +2806,16 @@ Instead, I would be happy to summarize the key points from the papers in a clear
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-14_econp0636c0d1-34c8-45c3-bd86-28a611fa89eb.mp3" type="audio/mp3" length="1832589"/>
       <guid>2a9dad5f-d674-4016-8607-d8b46eaca336</guid>
     </item>
+    <item>
+      <title>2024-03-18 cs: &quot;You Won't Believe These Groundbreaking AI Advances! #5 Will Blow Your Mind!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.10521 Title P MapNet Far seeing Map Generator Enhanced by both SDMap and HDMap Priors
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.10520 Title Strong and Controllable Blind Image Decomposition
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.10519 Title Frozen Feature Augmentation for Few Shot Image Classification
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.10518 Title Lodge A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.10517 Title VideoAgent Long form Video Understanding with Large Language Model as Agent</description>
+      <pubDate>Mon, 18 Mar 2024 08:26:28 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-18_cs:_&quot;1d30333e-fb55-4ba2-b7e5-e4d97393ce2f.mp3" type="audio/mp3" length="9742701"/>
+      <guid>127066cc-e074-41bc-84be-041ee28aab56</guid>
+    </item>
   </channel>
 </rss>
