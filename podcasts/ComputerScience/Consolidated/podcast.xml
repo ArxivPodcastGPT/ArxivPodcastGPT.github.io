@@ -2839,5 +2839,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-18_econp63415978-299d-4f92-ba57-fe75aa779076.mp3" type="audio/mp3" length="9628653"/>
       <guid>223f1362-3917-435b-82a8-82f6c3b5a253</guid>
     </item>
+    <item>
+      <title>2024-03-18 q-fin: &quot;You Won't Believe How These 5 Cutting-Edge Finance Breakthroughs Are Redefining the Industry!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.10482 Title Can a GPT4 Powered AI Agent Be a Good Enough Performance Attribution Analyst 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.10441 Title A Mean Field Game of Market Entry Portfolio Liquidation with Trading Constraints
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.10273 Title Optimal Portfolio Choice with Cross Impact Propagators
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.09899 Title Prediction of retail chain failure examples of recent U S retail failures
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.09761 Title Hydrodynamics of Markets Hidden Links Between Physics and Finance</description>
+      <pubDate>Mon, 18 Mar 2024 08:37:28 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-18_q-fin515b6169-51e3-43ca-94a0-0012c750e860.mp3" type="audio/mp3" length="10165965"/>
+      <guid>a5a36551-4fa7-406c-ab28-fd745d1b42a6</guid>
+    </item>
   </channel>
 </rss>
