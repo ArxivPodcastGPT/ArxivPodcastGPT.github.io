@@ -2861,5 +2861,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-25_cs:_&quot;250285ff-0c7d-4a26-935c-29e4a81ff13a.mp3" type="audio/mp3" length="9208365"/>
       <guid>71240209-d8bd-42ef-9981-93fb44a217b8</guid>
     </item>
+    <item>
+      <title>2024-03-25 osf: &quot;From Linguistic Biases to Medical AI: The Surprising Insights Hidden in Online Data Collection&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/fubn5/download/ Individual differences in online research Comparing lab based and online administration of a psycholinguistic battery of linguistic and domain general skills
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/pxfc4/download/ Online Data Collection in Applied Linguistics
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/j7yas/download/ The Evolution of Similarity Biased Social Learning
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/g5aes/download/ Optimizing Llama 7B for Medical Question Answering A Study on Fine Tuning Strategies and Performance on the MultiMedQA Dataset
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/b5ynm/download/ Exploring the Intersection between Family Migration and Occupational Penalty A Study of Migrant Women in the Italian Labour Market</description>
+      <pubDate>Mon, 25 Mar 2024 08:34:20 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-25_osf:_3d326140-33f2-4b04-9dd5-a01d2d6665e6.mp3" type="audio/mp3" length="10686765"/>
+      <guid>baee06d2-411a-4aab-8461-acb312154041</guid>
+    </item>
   </channel>
 </rss>
