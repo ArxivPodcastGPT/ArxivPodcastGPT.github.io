@@ -2850,5 +2850,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-18_q-fin515b6169-51e3-43ca-94a0-0012c750e860.mp3" type="audio/mp3" length="10165965"/>
       <guid>a5a36551-4fa7-406c-ab28-fd745d1b42a6</guid>
     </item>
+    <item>
+      <title>2024-03-25 cs: &quot;You Won't Believe How These 5 Groundbreaking AI Innovations Are Transforming the Future!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.15389 Title DiffusionMTL Learning Multi Task Denoising Diffusion Model from Partially Annotated Data
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.15388 Title LLaVA PruMerge Adaptive Token Reduction for Efficient Large Multimodal Models
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.15385 Title LATTE3D Large scale Amortized Text To Enhanced3D Synthesis
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.15382 Title DragAPart Learning a Part Level Motion Prior for Articulated Objects
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.15380 Title Control Designs for Critical Continegency Responsible Grid Following Inverters and Seamless Transitions To and From Grid Forming Modes</description>
+      <pubDate>Mon, 25 Mar 2024 08:29:18 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-25_cs:_&quot;250285ff-0c7d-4a26-935c-29e4a81ff13a.mp3" type="audio/mp3" length="9208365"/>
+      <guid>71240209-d8bd-42ef-9981-93fb44a217b8</guid>
+    </item>
   </channel>
 </rss>
