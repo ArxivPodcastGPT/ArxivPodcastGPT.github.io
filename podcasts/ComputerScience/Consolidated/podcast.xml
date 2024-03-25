@@ -2883,5 +2883,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-25_econp9ac04104-644f-4f91-b587-4942c5d646b0.mp3" type="audio/mp3" length="8590797"/>
       <guid>5c4a7eaa-3ce4-469e-84a4-f9a1893b5c81</guid>
     </item>
+    <item>
+      <title>2024-03-25 q-fin: &quot;You Won't Believe What These Studies Reveal About Bias, Work, and the Crypto Landscape!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.15281 Title Measuring Gender and Racial Biases in Large Language Models
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.15262 Title AI Exposure and Strategic Positioning on an Online Work Platform
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.15200 Title Teamwork and Spillover Effects in Performance Evaluations
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.15163 Title Nonlinear shifts and dislocations in financial market structure and composition
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.15074 Title A Taxmans guide to taxation of crypto assets</description>
+      <pubDate>Mon, 25 Mar 2024 08:41:38 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-25_q-finc4e4f39d-1c77-41e6-b9ec-74da4ffaf06d.mp3" type="audio/mp3" length="10521453"/>
+      <guid>1ad1be2b-bfc8-460a-bde7-a2c140d4cd2d</guid>
+    </item>
   </channel>
 </rss>
