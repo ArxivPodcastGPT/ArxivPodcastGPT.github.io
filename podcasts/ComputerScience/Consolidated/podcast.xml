@@ -2905,5 +2905,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-01_cs:_&quot;830c6914-13e9-4f87-8030-3c53cec0e71d.mp3" type="audio/mp3" length="10591245"/>
       <guid>81470dfd-7165-4697-adc8-41161f2d8033</guid>
     </item>
+    <item>
+      <title>2024-04-01 osf: &quot;You Won't Believe What These Cutting-Edge Studies Discovered About Consciousness, Emotions, and Machine Learning!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/ft7xe/download/ Inconclusive results concerning the association between heart rate variability personality and the objectification of lab animals into the conduct of animal testing 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/bpxzd/download/ Exploring ghost bodily sensations differences across trait and state experiences
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/7gync/download/ Common signatures of loss of consciousness in human and macaque electrocorticogram
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/t4hw3/download/ FAST EDGE MACHINE LEARNING FOR ADVERSARIAL ROBUST DISTILLATION
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/3sb2t/download/ Benefits of an Organized Camp Interactive Effects of Environmental Sensitivity and Experience Content on Mental Health</description>
+      <pubDate>Mon, 01 Apr 2024 08:40:24 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-01_osf:_fda53734-6d8e-4556-8f0b-332ed168559f.mp3" type="audio/mp3" length="10013901"/>
+      <guid>1c511b61-5088-4bd3-b51e-f91cfd79748c</guid>
+    </item>
   </channel>
 </rss>
