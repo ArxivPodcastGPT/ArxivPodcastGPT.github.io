@@ -2894,5 +2894,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-03-25_q-finc4e4f39d-1c77-41e6-b9ec-74da4ffaf06d.mp3" type="audio/mp3" length="10521453"/>
       <guid>1ad1be2b-bfc8-460a-bde7-a2c140d4cd2d</guid>
     </item>
+    <item>
+      <title>2024-04-01 cs: &quot;You'll Never Believe What These Cutting-Edge AI and ML Papers Discovered! (#3 Will Blow Your Mind)&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.20330 Title Are We on the Right Way for Evaluating Large Vision Language Models 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.20328 Title Learning Visual Quadrupedal Loco Manipulation from Demonstrations
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.20327 Title Gecko Versatile Text Embeddings Distilled from Large Language Models
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.20324 Title Localising the Seizure Onset Zone from Single Pulse Electrical Stimulation Responses with a Transformer
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2403.20322 Title Towards a Framework for Evaluating Explanations in Automated Fact Verification</description>
+      <pubDate>Mon, 01 Apr 2024 08:36:03 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-01_cs:_&quot;830c6914-13e9-4f87-8030-3c53cec0e71d.mp3" type="audio/mp3" length="10591245"/>
+      <guid>81470dfd-7165-4697-adc8-41161f2d8033</guid>
+    </item>
   </channel>
 </rss>
