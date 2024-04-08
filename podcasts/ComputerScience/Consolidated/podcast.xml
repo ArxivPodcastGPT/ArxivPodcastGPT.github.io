@@ -2938,5 +2938,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-01_q-fincc99b8c2-39b9-46a0-913e-0444376c959d.mp3" type="audio/mp3" length="10814925"/>
       <guid>441b4a55-8222-47fb-8416-2cda278a0bf5</guid>
     </item>
+    <item>
+      <title>2024-04-08 cs: &quot;You Won't Believe What These 5 Groundbreaking AI Studies Have Discovered!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.04256 Title Sigma Siamese Mamba Network for Multi Modal Semantic Segmentation
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.04254 Title Watermark based Detection and Attribution of AI Generated Content
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.04253 Title Growing Q Networks Solving Continuous Control Tasks with Adaptive Control Resolution
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.04251 Title Who Evaluates the Evaluations Objectively Scoring Text to Image Prompt Coherence Metrics with T2IScoreScore TS2 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.04249 Title Humanoid Robots at work where are we </description>
+      <pubDate>Mon, 08 Apr 2024 08:28:17 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-08_cs:_&quot;30f8918a-323f-46d9-9bf2-70e8bda7e52b.mp3" type="audio/mp3" length="11747469"/>
+      <guid>4e1a91f3-4b62-4b84-b5e3-821f73c3724f</guid>
+    </item>
   </channel>
 </rss>
