@@ -2971,5 +2971,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-08_econp7b1fd26b-1209-4a7a-a99a-0b7d31679a82.mp3" type="audio/mp3" length="12401613"/>
       <guid>8111fd0d-3262-4f8e-a303-412f42602991</guid>
     </item>
+    <item>
+      <title>2024-04-08 q-fin: &quot;You Won't Believe These Surprising Findings in the World of Economics and Sustainability!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.04105 Title Judgment in macroeconomic output growth predictions Efficiency accuracy and persistence
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.04097 Title Subscription Based Inventory Planning for E Grocery Retailing
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.04077 Title The forgotten pillar of sustainability development of the S assessment tool to evaluate Organizational Social Sustainability
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.03976 Title A theoretical framework for dynamical fee choice in AMMs
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.03794 Title Effect of State and Local Sexual Orientation Anti Discrimination Laws on Labor Market Differentials</description>
+      <pubDate>Mon, 08 Apr 2024 08:42:51 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-08_q-fin63df4154-c7e5-423d-811d-73540197b9fc.mp3" type="audio/mp3" length="12522861"/>
+      <guid>b6a01e93-4a93-4a33-999b-1ea99f8a095e</guid>
+    </item>
   </channel>
 </rss>
