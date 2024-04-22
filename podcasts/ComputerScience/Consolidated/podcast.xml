@@ -3059,5 +3059,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-22_econpdd0e5d6e-0579-4c55-a84c-c7dc7f3a7898.mp3" type="audio/mp3" length="11233485"/>
       <guid>ff30fc45-d487-400d-880d-c179ce191b0b</guid>
     </item>
+    <item>
+      <title>2024-04-22 q-fin: &quot;You Won't Believe How These 5 Groundbreaking Studies Are Reshaping Our World!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.12988 Title Understanding Intra Household Educational Inequalities Gender Birth Order and Ability Dynamics in Benin s Households
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.12974 Title Quantifying seasonal hydrogen storage demands under cost and market uptake uncertainties in energy system transformation pathways
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.12477 Title Sustainable regional economic development and land use a case of Russia
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.12214 Title Income Shocks and their Transmission into Consumption
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.12001 Title Internet sentiment exacerbates intraday overtrading evidence from A Share market</description>
+      <pubDate>Mon, 22 Apr 2024 08:44:32 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-22_q-fincbe84294-f9e2-4fcb-9836-21d7f09caa7b.mp3" type="audio/mp3" length="10795341"/>
+      <guid>9474eb56-91f1-4bc7-aa87-6dcfd083cde2</guid>
+    </item>
   </channel>
 </rss>
