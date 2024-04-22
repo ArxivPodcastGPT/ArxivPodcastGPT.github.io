@@ -3048,5 +3048,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-22_osf:_59762aaf-be4e-49d0-93d3-0b28ce3bb130.mp3" type="audio/mp3" length="9475629"/>
       <guid>b815ec84-1858-4f78-ae66-582bb1015f41</guid>
     </item>
+    <item>
+      <title>2024-04-22 econpapers: &quot;You Won't Believe How These Math Equations Can Revolutionize Finance!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/http://arxiv.org/pdf/1508.02473 Bridging AIC and BIC a new criterion for autoregression
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/http://arxiv.org/pdf/1508.03373 A martingale analysis of first passage times of time dependent Wiener diffusion models
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/http://arxiv.org/pdf/1508.03841 New Analytical Solutions of a Modified Black Scholes Equation with the European Put Option
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/http://arxiv.org/pdf/1508.03853 Transfer pricing manipulation tax penalty cost and the impact of foreign profit taxation
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/http://arxiv.org/pdf/1508.04487 Dynamic Mode Decomposition for Financial Trading Strategies</description>
+      <pubDate>Mon, 22 Apr 2024 08:37:54 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-22_econpdd0e5d6e-0579-4c55-a84c-c7dc7f3a7898.mp3" type="audio/mp3" length="11233485"/>
+      <guid>ff30fc45-d487-400d-880d-c179ce191b0b</guid>
+    </item>
   </channel>
 </rss>
