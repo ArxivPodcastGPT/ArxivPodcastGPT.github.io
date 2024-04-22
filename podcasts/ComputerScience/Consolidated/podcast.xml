@@ -3037,5 +3037,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-22_cs:_&quot;e65fbd86-3d87-4f30-bcdc-893c79752a94.mp3" type="audio/mp3" length="9513165"/>
       <guid>9081a0b0-371e-4fbe-ae25-0af60bda4d67</guid>
     </item>
+    <item>
+      <title>2024-04-22 osf: You Won't Believe These Surprising Insights from Cutting-Edge Research!</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/2c9kr/download/ The SNARC effect emerges only with symbolic numbers
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/cb3my/download/ Size adaptation Do you know it when you see it 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/pbrn3/download/ Global Care Policy Index 2022 Country Report Saudi Arabia
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/x8dwh/download/ Can foraging for earthworms significantly reduce global famine in a catastrophe 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/jcwfq/download/ Explanation videos available online can improve learning sometimes</description>
+      <pubDate>Mon, 22 Apr 2024 08:33:13 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-22_osf:_59762aaf-be4e-49d0-93d3-0b28ce3bb130.mp3" type="audio/mp3" length="9475629"/>
+      <guid>b815ec84-1858-4f78-ae66-582bb1015f41</guid>
+    </item>
   </channel>
 </rss>
