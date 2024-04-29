@@ -3081,5 +3081,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-29_cs:_&quot;2e14d2a7-6886-4ccf-bd55-4f25c9187885.mp3" type="audio/mp3" length="8510637"/>
       <guid>1236522d-4c0d-4d7a-93c4-a450a8880fe8</guid>
     </item>
+    <item>
+      <title>2024-04-29 osf: &quot;You Won't Believe How These ChatGPT-Generated Podcasts Reveal Groundbreaking Insights Across Language Models, Iconicity, and the Future of AI!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/we6bz/download/ Scoping review Potential harm from school based group mental health interventions
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/r2pnb/download/ Machine Bias Generative Large Language Models Have a Worldview of Their Own
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/z9a4e/download/ Triangulating iconicity cumulative structural analogies underlie objective and subjective measures of iconicity
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/e5wrx/download/ Invariant Representations in Abstract Concept Grounding The Physical World in Grounded Cognition
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/ez263/download/ AI a Bridge toward Diverse Intelligence and Humanity s Future</description>
+      <pubDate>Mon, 29 Apr 2024 08:34:41 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-29_osf:_bf8bc026-71c2-4c75-9a8a-10eb2dbc575b.mp3" type="audio/mp3" length="12308205"/>
+      <guid>1a50d24d-3db7-4e3d-8206-2f794eaf68a1</guid>
+    </item>
   </channel>
 </rss>
