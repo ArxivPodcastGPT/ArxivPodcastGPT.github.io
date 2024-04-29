@@ -3070,5 +3070,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-22_q-fincbe84294-f9e2-4fcb-9836-21d7f09caa7b.mp3" type="audio/mp3" length="10795341"/>
       <guid>9474eb56-91f1-4bc7-aa87-6dcfd083cde2</guid>
     </item>
+    <item>
+      <title>2024-04-29 cs: &quot;You Won't Believe What These Researchers Discovered! Tunnel, Material, Change, Scaling, and Lighting Breakthroughs Stun the Scientific Community&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.17571 Title Tunnel Try on Excavating Spatial temporal Tunnels for High quality Virtual Try on in Videos
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.17569 Title MaPa Text driven Photorealistic Material Painting for 3D Shapes
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.17565 Title ChangeBind A Hybrid Change Encoder for Remote Sensing Change Detection
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.17563 Title An exactly solvable model for emergence and scaling laws
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2404.17554 Title A Novel Context driven Critical Integrative Levels CIL Approach Advancing Human Centric and Integrative Lighting Asset Management in Public Libraries with Practical Thresholds</description>
+      <pubDate>Mon, 29 Apr 2024 08:29:16 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-29_cs:_&quot;2e14d2a7-6886-4ccf-bd55-4f25c9187885.mp3" type="audio/mp3" length="8510637"/>
+      <guid>1236522d-4c0d-4d7a-93c4-a450a8880fe8</guid>
+    </item>
   </channel>
 </rss>
