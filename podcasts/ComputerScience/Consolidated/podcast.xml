@@ -3125,5 +3125,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-06_cs:_i78a35dc1-f993-41ae-b914-010c3c02e712.mp3" type="audio/mp3" length="8746701"/>
       <guid>38c70aa4-3b2f-4f21-a266-3536702d66fe</guid>
     </item>
+    <item>
+      <title>2024-05-06 osf: Incredible Discoveries Revealed: From Executive Functions to Methane Monitoring and Citizen Activism in Altered Gravity!</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/kfqt4/download/ The factor structure of executive functions measured with electrophysiological correlates An event related potential analysis
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/54rd2/download/ Pondi A low cost logger for long term monitoring of methane carbon dioxide and nitrous oxide in aquatic and terrestrial systems 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/zb5df/download/ Citizen Scholar Chapter 7 Activism and Active Citizenship
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/xm2j9/download/ Physical Cognition in Altered Gravity Link Between Sensorimotor and Cognitive Adaptability
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/fw9q4/download/ Differential effects of everyday life social support on chronic pain</description>
+      <pubDate>Mon, 06 May 2024 08:31:04 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-06_osf:_bfe0f619-3689-40b5-94fb-17bbbd63e891.mp3" type="audio/mp3" length="10192365"/>
+      <guid>871cfb2d-05e3-47d3-92b3-6f96d89c4001</guid>
+    </item>
   </channel>
 </rss>
