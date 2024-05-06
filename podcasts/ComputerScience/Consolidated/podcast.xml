@@ -3114,5 +3114,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-04-29_q-finac4563ab-1e17-4849-ae9e-a5e778669041.mp3" type="audio/mp3" length="9611085"/>
       <guid>39e221a3-d400-4536-9912-51dc49ead81a</guid>
     </item>
+    <item>
+      <title>2024-05-06 cs: Incredible Breakthroughs in AI and Quantum Computing You Won't Believe!</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.02285 Title Special matrices over finite fields and their applications to quantum error correcting codes
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.02280 Title DreamScene4D Dynamic Multi Object Scene Generation from Monocular Videos
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.02267 Title Structural Pruning of Pre trained Language Models via Neural Architecture Search
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.02266 Title On the test time zero shot generalization of vision language models Do we really need prompt learning 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.02261 Title Comparing Personalized Relevance Algorithms for Directed Graphs</description>
+      <pubDate>Mon, 06 May 2024 08:27:41 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-06_cs:_i78a35dc1-f993-41ae-b914-010c3c02e712.mp3" type="audio/mp3" length="8746701"/>
+      <guid>38c70aa4-3b2f-4f21-a266-3536702d66fe</guid>
+    </item>
   </channel>
 </rss>
