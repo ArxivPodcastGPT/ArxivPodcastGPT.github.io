@@ -3136,5 +3136,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-06_osf:_bfe0f619-3689-40b5-94fb-17bbbd63e891.mp3" type="audio/mp3" length="10192365"/>
       <guid>871cfb2d-05e3-47d3-92b3-6f96d89c4001</guid>
     </item>
+    <item>
+      <title>2024-05-06 q-fin: &quot;You'll Never Believe the Breakthrough Transformations Happening in Finance and Investment Strategies!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.02170 Title Fourier Laplace transforms in polynomial Ornstein Uhlenbeck volatility models
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.02015 Title Evaluating Production Planning and Control Systems in Different Environments A Comparative Simulation Study
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.02012 Title Backtesting Expected Shortfall Accounting for both duration and severity with bivariate orthogonal polynomials
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.01892 Title Transforming Investment Strategies and Strategic Decision Making Unveiling a Novel Methodology for Enhanced Performance and Risk Management in Financial Markets
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.01881 Title Explainable Risk Classification in Financial Reports</description>
+      <pubDate>Mon, 06 May 2024 08:36:28 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-06_q-fin650b655a-c50f-49dc-a670-370de5b35fe1.mp3" type="audio/mp3" length="11189517"/>
+      <guid>0a068ca8-29da-4ba9-97f4-64d152c8aa3d</guid>
+    </item>
   </channel>
 </rss>
