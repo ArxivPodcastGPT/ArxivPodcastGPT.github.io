@@ -3147,5 +3147,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-06_q-fin650b655a-c50f-49dc-a670-370de5b35fe1.mp3" type="audio/mp3" length="11189517"/>
       <guid>0a068ca8-29da-4ba9-97f4-64d152c8aa3d</guid>
     </item>
+    <item>
+      <title>2024-05-13 osf: You Won't Believe What These Papers Reveal! Shocking Insights from IMSI Catchers, Corporate Compliance, Deception Procedures, and More!</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/tudc5/download/ The Impact of IMSI Catcher Deployments on Cellular Network Security Challenges and Countermeasures in 4G and 5G Networks
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/23a9x/download/ Managing Legal and Corporate Compliance to Induce and Enhance Business
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/9sbuh/download/ Supplementary analysis Deception procedures in Many Labs 1 to 3
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/gwbfc/download/ Konsep Inovasi Pendidikan dan Urgensi di Era Teknologi Informasi
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/qd2nh/download/ Telematics Tele Operated System</description>
+      <pubDate>Mon, 13 May 2024 08:28:40 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-13_osf:_89dec1f6-ac3f-4109-b9d9-5dd0b34c9705.mp3" type="audio/mp3" length="7740909"/>
+      <guid>c783e84d-aadc-43d8-a50d-243b890d1c03</guid>
+    </item>
   </channel>
 </rss>
