@@ -3180,5 +3180,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-20_osf:_5b0f4183-69df-4731-ad23-13fb5a459df8.mp3" type="audio/mp3" length="10307469"/>
       <guid>69847238-3014-4634-b6d2-df6573cc3f2c</guid>
     </item>
+    <item>
+      <title>2024-05-20 q-fin: &quot;You'll Never Believe What These 5 Groundbreaking Studies Uncovered!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.10920 Title Data generating process and time series asset pricing
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.10917 Title Is the annualized compounded return of Medallion over 35 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.10884 Title Road to perdition The effect of illicit drug use on labour market outcomes of prime age men in Mexico
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.10851 Title Bottom up approach to assess carbon emissions of battery electric vehicle operations in China
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.10762 Title Research on Credit Risk Early Warning Model of Commercial Banks Based on Neural Network Algorithm</description>
+      <pubDate>Mon, 20 May 2024 08:35:55 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-20_q-fin7f77ccee-b7bf-458d-a53a-bd38f99e0ba5.mp3" type="audio/mp3" length="9684621"/>
+      <guid>434d8f72-93d9-469c-aaf2-195e8303e771</guid>
+    </item>
   </channel>
 </rss>
