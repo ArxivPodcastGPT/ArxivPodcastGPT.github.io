@@ -3158,5 +3158,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-13_osf:_89dec1f6-ac3f-4109-b9d9-5dd0b34c9705.mp3" type="audio/mp3" length="7740909"/>
       <guid>c783e84d-aadc-43d8-a50d-243b890d1c03</guid>
     </item>
+    <item>
+      <title>2024-05-20 cs: &quot;You Won't Believe What These 5 Research Papers Reveal About the Future of AI and Language Models!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.10939 Title DINO as a von Mises Fisher mixture model
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.10938 Title Observational Scaling Laws and the Predictability of Language Model Performance
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.10936 Title A Survey on Large Language Models with Multilingualism Recent Advances and New Frontiers
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.10934 Title Reconstruction of Manipulated Garment with Guided Deformation Prior
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.10931 Title FitNets An Adaptive Framework to Learn Accurate Traffic Distributions</description>
+      <pubDate>Mon, 20 May 2024 08:29:02 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-20_cs:_&quot;0d860759-b82d-4116-b1cc-217051b68a65.mp3" type="audio/mp3" length="8925837"/>
+      <guid>27c95340-b05d-4ed5-b539-b5aa30bc7d95</guid>
+    </item>
   </channel>
 </rss>
