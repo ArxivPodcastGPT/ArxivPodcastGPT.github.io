@@ -3169,5 +3169,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-20_cs:_&quot;0d860759-b82d-4116-b1cc-217051b68a65.mp3" type="audio/mp3" length="8925837"/>
       <guid>27c95340-b05d-4ed5-b539-b5aa30bc7d95</guid>
     </item>
+    <item>
+      <title>2024-05-20 osf: You Won't Believe These ChatGPT-Generated Podcast Titles About Fascinating Research Across Psychology, Linguistics, and Demography!</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/yn4zv/download/ Psychological reactance to system level policies before and after their implementation
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/ra82e/download/ Semantic Interference in Blocked Picture Naming Does It Become Cumulative with Large Local Response Sets 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/75ezm/download/ Dominant paradigms in the field of mindset
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/rdfqn/download/ Accounting for Geographic Variation in English Period Fertility
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/tduab/download/ Language like efficiency in whale communication</description>
+      <pubDate>Mon, 20 May 2024 08:32:43 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-20_osf:_5b0f4183-69df-4731-ad23-13fb5a459df8.mp3" type="audio/mp3" length="10307469"/>
+      <guid>69847238-3014-4634-b6d2-df6573cc3f2c</guid>
+    </item>
   </channel>
 </rss>
