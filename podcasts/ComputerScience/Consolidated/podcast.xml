@@ -3213,5 +3213,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-27_osf:_19e7889a-f8f9-4e2f-8948-9d1935886a06.mp3" type="audio/mp3" length="9876909"/>
       <guid>a5265ddc-a700-4a9f-b328-18fcda2b0b29</guid>
     </item>
+    <item>
+      <title>2024-05-27 q-fin: &quot;You'll Never Guess How These 5 Surprising Studies Could Change the Way You Think About the Economy, Gender Equality, and Music Demand!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.15672 Title Serving economic prosperity economic impact assessments EIA on Earth observation based services and tools by SERVIR
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.15486 Title Digital finance Bargaining Power and Gender Wage Gap
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.14999 Title The Impact of Social Media on Music Demand Evidence from a Quasi Natural Experiment
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.15721 Title Dynamic Latent Factor Model with High Dimensional Asset Characteristics
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.15461 Title Optimal market neutral currency trading on the cryptocurrency platform</description>
+      <pubDate>Mon, 27 May 2024 08:36:08 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-27_q-fin5f6ea48b-56fa-458b-a85a-8049bc30809c.mp3" type="audio/mp3" length="10054893"/>
+      <guid>0f23fbdc-c213-4ecf-9a49-dd478cb1bc0a</guid>
+    </item>
   </channel>
 </rss>
