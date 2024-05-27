@@ -3191,5 +3191,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-20_q-fin7f77ccee-b7bf-458d-a53a-bd38f99e0ba5.mp3" type="audio/mp3" length="9684621"/>
       <guid>434d8f72-93d9-469c-aaf2-195e8303e771</guid>
     </item>
+    <item>
+      <title>2024-05-27 cs: &quot;You Won't Believe These 5 Revolutionary Breakthroughs That Are Changing the World of AI and Beyond!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.15769 Title FastDrag Manipulate Anything in One Step
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.15767 Title Improved Particle Approximation Error for Mean Field Neural Networks
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.15766 Title Enhancing Adverse Drug Event Detection with Multimodal Dataset Corpus Creation and Model Development
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.15765 Title Scaling Laws for Discriminative Classification in Large Language Models
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.15763 Title FreeMotion A Unified Framework for Number free Text to Motion Synthesis</description>
+      <pubDate>Mon, 27 May 2024 08:29:12 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-27_cs:_&quot;c6bd0c64-9725-469f-b5df-be9e5e6d70f7.mp3" type="audio/mp3" length="8701197"/>
+      <guid>bd49d74e-ae73-47b7-91d0-377949eae6ec</guid>
+    </item>
   </channel>
 </rss>
