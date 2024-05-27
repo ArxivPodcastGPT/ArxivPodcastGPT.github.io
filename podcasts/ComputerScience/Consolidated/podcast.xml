@@ -3202,5 +3202,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-27_cs:_&quot;c6bd0c64-9725-469f-b5df-be9e5e6d70f7.mp3" type="audio/mp3" length="8701197"/>
       <guid>bd49d74e-ae73-47b7-91d0-377949eae6ec</guid>
     </item>
+    <item>
+      <title>2024-05-27 osf: &quot;Groundbreaking Research Uncovers Surprising Insights: From Autism's Impact on Speech Perception to the Complexities of Chronic Illness and Urban Political Change&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/qdru7/download/ Pavlovian bias instigates suboptimal choices
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/dyj3c/download/ Difficulties perceiving speech in non social noise in children and adolescents with autism spectrum disorder
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/k8cpw/download/  I already have a job getting through the day Energy limiting chronic illness social inclusion employment and social security
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/y6qpj/download/ Cities Urbanization and Political Change
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/nm5xw/download/ Speech development between 30 and 119 months in typical children III Interaction between speaking rate and intelligibility</description>
+      <pubDate>Mon, 27 May 2024 08:32:51 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-27_osf:_19e7889a-f8f9-4e2f-8948-9d1935886a06.mp3" type="audio/mp3" length="9876909"/>
+      <guid>a5265ddc-a700-4a9f-b328-18fcda2b0b29</guid>
+    </item>
   </channel>
 </rss>
