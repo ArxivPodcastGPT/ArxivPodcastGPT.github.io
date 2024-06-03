@@ -3224,5 +3224,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-05-27_q-fin5f6ea48b-56fa-458b-a85a-8049bc30809c.mp3" type="audio/mp3" length="10054893"/>
       <guid>0f23fbdc-c213-4ecf-9a49-dd478cb1bc0a</guid>
     </item>
+    <item>
+      <title>2024-06-03 cs: &quot;You Won't Believe What These Groundbreaking AI Papers Can Do!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.21075 Title Video MME The First Ever Comprehensive Evaluation Benchmark of Multi modal LLMs in Video Analysis
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.21070 Title Generalization Beyond Data Imbalance A Controlled Study on CLIP for Transferable Insights
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.21068 Title Code Pretraining Improves Entity Tracking Abilities of Language Models
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.21066 Title Mixed Diffusion for 3D Indoor Scene Synthesis
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.21064 Title Recurrent neural networks vanishing and exploding gradients are not the end of the story</description>
+      <pubDate>Mon, 03 Jun 2024 08:30:01 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-03_cs:_&quot;173164c0-03bc-4d2d-b945-1e190d441881.mp3" type="audio/mp3" length="11158317"/>
+      <guid>675d6808-3519-4a7d-b7b7-c0ccef3ec0e6</guid>
+    </item>
   </channel>
 </rss>
