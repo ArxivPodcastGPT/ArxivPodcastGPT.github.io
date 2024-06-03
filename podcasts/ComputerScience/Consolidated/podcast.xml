@@ -3246,5 +3246,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-03_osf:_bed7e697-c8cf-483d-a65f-25c8f774aca7.mp3" type="audio/mp3" length="9542445"/>
       <guid>7db00e57-2ce5-4fc0-b5a5-5d92fc7177f8</guid>
     </item>
+    <item>
+      <title>2024-06-03 q-fin: Shocking Discoveries in Airport Logistics, Economic Trends, and Risk Management Practices - You Won't Believe What Happened Next!</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.20912 Title A Branch Price Cut And Switch Approach for Optimizing Team Formation and Routing for Airport Baggage Handling Tasks with Stochastic Travel Times
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.20822 Title Inflation Determinants in Argentina 2004 2022 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.20688 Title Analisis cuantitativo de riesgos utilizando MCSimulRisk como herramienta didactica
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.20679 Title Beyond probability impact matrices in project risk management A quantitative methodology for risk prioritisation
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2405.20604 Title Tracking the Credibility Revolution across Fields</description>
+      <pubDate>Mon, 03 Jun 2024 08:36:22 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-03_q-fina9c8137e-139e-479e-bdd7-657506dd7219.mp3" type="audio/mp3" length="9361581"/>
+      <guid>fff8237d-cfbf-42db-a42e-bb8322ec930f</guid>
+    </item>
   </channel>
 </rss>
