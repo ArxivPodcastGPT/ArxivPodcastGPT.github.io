@@ -3235,5 +3235,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-03_cs:_&quot;173164c0-03bc-4d2d-b945-1e190d441881.mp3" type="audio/mp3" length="11158317"/>
       <guid>675d6808-3519-4a7d-b7b7-c0ccef3ec0e6</guid>
     </item>
+    <item>
+      <title>2024-06-03 osf: &quot;Unbelievable Insights: From Retaliatory Incivility to Indigenous Healing, Sentence Interpretation, and Taming Language Model Hallucinations&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/6fd7h/download/ Two Wrongs Make 1 Right The Role of Retaliatory Incivility in Conferring Social Rewards
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/3vrpg/download/ A Conversation on Indigenous Healing and Joy in an Urban Indigenous Landscape
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/wbsgv/download/ Multiple paths to sentence interpretation Case studies of older adults and persons with aphasia
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/exjqb/download/ Reducing Hallucinations in Large Language Models Through Contextual Position Encoding
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/wbqdn/download/ Where do cognitive and neurodevelopmental disorders fit in dimensional models of psychopathology </description>
+      <pubDate>Mon, 03 Jun 2024 08:33:24 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-03_osf:_bed7e697-c8cf-483d-a65f-25c8f774aca7.mp3" type="audio/mp3" length="9542445"/>
+      <guid>7db00e57-2ce5-4fc0-b5a5-5d92fc7177f8</guid>
+    </item>
   </channel>
 </rss>
