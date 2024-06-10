@@ -3279,5 +3279,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-10_osf:_54a59b87-6e3b-4832-9385-7acf30fad340.mp3" type="audio/mp3" length="9594477"/>
       <guid>32e5606a-d1a8-483a-8763-69a6bb14904b</guid>
     </item>
+    <item>
+      <title>2024-06-10 q-fin: &quot;You'll Never Believe What These 5 Groundbreaking Papers on Modeling, Forecasting, and Optimizing Complex Systems Have in Common!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.05094 Title Investigating the price determinants of the European Emission Trading System a non parametric approach
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.04969 Title An Algebraic Framework for the Modeling of Limit Order Books
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.04439 Title A simulation optimization framework for food supply chain network design to ensure food accessibility under uncertainty
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.04390 Title Sensitivity Assessing to Data Volume for forecasting introducing similarity methods as a suitable one in Feature selection methods
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.04074 Title Estimation of Global Building Stocks by 2070 Unlocking Renovation Potential</description>
+      <pubDate>Mon, 10 Jun 2024 08:35:55 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-10_q-finbe0794e8-5f5d-489e-8fa5-5011dc9c095b.mp3" type="audio/mp3" length="8145165"/>
+      <guid>c0da55b6-0695-460f-80a0-bb08af1b2758</guid>
+    </item>
   </channel>
 </rss>
