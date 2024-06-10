@@ -3257,5 +3257,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-03_q-fina9c8137e-139e-479e-bdd7-657506dd7219.mp3" type="audio/mp3" length="9361581"/>
       <guid>fff8237d-cfbf-42db-a42e-bb8322ec930f</guid>
     </item>
+    <item>
+      <title>2024-06-10 cs: &quot;You Won't Believe What These Groundbreaking Papers Can Do for 3D, Video, Language Models, and Image Compression!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.05132 Title 3D GRAND Towards Better Grounding and Less Hallucination for 3D LLMs
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.05131 Title DVOS Self Supervised Dense Pattern Video Object Segmentation
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.05130 Title An Empirical Study on Parameter Efficient Fine Tuning for MultiModal Large Language Models
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.05129 Title PatchSVD A Non uniform SVD based Image Compression Algorithm
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.05127 Title Towards Semantic Equivalence of Tokenization in Multimodal LLM</description>
+      <pubDate>Mon, 10 Jun 2024 08:29:58 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-10_cs:_&quot;414c788c-033d-4446-af7f-2a437cb22eba.mp3" type="audio/mp3" length="9480621"/>
+      <guid>245a99bc-1ea2-49d4-8801-63dafa599ba6</guid>
+    </item>
   </channel>
 </rss>
