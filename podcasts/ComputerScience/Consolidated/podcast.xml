@@ -3301,5 +3301,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-17_cs:_g0d54b667-b7c3-4e20-8aea-ea3bb50c942c.mp3" type="audio/mp3" length="10246029"/>
       <guid>628e4882-a1f8-4e27-a16d-0ec9d6813953</guid>
     </item>
+    <item>
+      <title>2024-06-17 osf: You Won't Believe What These ChatGPT Podcast Analyses Discovered About Shared Mobility, Financial Intelligence, and Urban Diversity!</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/bd8p4/download/  I want to ride my bicycle analysing shared mobility in Italy
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/7wfte/download/ How Perceived Causal Networks PECAN can complement case conceptualization diagnostic classification and data based networks An introduction to a method for constructing personalized networks
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/3xena/download/ Enhancing Financial Intelligence AI Robo Advisors for Strategic Investment Decisions
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/w87yb/download/ How Changes In Urban Mobility Affect Experienced Urban Diversity Case Study For Scenarios In Wellington
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/dsx7w/download/ An Author Fluency Task Semantic fluency as predictor of L2 vocabulary knowledge</description>
+      <pubDate>Mon, 17 Jun 2024 08:33:50 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-17_osf:_ec766dbd-c00f-4f26-9bcc-d812f25730eb.mp3" type="audio/mp3" length="7786701"/>
+      <guid>cf581f6d-5702-4717-a8a8-3a5fa27c3b51</guid>
+    </item>
   </channel>
 </rss>
