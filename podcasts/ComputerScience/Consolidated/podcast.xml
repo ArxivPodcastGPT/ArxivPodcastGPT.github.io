@@ -3290,5 +3290,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-10_q-finbe0794e8-5f5d-489e-8fa5-5011dc9c095b.mp3" type="audio/mp3" length="8145165"/>
       <guid>c0da55b6-0695-460f-80a0-bb08af1b2758</guid>
     </item>
+    <item>
+      <title>2024-06-17 cs: Groundbreaking Advancements in AI: From Benchmark Insights to Innovative Multimodal Models</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.10229 Title Quantifying Variance in Evaluation Benchmarks
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.10228 Title VEGA Learning Interleaved Image Text Comprehension in Vision Language Large Models
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.10227 Title VideoGUI A Benchmark for GUI Automation from Instructional Videos
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.10225 Title SatDiffMoE A Mixture of Estimation Method for Satellite Image Super resolution with Latent Diffusion Models
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.10224 Title EFM3D A Benchmark for Measuring Progress Towards 3D Egocentric Foundation Models</description>
+      <pubDate>Mon, 17 Jun 2024 08:30:07 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-17_cs:_g0d54b667-b7c3-4e20-8aea-ea3bb50c942c.mp3" type="audio/mp3" length="10246029"/>
+      <guid>628e4882-a1f8-4e27-a16d-0ec9d6813953</guid>
+    </item>
   </channel>
 </rss>
