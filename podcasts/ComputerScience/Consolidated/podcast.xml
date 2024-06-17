@@ -3312,5 +3312,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-17_osf:_ec766dbd-c00f-4f26-9bcc-d812f25730eb.mp3" type="audio/mp3" length="7786701"/>
       <guid>cf581f6d-5702-4717-a8a8-3a5fa27c3b51</guid>
     </item>
+    <item>
+      <title>2024-06-17 q-fin: &quot;You Won't Believe What These 5 Groundbreaking Studies Reveal About Finance, Economics, and Higher Education!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.10136 Title Rationalizability Cost Rationalizability and Afriat s Efficiency Index
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.09959 Title Computation of Robust Option Prices via Structured Multi Marginal Martingale Optimal Transport
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.09765 Title Application of Natural Language Processing in Financial Risk Detection
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.09578 Title Dynamic Asset Allocation with Asset Specific Regime Forecasts
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.09554 Title California Community Colleges Designing mentoring networks for access to social capital</description>
+      <pubDate>Mon, 17 Jun 2024 08:37:14 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-17_q-fin0a12db9d-b647-4fa3-8398-33b3c6441d2e.mp3" type="audio/mp3" length="9342477"/>
+      <guid>79cc2147-5e87-4b5d-a6be-86dcba125c4c</guid>
+    </item>
   </channel>
 </rss>
