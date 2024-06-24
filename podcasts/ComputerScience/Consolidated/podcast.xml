@@ -3334,5 +3334,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-24_cs:_y967c1733-c5b1-410f-a0fd-1d0c0ae5f807.mp3" type="audio/mp3" length="9299469"/>
       <guid>10f5fac6-2168-4efd-9137-245b14924b6b</guid>
     </item>
+    <item>
+      <title>2024-06-24 osf: Unbelievable Discoveries: From Language Models to Child Development, Absurdism, and Global Care Policy</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/fqkgn/download/ Do Large Language Models Understand Verbal Indicators of Romantic Attraction 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/tn83e/download/ 15 month olds understanding of imitation in social and instrumental contexts
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/hp7cy/download/ Between Philosophy and Poetry Camus Absurdism through Tagore s Lens
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/py5aw/download/ Integrating Focal Vulnerability into Trust Research
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/cmqke/download/ Global Care Policy Index 2024 Country Report Kazakhstan</description>
+      <pubDate>Mon, 24 Jun 2024 08:32:28 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-24_osf:_b5561338-b964-44ff-9ede-cd860187dcdf.mp3" type="audio/mp3" length="8926989"/>
+      <guid>9708482c-687a-4eb3-83b0-d64631ec1b97</guid>
+    </item>
   </channel>
 </rss>
