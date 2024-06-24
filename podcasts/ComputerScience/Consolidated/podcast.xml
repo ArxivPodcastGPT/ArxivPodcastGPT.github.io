@@ -3345,5 +3345,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-24_osf:_b5561338-b964-44ff-9ede-cd860187dcdf.mp3" type="audio/mp3" length="8926989"/>
       <guid>9708482c-687a-4eb3-83b0-d64631ec1b97</guid>
     </item>
+    <item>
+      <title>2024-06-24 q-fin: &quot;You Won't Believe What These Researchers Uncovered About Bonds, Models, Data Breaches, and the Energy Transition!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.15197 Title Fiduciary Duty in the Municipal Bonds Market
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.14776 Title Lessons From Model Risk Management in Financial Institutions for Academic Research
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.15215 Title Sound and Fury Signifying Nothing Impact of Data Breach Disclosure Laws
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.14382 Title Identification of fiscal SVAR IVs in small open economies
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.14238 Title The Economics of Coal Phaseouts Auctions as a Novel Policy Instrument for the Energy Transition</description>
+      <pubDate>Mon, 24 Jun 2024 08:35:49 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-24_q-fin45c37d18-a92a-4c8d-9eb6-04c1c2f4408a.mp3" type="audio/mp3" length="10721709"/>
+      <guid>aabce895-e452-4759-8ca1-6d3218f1c567</guid>
+    </item>
   </channel>
 </rss>
