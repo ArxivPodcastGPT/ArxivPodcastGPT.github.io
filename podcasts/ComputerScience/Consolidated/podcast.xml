@@ -3323,5 +3323,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-17_q-fin0a12db9d-b647-4fa3-8398-33b3c6441d2e.mp3" type="audio/mp3" length="9342477"/>
       <guid>79cc2147-5e87-4b5d-a6be-86dcba125c4c</guid>
     </item>
+    <item>
+      <title>2024-06-24 cs: You Won't Believe These Incredible Advancements in AI and Machine Learning!</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.15352 Title A SMART Mnemonic Sounds like Glue Tonic Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.15349 Title NAVSIM Data Driven Non Reactive Autonomous Vehicle Simulation and Benchmarking
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.15346 Title Privacy Preserved Blood Glucose Level Cross Prediction An Asynchronous Decentralized Federated Learning Approach
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.15341 Title GenoTEX A Benchmark for Evaluating LLM Based Exploration of Gene Expression Data in Alignment with Bioinformaticians
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.15339 Title Image Conductor Precision Control for Interactive Video Synthesis</description>
+      <pubDate>Mon, 24 Jun 2024 08:29:26 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-24_cs:_y967c1733-c5b1-410f-a0fd-1d0c0ae5f807.mp3" type="audio/mp3" length="9299469"/>
+      <guid>10f5fac6-2168-4efd-9137-245b14924b6b</guid>
+    </item>
   </channel>
 </rss>
