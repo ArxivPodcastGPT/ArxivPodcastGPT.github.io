@@ -3356,5 +3356,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-06-24_q-fin45c37d18-a92a-4c8d-9eb6-04c1c2f4408a.mp3" type="audio/mp3" length="10721709"/>
       <guid>aabce895-e452-4759-8ca1-6d3218f1c567</guid>
     </item>
+    <item>
+      <title>2024-07-01 cs: &quot;You Won't Believe What These AI Researchers Are Cooking Up! (Spoiler Alert: It's Mind-Blowing)&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.20099 Title Odd One Out Anomaly Detection by Comparing with Neighbors
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.20098 Title Web2Code A Large scale Webpage to Code Dataset and Evaluation Framework for Multimodal LLMs
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.20095 Title LLaRA Supercharging Robot Learning Data for Vision Language Policy
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.20094 Title Scaling Synthetic Data Creation with 1 000 000 000 Personas
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2406.20092 Title LLaVolta Efficient Multi modal Models via Stage wise Visual Context Compression</description>
+      <pubDate>Mon, 01 Jul 2024 08:30:20 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-01_cs:_&quot;da377e53-0702-47aa-a0b1-024957f558ed.mp3" type="audio/mp3" length="11308461"/>
+      <guid>4f822f7d-fde7-42cd-bb6c-4aacb4643cab</guid>
+    </item>
   </channel>
 </rss>
