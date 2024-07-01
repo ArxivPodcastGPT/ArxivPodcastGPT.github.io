@@ -3367,5 +3367,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-01_cs:_&quot;da377e53-0702-47aa-a0b1-024957f558ed.mp3" type="audio/mp3" length="11308461"/>
       <guid>4f822f7d-fde7-42cd-bb6c-4aacb4643cab</guid>
     </item>
+    <item>
+      <title>2024-07-01 osf: Groundbreaking Discoveries: Emotions, Mental Health, and the Future of Psychological Science Revealed in Captivating Podcasts</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/h2xts/download/ Because it is fun Individual differences in effort enjoyment beliefs relate to behavioural and physiological indicators of effort seeking
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/y5asq/download/ Resting state Functional Connectivity for Major Depressive Disorder Using Electroencephalography A Deep Learning Approach
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/y27pz/download/ Autistic adults experiences seeking and receiving support for mental health and suicidality
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/8ydc6/download/ Robust Statistical Methods and the Credibility Movement of Psychological Science
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/fqzd2/download/ Who is We Capturing European Identity Content by Integrating Qualitative Methods in Survey Based Approaches</description>
+      <pubDate>Mon, 01 Jul 2024 08:34:50 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-01_osf:_db9169c0-4396-4deb-a898-2f3808bd01bd.mp3" type="audio/mp3" length="9536877"/>
+      <guid>e3050231-e962-4cf6-a874-580a117ec74b</guid>
+    </item>
   </channel>
 </rss>
