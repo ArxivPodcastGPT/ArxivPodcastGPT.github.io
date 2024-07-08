@@ -3411,5 +3411,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-08_osf:_cc0005bb-d134-465a-9dc7-4db028528aec.mp3" type="audio/mp3" length="10181901"/>
       <guid>eb28e311-ec2e-4e59-931e-4d2cc1ea36bd</guid>
     </item>
+    <item>
+      <title>2024-07-08 q-fin: &quot;Mind-Blowing Discoveries in Quantum Finance, AI-Powered Market Analysis, and Dynamic Modeling Breakthroughs!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.04520 Title Modelling Uncertain Volatility Using Quantum Stochastic Calculus Unitary vs Non Unitary Time Evolution
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.04500 Title Longitudinal market structure detection using a dynamic modularity spectral algorithm
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.04227 Title Simple method for efficiently solving dynamic models with continuous actions using policy gradient
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.04088 Title Artificial Intelligence and Algorithmic Price Collusion in Two sided Markets
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.03960 Title The second order Esscher martingale densities for continuous time market models</description>
+      <pubDate>Mon, 08 Jul 2024 08:39:57 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-08_q-fin2656bd77-8c45-44dc-a8c6-949640bb6c21.mp3" type="audio/mp3" length="9013773"/>
+      <guid>f1581526-7338-4c79-809d-61feeef48a5e</guid>
+    </item>
   </channel>
 </rss>
