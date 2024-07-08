@@ -3400,5 +3400,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-08_cs:_&quot;b45ad336-cc25-4fc8-9481-8b883ea70b42.mp3" type="audio/mp3" length="8873613"/>
       <guid>68cf035c-ca67-4da0-9c2e-97fc94e19edc</guid>
     </item>
+    <item>
+      <title>2024-07-08 osf: The Shocking Discoveries That Will Blow Your Mind: Exploring the Limits of Human Flexibility, the Future of Revolutionary Media, Lightness Illusions, and the Benefits of Reducing Working Memory Interference</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/hgfsq/download/ Beyond independent latent classes Testing the limits of human flexibility
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/gd5q2/download/ Can Revolutionary Media Be Made Online 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/ty6e7/download/ The relationship of lightness illusions uncovered by individual differences and its advantage in model evaluation
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/s8kcz/download/ The Benefit of Removing Information from Working Memory Increasing Available Cognitive Resources or Reducing Interference 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/cfvq9/download/ Perceived risk utility tradeoffs of medical technology A visual mapping</description>
+      <pubDate>Mon, 08 Jul 2024 08:36:06 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-08_osf:_cc0005bb-d134-465a-9dc7-4db028528aec.mp3" type="audio/mp3" length="10181901"/>
+      <guid>eb28e311-ec2e-4e59-931e-4d2cc1ea36bd</guid>
+    </item>
   </channel>
 </rss>
