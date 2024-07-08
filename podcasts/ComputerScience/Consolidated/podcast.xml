@@ -3389,5 +3389,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-01_q-fin52ce3cdb-a5e2-43b4-a276-6d4c816bebf6.mp3" type="audio/mp3" length="10468845"/>
       <guid>5e46e851-442f-4ce7-a5cb-7d03b1c087f8</guid>
     </item>
+    <item>
+      <title>2024-07-08 cs: &quot;You Won't Believe the Cutting-Edge Advances in Radiance Fields, Video Composition, Situational Awareness, and Analytical Hallucination Annotation!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.04699 Title LaRa Efficient Large Baseline Radiance Fields
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.04697 Title VCoME Verbal Video Composition with Multimodal Editing Effects
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.04694 Title Me Myself and AI The Situational Awareness Dataset SAD for LLMs
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.04693 Title ANAH v2 Scaling Analytical Hallucination Annotation of Large Language Models
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.04690 Title Missed Causes and Ambiguous Effects Counterfactuals Pose Challenges for Interpreting Neural Networks</description>
+      <pubDate>Mon, 08 Jul 2024 08:30:15 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-08_cs:_&quot;b45ad336-cc25-4fc8-9481-8b883ea70b42.mp3" type="audio/mp3" length="8873613"/>
+      <guid>68cf035c-ca67-4da0-9c2e-97fc94e19edc</guid>
+    </item>
   </channel>
 </rss>
