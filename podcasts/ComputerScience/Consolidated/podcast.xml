@@ -3444,5 +3444,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-15_osf:_61fca552-28e4-45bc-8feb-f913a1502245.mp3" type="audio/mp3" length="10088205"/>
       <guid>bc29b053-8088-4a69-bac1-030ec15910d7</guid>
     </item>
+    <item>
+      <title>2024-07-15 q-fin: Shocking Revelations in the World of Finance: Unraveling the Mysteries of Asset Pricing, Portfolio Selection, and Risk Management!</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.09340 Title Modelling shock propagation and resilience in financial temporal networks
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.08953 Title Attribution Methods in Asset Pricing Do They Account for Risk 
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.08748 Title Covariance Matrix Analysis for Optimal Portfolio Selection
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.09471 Title A new approach to principal agent problems with volatility control
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.09321 Title A note on Skew Brownian Motion with two valued drift and an application</description>
+      <pubDate>Mon, 15 Jul 2024 08:37:49 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-15_q-fin5331dfe4-825e-494f-a9c2-8ee93a802359.mp3" type="audio/mp3" length="9713037"/>
+      <guid>7bbf471b-15a6-44b5-8c9d-9f59ed7a4966</guid>
+    </item>
   </channel>
 </rss>
