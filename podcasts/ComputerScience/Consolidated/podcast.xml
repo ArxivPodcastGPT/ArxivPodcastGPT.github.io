@@ -3433,5 +3433,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-15_cs:_&quot;cab7d694-f251-4eaf-94b3-0ff5eeabd59f.mp3" type="audio/mp3" length="10701549"/>
       <guid>53e52c33-90c5-43db-b52b-eb40aeaf63b3</guid>
     </item>
+    <item>
+      <title>2024-07-15 osf: You won't BELIEVE what ChatGPT has to say about these studies! Emotions, video games, finance, and sports - it's all here in one mind-blowing podcast series.</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/6ezsa/download/ Emotion Prediction and Social Consequences in Elevated Schizotypy
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/3srcw/download/ Perceived value of video games but not hours played predicts mental well being in adult Nintendo players
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/ma2hx/download/ Portfolio Management Using the Complex Wishart Distribution
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/5wt3h/download/ Unraveling the threads controlling Pakistan s gendered Nation building Ideology
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/https://osf.io/bw8rf/download/ Passion and engagement in sport A look at athletes and coaches using a quadripartite approach</description>
+      <pubDate>Mon, 15 Jul 2024 08:34:57 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-15_osf:_61fca552-28e4-45bc-8feb-f913a1502245.mp3" type="audio/mp3" length="10088205"/>
+      <guid>bc29b053-8088-4a69-bac1-030ec15910d7</guid>
+    </item>
   </channel>
 </rss>
