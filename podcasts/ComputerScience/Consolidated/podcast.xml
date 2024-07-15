@@ -3422,5 +3422,16 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-08_q-fin2656bd77-8c45-44dc-a8c6-949640bb6c21.mp3" type="audio/mp3" length="9013773"/>
       <guid>f1581526-7338-4c79-809d-61feeef48a5e</guid>
     </item>
+    <item>
+      <title>2024-07-15 cs: &quot;You Won't Believe What These Cutting-Edge AI Breakthroughs Can Do!&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.09475 Title Adaptive Prediction Ensemble Improving Out of Distribution Generalization of Motion Forecasting
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.09469 Title Learning Coordinated Maneuver in Adversarial Environments
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.09467 Title FairyLandAI Personalized Fairy Tales utilizing ChatGPT and DALLE 3
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.09466 Title TRAVERSE Traffic Responsive Autonomous Vehicle Experience Rare event Simulation for Enhanced safety
+ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for https://arxiv.org/abs/2407.09463 Title Interactive Coding with Unbounded Noise</description>
+      <pubDate>Mon, 15 Jul 2024 08:31:44 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-15_cs:_&quot;cab7d694-f251-4eaf-94b3-0ff5eeabd59f.mp3" type="audio/mp3" length="10701549"/>
+      <guid>53e52c33-90c5-43db-b52b-eb40aeaf63b3</guid>
+    </item>
   </channel>
 </rss>
