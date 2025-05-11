@@ -3455,5 +3455,12 @@ ChatGPT generated podcast using model=ANTHROPIC/claude-3-haiku-20240307 for http
       <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2024-07-15_q-fin5331dfe4-825e-494f-a9c2-8ee93a802359.mp3" type="audio/mp3" length="9713037"/>
       <guid>7bbf471b-15a6-44b5-8c9d-9f59ed7a4966</guid>
     </item>
+    <item>
+      <title>2025-05-11 cs.GT: &quot;Unfair Shares No More: The Revolution in Dividing Resources and Houses Fairly&quot;</title>
+      <description>ChatGPT generated podcast using model=ANTHROPIC/claude-3-7-sonnet-20250219, voices=[[OpenAITTS] voice='coral' model='gpt-4o-mini-tts', [OpenAITTS] voice='fable' model='gpt-4o-mini-tts'] for https://arxiv.org/abs/2505.05353 Title Weighted Envy Freeness Revisited Indivisible Resource and House Allocations</description>
+      <pubDate>Sun, 11 May 2025 08:34:10 GMT</pubDate>
+      <enclosure url="https://ArxivPodcastGPT.github.io/podcasts/audio/2025-05-11_cs.gtd0c207dc-444d-458c-908f-5be5756ae242.mp3" type="audio/mp3" length="4655756"/>
+      <guid>80d61ce2-ebb2-40bc-9f66-6698cb35d1e8</guid>
+    </item>
   </channel>
 </rss>
